@@ -4,13 +4,19 @@ Static site for daily news vocabulary (10 words per day). Hosted on GitHub Pages
 
 **Live:** https://mrjkorea.github.io/news-word-practice/
 
-## Pages
+## Marketing paste (YouTube)
 
-| Page | URL |
-|------|-----|
-| Date index | `index.html` |
-| Flip-card practice | `practice.html?date=YYYY-MM-DD` |
-| Multiple-choice test | `test.html?date=YYYY-MM-DD` |
+Index:
+https://mrjkorea.github.io/news-word-practice/
+
+That day’s words:
+https://mrjkorea.github.io/news-word-practice/?date=YYYY-MM-DD
+
+Also:
+- Practice cards: `practice.html?date=YYYY-MM-DD`
+- Scored test: `test.html?date=YYYY-MM-DD`
+
+Do not send news viewers to `https://mrjkorea.github.io/word-master/` (Nouns 1–100).
 
 ## Add a new day
 

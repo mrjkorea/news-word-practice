@@ -31,10 +31,19 @@
   <script>
     const list = document.getElementById('list');
     const today = NWPStorage.todayKey();
+    const wanted = new URLSearchParams(location.search).get('date');
 
     NWP.loadIndex()
       .then((days) => {
         list.innerHTML = '';
+        if (wanted) {
+          const hit = days.filter((e) => (e.date || e.id) === wanted);
+          const rest = days.filter((e) => (e.date || e.id) !== wanted);
+          if (!hit.length) {
+            list.innerHTML = '<li class="meta">No word pack for ' + NWP.esc(wanted) + '</li>';
+          }
+          days = hit.concat(rest);
+        }
         days.forEach((entry) => {
           const date = entry.date || entry.id;
           const stats = NWPStorage.readStats(date);

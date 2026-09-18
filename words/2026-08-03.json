@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-03",
+  "date": "2026-08-03",
+  "title": "News Words · 2026-08-03",
+  "headline": "ceuta-migrant-rush",
+  "words": [
+    {
+      "id": "w1",
+      "en": "enclave",
+      "ko": [],
+      "def_en": "A part of a country that is completely surrounded by another country.",
+      "example": "Today's news uses the word enclave."
+    },
+    {
+      "id": "w2",
+      "en": "migrant",
+      "ko": [],
+      "def_en": "A person who moves from one place to another often to find work or better conditions.",
+      "example": "Today's news uses the word migrant."
+    },
+    {
+      "id": "w3",
+      "en": "border",
+      "ko": [],
+      "def_en": "The official line that separates two countries or regions.",
+      "example": "Today's news uses the word border."
+    },
+    {
+      "id": "w4",
+      "en": "sovereignty",
+      "ko": [],
+      "def_en": "The full right and power of a country to govern itself.",
+      "example": "Today's news uses the word sovereignty."
+    },
+    {
+      "id": "w5",
+      "en": "surge",
+      "ko": [],
+      "def_en": "A sudden powerful forward movement or increase.",
+      "example": "Today's news uses the word surge."
+    },
+    {
+      "id": "w6",
+      "en": "repatriation",
+      "ko": [],
+      "def_en": "The act of sending someone back to their own country.",
+      "example": "Today's news uses the word repatriation."
+    },
+    {
+      "id": "w7",
+      "en": "territory",
+      "ko": [],
+      "def_en": "Land that is controlled by a particular country or ruler.",
+      "example": "Today's news uses the word territory."
+    },
+    {
+      "id": "w8",
+      "en": "crush",
+      "ko": [],
+      "def_en": "To press something so hard that it breaks or is damaged.",
+      "example": "Today's news uses the word crush."
+    },
+    {
+      "id": "w9",
+      "en": "violate",
+      "ko": [],
+      "def_en": "To break a rule law or agreement.",
+      "example": "Today's news uses the word violate."
+    },
+    {
+      "id": "w10",
+      "en": "voluntary",
+      "ko": [],
+      "def_en": "Done willingly without being forced.",
+      "example": "Today's news uses the word voluntary."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A part of a country that is completely surrounded by another country. — which word?",
+      "choices": [
+        "migrant",
+        "enclave",
+        "surge",
+        "repatriation"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A part of a country that is completely surrounded by another country."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A person who moves from one place to another often to find work or better conditions. — which word?",
+      "choices": [
+        "migrant",
+        "territory",
+        "violate",
+        "border"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A person who moves from one place to another often to find work or better conditions."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "The official line that separates two countries or regions. — which word?",
+      "choices": [
+        "border",
+        "violate",
+        "territory",
+        "enclave"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The official line that separates two countries or regions."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The full right and power of a country to govern itself. — which word?",
+      "choices": [
+        "enclave",
+        "migrant",
+        "crush",
+        "sovereignty"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The full right and power of a country to govern itself."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A sudden powerful forward movement or increase. — which word?",
+      "choices": [
+        "voluntary",
+        "crush",
+        "surge",
+        "territory"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A sudden powerful forward movement or increase."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The act of sending someone back to their own country. — which word?",
+      "choices": [
+        "border",
+        "crush",
+        "repatriation",
+        "enclave"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The act of sending someone back to their own country."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Land that is controlled by a particular country or ruler. — which word?",
+      "choices": [
+        "territory",
+        "border",
+        "repatriation",
+        "enclave"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Land that is controlled by a particular country or ruler."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "To press something so hard that it breaks or is damaged. — which word?",
+      "choices": [
+        "voluntary",
+        "border",
+        "sovereignty",
+        "crush"
+      ],
+      "answerIndex": 3,
+      "hintKo": "To press something so hard that it breaks or is damaged."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "To break a rule law or agreement. — which word?",
+      "choices": [
+        "border",
+        "territory",
+        "enclave",
+        "violate"
+      ],
+      "answerIndex": 3,
+      "hintKo": "To break a rule law or agreement."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Done willingly without being forced. — which word?",
+      "choices": [
+        "border",
+        "violate",
+        "territory",
+        "voluntary"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Done willingly without being forced."
+    }
+  ]
+}

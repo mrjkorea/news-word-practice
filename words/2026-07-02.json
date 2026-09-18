@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-02",
+  "date": "2026-07-02",
+  "title": "News Words · 2026-07-02",
+  "headline": "venezuela-earthquake",
+  "words": [
+    {
+      "id": "w1",
+      "en": "earthquake",
+      "ko": [],
+      "def_en": "A sudden violent shaking of the ground caused by movements within the Earth's crust",
+      "example": "Today's news uses the word earthquake."
+    },
+    {
+      "id": "w2",
+      "en": "magnitude",
+      "ko": [],
+      "def_en": "The size or strength of something especially an earthquake measured on a scientific scale",
+      "example": "Today's news uses the word magnitude."
+    },
+    {
+      "id": "w3",
+      "en": "aftershock",
+      "ko": [],
+      "def_en": "A smaller earthquake that follows a larger one in the same area",
+      "example": "Today's news uses the word aftershock."
+    },
+    {
+      "id": "w4",
+      "en": "epicenter",
+      "ko": [],
+      "def_en": "The point on the Earth's surface directly above where an earthquake starts underground",
+      "example": "Today's news uses the word epicenter."
+    },
+    {
+      "id": "w5",
+      "en": "casualty",
+      "ko": [],
+      "def_en": "A person killed or injured in a war accident or disaster",
+      "example": "Today's news uses the word casualty."
+    },
+    {
+      "id": "w6",
+      "en": "collapse",
+      "ko": [],
+      "def_en": "To fall down suddenly especially a building or structure",
+      "example": "Today's news uses the word collapse."
+    },
+    {
+      "id": "w7",
+      "en": "seismic",
+      "ko": [],
+      "def_en": "Relating to earthquakes or other vibrations of the Earth",
+      "example": "Today's news uses the word seismic."
+    },
+    {
+      "id": "w8",
+      "en": "rubble",
+      "ko": [],
+      "def_en": "Broken pieces of stone brick or concrete from destroyed buildings",
+      "example": "Today's news uses the word rubble."
+    },
+    {
+      "id": "w9",
+      "en": "tremor",
+      "ko": [],
+      "def_en": "A small earthquake or shaking movement of the ground",
+      "example": "Today's news uses the word tremor."
+    },
+    {
+      "id": "w10",
+      "en": "rescue",
+      "ko": [],
+      "def_en": "To save someone from a dangerous or difficult situation",
+      "example": "Today's news uses the word rescue."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A sudden violent shaking of the ground caused by movements within the Earth's crust — which word?",
+      "choices": [
+        "casualty",
+        "earthquake",
+        "epicenter",
+        "collapse"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A sudden violent shaking of the ground caused by movements within the Earth's crust"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "The size or strength of something especially an earthquake measured on a scientific scale — which word?",
+      "choices": [
+        "tremor",
+        "epicenter",
+        "magnitude",
+        "seismic"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The size or strength of something especially an earthquake measured on a scientific scale"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A smaller earthquake that follows a larger one in the same area — which word?",
+      "choices": [
+        "earthquake",
+        "aftershock",
+        "epicenter",
+        "collapse"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A smaller earthquake that follows a larger one in the same area"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The point on the Earth's surface directly above where an earthquake starts underground — which word?",
+      "choices": [
+        "casualty",
+        "epicenter",
+        "earthquake",
+        "rescue"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The point on the Earth's surface directly above where an earthquake starts underground"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A person killed or injured in a war accident or disaster — which word?",
+      "choices": [
+        "magnitude",
+        "epicenter",
+        "casualty",
+        "rubble"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A person killed or injured in a war accident or disaster"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "To fall down suddenly especially a building or structure — which word?",
+      "choices": [
+        "collapse",
+        "magnitude",
+        "tremor",
+        "rescue"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To fall down suddenly especially a building or structure"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Relating to earthquakes or other vibrations of the Earth — which word?",
+      "choices": [
+        "collapse",
+        "tremor",
+        "rubble",
+        "seismic"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Relating to earthquakes or other vibrations of the Earth"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Broken pieces of stone brick or concrete from destroyed buildings — which word?",
+      "choices": [
+        "epicenter",
+        "rubble",
+        "rescue",
+        "magnitude"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Broken pieces of stone brick or concrete from destroyed buildings"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A small earthquake or shaking movement of the ground — which word?",
+      "choices": [
+        "casualty",
+        "tremor",
+        "rescue",
+        "collapse"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A small earthquake or shaking movement of the ground"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "To save someone from a dangerous or difficult situation — which word?",
+      "choices": [
+        "collapse",
+        "epicenter",
+        "rescue",
+        "casualty"
+      ],
+      "answerIndex": 2,
+      "hintKo": "To save someone from a dangerous or difficult situation"
+    }
+  ]
+}

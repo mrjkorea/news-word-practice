@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-04",
+  "date": "2026-08-04",
+  "title": "News Words · 2026-08-04",
+  "headline": "canada-tariffs",
+  "words": [
+    {
+      "id": "w1",
+      "en": "tariff",
+      "ko": [],
+      "def_en": "A tax that a government charges on goods coming into a country.",
+      "example": "Today's news uses the word tariff."
+    },
+    {
+      "id": "w2",
+      "en": "duty",
+      "ko": [],
+      "def_en": "A tax paid on goods brought into or taken out of a country.",
+      "example": "Today's news uses the word duty."
+    },
+    {
+      "id": "w3",
+      "en": "import",
+      "ko": [],
+      "def_en": "To bring goods into a country from another country for sale.",
+      "example": "Today's news uses the word import."
+    },
+    {
+      "id": "w4",
+      "en": "export",
+      "ko": [],
+      "def_en": "To send goods to another country for sale.",
+      "example": "Today's news uses the word export."
+    },
+    {
+      "id": "w5",
+      "en": "proclamation",
+      "ko": [],
+      "def_en": "An official public announcement or order.",
+      "example": "Today's news uses the word proclamation."
+    },
+    {
+      "id": "w6",
+      "en": "discrimination",
+      "ko": [],
+      "def_en": "Unfair treatment of one group compared with another.",
+      "example": "Today's news uses the word discrimination."
+    },
+    {
+      "id": "w7",
+      "en": "exclusion",
+      "ko": [],
+      "def_en": "The act of leaving something or someone out.",
+      "example": "Today's news uses the word exclusion."
+    },
+    {
+      "id": "w8",
+      "en": "agreement",
+      "ko": [],
+      "def_en": "An official arrangement or promise between two or more sides.",
+      "example": "Today's news uses the word agreement."
+    },
+    {
+      "id": "w9",
+      "en": "commerce",
+      "ko": [],
+      "def_en": "The buying and selling of goods and services.",
+      "example": "Today's news uses the word commerce."
+    },
+    {
+      "id": "w10",
+      "en": "offset",
+      "ko": [],
+      "def_en": "To balance or cancel out an effect.",
+      "example": "Today's news uses the word offset."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A tax that a government charges on goods coming into a country. — which word?",
+      "choices": [
+        "exclusion",
+        "commerce",
+        "tariff",
+        "offset"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A tax that a government charges on goods coming into a country."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A tax paid on goods brought into or taken out of a country. — which word?",
+      "choices": [
+        "duty",
+        "import",
+        "export",
+        "tariff"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A tax paid on goods brought into or taken out of a country."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "To bring goods into a country from another country for sale. — which word?",
+      "choices": [
+        "export",
+        "duty",
+        "import",
+        "commerce"
+      ],
+      "answerIndex": 2,
+      "hintKo": "To bring goods into a country from another country for sale."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "To send goods to another country for sale. — which word?",
+      "choices": [
+        "import",
+        "commerce",
+        "tariff",
+        "export"
+      ],
+      "answerIndex": 3,
+      "hintKo": "To send goods to another country for sale."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "An official public announcement or order. — which word?",
+      "choices": [
+        "proclamation",
+        "export",
+        "offset",
+        "import"
+      ],
+      "answerIndex": 0,
+      "hintKo": "An official public announcement or order."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Unfair treatment of one group compared with another. — which word?",
+      "choices": [
+        "exclusion",
+        "export",
+        "discrimination",
+        "commerce"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Unfair treatment of one group compared with another."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "The act of leaving something or someone out. — which word?",
+      "choices": [
+        "discrimination",
+        "exclusion",
+        "import",
+        "offset"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The act of leaving something or someone out."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "An official arrangement or promise between two or more sides. — which word?",
+      "choices": [
+        "discrimination",
+        "agreement",
+        "commerce",
+        "duty"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An official arrangement or promise between two or more sides."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "The buying and selling of goods and services. — which word?",
+      "choices": [
+        "commerce",
+        "tariff",
+        "discrimination",
+        "offset"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The buying and selling of goods and services."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "To balance or cancel out an effect. — which word?",
+      "choices": [
+        "offset",
+        "export",
+        "exclusion",
+        "discrimination"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To balance or cancel out an effect."
+    }
+  ]
+}

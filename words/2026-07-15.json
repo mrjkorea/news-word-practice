@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-15",
+  "date": "2026-07-15",
+  "title": "News Words · 2026-07-15",
+  "headline": "un-ai-governance",
+  "words": [
+    {
+      "id": "w1",
+      "en": "governance",
+      "ko": [],
+      "def_en": "The system of rules and practices that guide how an organization is managed",
+      "example": "Today's news uses the word governance."
+    },
+    {
+      "id": "w2",
+      "en": "catastrophic",
+      "ko": [],
+      "def_en": "Extremely harmful or causing terrible damage",
+      "example": "Today's news uses the word catastrophic."
+    },
+    {
+      "id": "w3",
+      "en": "regulate",
+      "ko": [],
+      "def_en": "To control something with official rules",
+      "example": "Today's news uses the word regulate."
+    },
+    {
+      "id": "w4",
+      "en": "multilateral",
+      "ko": [],
+      "def_en": "Involving many countries working together",
+      "example": "Today's news uses the word multilateral."
+    },
+    {
+      "id": "w5",
+      "en": "summit",
+      "ko": [],
+      "def_en": "A high-level meeting between leaders",
+      "example": "Today's news uses the word summit."
+    },
+    {
+      "id": "w6",
+      "en": "integrity",
+      "ko": [],
+      "def_en": "Being honest and truthful",
+      "example": "Today's news uses the word integrity."
+    },
+    {
+      "id": "w7",
+      "en": "propaganda",
+      "ko": [],
+      "def_en": "False or misleading information spread to influence people",
+      "example": "Today's news uses the word propaganda."
+    },
+    {
+      "id": "w8",
+      "en": "surpass",
+      "ko": [],
+      "def_en": "To go beyond or do better than something",
+      "example": "Today's news uses the word surpass."
+    },
+    {
+      "id": "w9",
+      "en": "capabilities",
+      "ko": [],
+      "def_en": "The things that someone or something is able to do",
+      "example": "Today's news uses the word capabilities."
+    },
+    {
+      "id": "w10",
+      "en": "divide",
+      "ko": [],
+      "def_en": "A gap or separation between two groups",
+      "example": "Today's news uses the word divide."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "The system of rules and practices that guide how an organization is managed — which word?",
+      "choices": [
+        "propaganda",
+        "divide",
+        "governance",
+        "summit"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The system of rules and practices that guide how an organization is managed"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "Extremely harmful or causing terrible damage — which word?",
+      "choices": [
+        "integrity",
+        "multilateral",
+        "surpass",
+        "catastrophic"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Extremely harmful or causing terrible damage"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "To control something with official rules — which word?",
+      "choices": [
+        "regulate",
+        "integrity",
+        "capabilities",
+        "surpass"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To control something with official rules"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Involving many countries working together — which word?",
+      "choices": [
+        "surpass",
+        "regulate",
+        "capabilities",
+        "multilateral"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Involving many countries working together"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A high-level meeting between leaders — which word?",
+      "choices": [
+        "divide",
+        "summit",
+        "regulate",
+        "integrity"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A high-level meeting between leaders"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Being honest and truthful — which word?",
+      "choices": [
+        "surpass",
+        "integrity",
+        "capabilities",
+        "catastrophic"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Being honest and truthful"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "False or misleading information spread to influence people — which word?",
+      "choices": [
+        "propaganda",
+        "capabilities",
+        "governance",
+        "multilateral"
+      ],
+      "answerIndex": 0,
+      "hintKo": "False or misleading information spread to influence people"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "To go beyond or do better than something — which word?",
+      "choices": [
+        "surpass",
+        "multilateral",
+        "divide",
+        "catastrophic"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To go beyond or do better than something"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "The things that someone or something is able to do — which word?",
+      "choices": [
+        "catastrophic",
+        "capabilities",
+        "divide",
+        "governance"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The things that someone or something is able to do"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A gap or separation between two groups — which word?",
+      "choices": [
+        "divide",
+        "regulate",
+        "integrity",
+        "summit"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A gap or separation between two groups"
+    }
+  ]
+}

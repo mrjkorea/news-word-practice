@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-29",
+  "date": "2026-07-29",
+  "title": "News Words · 2026-07-29",
+  "headline": "quantum-metacrystal",
+  "words": [
+    {
+      "id": "w1",
+      "en": "quantum",
+      "ko": [],
+      "def_en": "The smallest possible amount of something, especially energy in physics.",
+      "example": "Today's news uses the word quantum."
+    },
+    {
+      "id": "w2",
+      "en": "photon",
+      "ko": [],
+      "def_en": "A single particle of light.",
+      "example": "Today's news uses the word photon."
+    },
+    {
+      "id": "w3",
+      "en": "crystal",
+      "ko": [],
+      "def_en": "A solid substance with a regular, repeating shape and pattern.",
+      "example": "Today's news uses the word crystal."
+    },
+    {
+      "id": "w4",
+      "en": "artificial",
+      "ko": [],
+      "def_en": "Made by humans rather than occurring in nature.",
+      "example": "Today's news uses the word artificial."
+    },
+    {
+      "id": "w5",
+      "en": "microscopic",
+      "ko": [],
+      "def_en": "Extremely small, can only be seen with a microscope.",
+      "example": "Today's news uses the word microscopic."
+    },
+    {
+      "id": "w6",
+      "en": "semiconductor",
+      "ko": [],
+      "def_en": "A material that can conduct electricity better than an insulator but not as well as a metal.",
+      "example": "Today's news uses the word semiconductor."
+    },
+    {
+      "id": "w7",
+      "en": "statistic",
+      "ko": [],
+      "def_en": "A fact or piece of data expressed in numbers.",
+      "example": "Today's news uses the word statistic."
+    },
+    {
+      "id": "w8",
+      "en": "geometry",
+      "ko": [],
+      "def_en": "The branch of mathematics dealing with shapes, sizes, and the properties of space.",
+      "example": "Today's news uses the word geometry."
+    },
+    {
+      "id": "w9",
+      "en": "efficient",
+      "ko": [],
+      "def_en": "Working in a way that uses time or resources well without waste.",
+      "example": "Today's news uses the word efficient."
+    },
+    {
+      "id": "w10",
+      "en": "pathway",
+      "ko": [],
+      "def_en": "A route or way that allows movement or progress from one place to another.",
+      "example": "Today's news uses the word pathway."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "The smallest possible amount of something, especially energy in physics. — which word?",
+      "choices": [
+        "microscopic",
+        "quantum",
+        "photon",
+        "artificial"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The smallest possible amount of something, especially energy in physics."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A single particle of light. — which word?",
+      "choices": [
+        "semiconductor",
+        "geometry",
+        "efficient",
+        "photon"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A single particle of light."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A solid substance with a regular, repeating shape and pattern. — which word?",
+      "choices": [
+        "microscopic",
+        "semiconductor",
+        "geometry",
+        "crystal"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A solid substance with a regular, repeating shape and pattern."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Made by humans rather than occurring in nature. — which word?",
+      "choices": [
+        "statistic",
+        "microscopic",
+        "artificial",
+        "semiconductor"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Made by humans rather than occurring in nature."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Extremely small, can only be seen with a microscope. — which word?",
+      "choices": [
+        "photon",
+        "geometry",
+        "microscopic",
+        "quantum"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Extremely small, can only be seen with a microscope."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A material that can conduct electricity better than an insulator but not as well as a metal. — which word?",
+      "choices": [
+        "semiconductor",
+        "microscopic",
+        "photon",
+        "crystal"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A material that can conduct electricity better than an insulator but not as well as a metal."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A fact or piece of data expressed in numbers. — which word?",
+      "choices": [
+        "pathway",
+        "statistic",
+        "artificial",
+        "microscopic"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A fact or piece of data expressed in numbers."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The branch of mathematics dealing with shapes, sizes, and the properties of space. — which word?",
+      "choices": [
+        "pathway",
+        "semiconductor",
+        "geometry",
+        "efficient"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The branch of mathematics dealing with shapes, sizes, and the properties of space."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Working in a way that uses time or resources well without waste. — which word?",
+      "choices": [
+        "statistic",
+        "efficient",
+        "microscopic",
+        "photon"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Working in a way that uses time or resources well without waste."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A route or way that allows movement or progress from one place to another. — which word?",
+      "choices": [
+        "semiconductor",
+        "geometry",
+        "artificial",
+        "pathway"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A route or way that allows movement or progress from one place to another."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-31",
+  "date": "2026-07-31",
+  "title": "News Words · 2026-07-31",
+  "headline": "herculaneum-scroll",
+  "words": [
+    {
+      "id": "w1",
+      "en": "papyrus",
+      "ko": [],
+      "def_en": "A material made from a water plant, used in ancient times for writing on.",
+      "example": "Today's news uses the word papyrus."
+    },
+    {
+      "id": "w2",
+      "en": "carbonized",
+      "ko": [],
+      "def_en": "Reduced to carbon or charcoal by burning or heating in the absence of air.",
+      "example": "Today's news uses the word carbonized."
+    },
+    {
+      "id": "w3",
+      "en": "eruption",
+      "ko": [],
+      "def_en": "A sudden and violent outburst, especially of a volcano.",
+      "example": "Today's news uses the word eruption."
+    },
+    {
+      "id": "w4",
+      "en": "artificial",
+      "ko": [],
+      "def_en": "Made or produced by humans rather than occurring naturally.",
+      "example": "Today's news uses the word artificial."
+    },
+    {
+      "id": "w5",
+      "en": "challenge",
+      "ko": [],
+      "def_en": "A difficult task or problem that tests a person's abilities.",
+      "example": "Today's news uses the word challenge."
+    },
+    {
+      "id": "w6",
+      "en": "manuscript",
+      "ko": [],
+      "def_en": "A handwritten document, especially from ancient times.",
+      "example": "Today's news uses the word manuscript."
+    },
+    {
+      "id": "w7",
+      "en": "philosophy",
+      "ko": [],
+      "def_en": "The study of fundamental questions about existence, knowledge, values, and reason.",
+      "example": "Today's news uses the word philosophy."
+    },
+    {
+      "id": "w8",
+      "en": "interpret",
+      "ko": [],
+      "def_en": "To explain the meaning of something.",
+      "example": "Today's news uses the word interpret."
+    },
+    {
+      "id": "w9",
+      "en": "ancient",
+      "ko": [],
+      "def_en": "Belonging to the very distant past.",
+      "example": "Today's news uses the word ancient."
+    },
+    {
+      "id": "w10",
+      "en": "virtual",
+      "ko": [],
+      "def_en": "Simulated by a computer; not physically existing as such but made to appear so.",
+      "example": "Today's news uses the word virtual."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A material made from a water plant, used in ancient times for writing on. — which word?",
+      "choices": [
+        "virtual",
+        "papyrus",
+        "eruption",
+        "ancient"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A material made from a water plant, used in ancient times for writing on."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "Reduced to carbon or charcoal by burning or heating in the absence of air. — which word?",
+      "choices": [
+        "challenge",
+        "carbonized",
+        "ancient",
+        "artificial"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Reduced to carbon or charcoal by burning or heating in the absence of air."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A sudden and violent outburst, especially of a volcano. — which word?",
+      "choices": [
+        "ancient",
+        "papyrus",
+        "eruption",
+        "interpret"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A sudden and violent outburst, especially of a volcano."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Made or produced by humans rather than occurring naturally. — which word?",
+      "choices": [
+        "eruption",
+        "virtual",
+        "artificial",
+        "papyrus"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Made or produced by humans rather than occurring naturally."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A difficult task or problem that tests a person's abilities. — which word?",
+      "choices": [
+        "interpret",
+        "carbonized",
+        "challenge",
+        "virtual"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A difficult task or problem that tests a person's abilities."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A handwritten document, especially from ancient times. — which word?",
+      "choices": [
+        "manuscript",
+        "artificial",
+        "virtual",
+        "ancient"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A handwritten document, especially from ancient times."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "The study of fundamental questions about existence, knowledge, values, and reason. — which word?",
+      "choices": [
+        "challenge",
+        "ancient",
+        "philosophy",
+        "eruption"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The study of fundamental questions about existence, knowledge, values, and reason."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "To explain the meaning of something. — which word?",
+      "choices": [
+        "papyrus",
+        "virtual",
+        "manuscript",
+        "interpret"
+      ],
+      "answerIndex": 3,
+      "hintKo": "To explain the meaning of something."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Belonging to the very distant past. — which word?",
+      "choices": [
+        "challenge",
+        "manuscript",
+        "ancient",
+        "eruption"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Belonging to the very distant past."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Simulated by a computer; not physically existing as such but made to appear so. — which word?",
+      "choices": [
+        "virtual",
+        "challenge",
+        "carbonized",
+        "ancient"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Simulated by a computer; not physically existing as such but made to appear so."
+    }
+  ]
+}
