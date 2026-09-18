@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-06",
+  "date": "2026-07-06",
+  "title": "News Words · 2026-07-06",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "typhoon",
+      "ko": [],
+      "def_en": "A powerful tropical storm with very strong winds in the western Pacific Ocean",
+      "example": "Today's news uses the word typhoon."
+    },
+    {
+      "id": "w2",
+      "en": "sustain",
+      "ko": [],
+      "def_en": "To keep something going; to maintain at a certain level",
+      "example": "Today's news uses the word sustain."
+    },
+    {
+      "id": "w3",
+      "en": "territory",
+      "ko": [],
+      "def_en": "An area of land controlled by a country or government",
+      "example": "Today's news uses the word territory."
+    },
+    {
+      "id": "w4",
+      "en": "evacuation",
+      "ko": [],
+      "def_en": "Moving people away from a dangerous place to safety",
+      "example": "Today's news uses the word evacuation."
+    },
+    {
+      "id": "w5",
+      "en": "debris",
+      "ko": [],
+      "def_en": "Broken pieces left after destruction",
+      "example": "Today's news uses the word debris."
+    },
+    {
+      "id": "w6",
+      "en": "vulnerable",
+      "ko": [],
+      "def_en": "Easily harmed or damaged; in a weak position",
+      "example": "Today's news uses the word vulnerable."
+    },
+    {
+      "id": "w7",
+      "en": "assessment",
+      "ko": [],
+      "def_en": "An evaluation or judgment about a condition",
+      "example": "Today's news uses the word assessment."
+    },
+    {
+      "id": "w8",
+      "en": "surge",
+      "ko": [],
+      "def_en": "A sudden and powerful movement forward like a wave",
+      "example": "Today's news uses the word surge."
+    },
+    {
+      "id": "w9",
+      "en": "cyclone",
+      "ko": [],
+      "def_en": "A large system of rotating winds; also called a typhoon or hurricane",
+      "example": "Today's news uses the word cyclone."
+    },
+    {
+      "id": "w10",
+      "en": "destructive",
+      "ko": [],
+      "def_en": "Causing great damage or harm",
+      "example": "Today's news uses the word destructive."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A powerful tropical storm with very strong winds in the western Pacific Ocean — which word?",
+      "choices": [
+        "typhoon",
+        "surge",
+        "assessment",
+        "destructive"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A powerful tropical storm with very strong winds in the western Pacific Ocean"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "To keep something going; to maintain at a certain level — which word?",
+      "choices": [
+        "evacuation",
+        "vulnerable",
+        "destructive",
+        "sustain"
+      ],
+      "answerIndex": 3,
+      "hintKo": "To keep something going; to maintain at a certain level"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "An area of land controlled by a country or government — which word?",
+      "choices": [
+        "evacuation",
+        "territory",
+        "destructive",
+        "cyclone"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An area of land controlled by a country or government"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Moving people away from a dangerous place to safety — which word?",
+      "choices": [
+        "surge",
+        "evacuation",
+        "assessment",
+        "vulnerable"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Moving people away from a dangerous place to safety"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Broken pieces left after destruction — which word?",
+      "choices": [
+        "destructive",
+        "debris",
+        "evacuation",
+        "vulnerable"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Broken pieces left after destruction"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Easily harmed or damaged; in a weak position — which word?",
+      "choices": [
+        "surge",
+        "sustain",
+        "destructive",
+        "vulnerable"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Easily harmed or damaged; in a weak position"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "An evaluation or judgment about a condition — which word?",
+      "choices": [
+        "destructive",
+        "cyclone",
+        "assessment",
+        "vulnerable"
+      ],
+      "answerIndex": 2,
+      "hintKo": "An evaluation or judgment about a condition"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A sudden and powerful movement forward like a wave — which word?",
+      "choices": [
+        "sustain",
+        "territory",
+        "surge",
+        "destructive"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A sudden and powerful movement forward like a wave"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A large system of rotating winds; also called a typhoon or hurricane — which word?",
+      "choices": [
+        "typhoon",
+        "vulnerable",
+        "cyclone",
+        "evacuation"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A large system of rotating winds; also called a typhoon or hurricane"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Causing great damage or harm — which word?",
+      "choices": [
+        "evacuation",
+        "typhoon",
+        "destructive",
+        "debris"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Causing great damage or harm"
+    }
+  ]
+}

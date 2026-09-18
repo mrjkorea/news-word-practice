@@ -133,6 +133,13 @@
     "data": "words/2026-08-25.json"
   },
   {
+    "id": "2026-08-24",
+    "date": "2026-08-24",
+    "title": "News Words \u00b7 2026-08-24",
+    "wordCount": 10,
+    "data": "words/2026-08-24.json"
+  },
+  {
     "id": "2026-08-21",
     "date": "2026-08-21",
     "title": "News Words \u00b7 2026-08-21",
@@ -292,6 +299,13 @@
     "title": "News Words \u00b7 2026-07-08",
     "wordCount": 10,
     "data": "words/2026-07-08.json"
+  },
+  {
+    "id": "2026-07-06",
+    "date": "2026-07-06",
+    "title": "News Words \u00b7 2026-07-06",
+    "wordCount": 10,
+    "data": "words/2026-07-06.json"
   },
   {
     "id": "2026-07-03",

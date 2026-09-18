@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-24",
+  "date": "2026-08-24",
+  "title": "News Words · 2026-08-24",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "microbe",
+      "ko": [],
+      "def_en": "A very small living thing that cannot be seen without a microscope",
+      "example": "Today's news uses the word microbe."
+    },
+    {
+      "id": "w2",
+      "en": "fungus",
+      "ko": [],
+      "def_en": "A living thing such as mold or a mushroom that grows in damp places",
+      "example": "Today's news uses the word fungus."
+    },
+    {
+      "id": "w3",
+      "en": "survive",
+      "ko": [],
+      "def_en": "To continue to live or exist after a difficult situation",
+      "example": "Today's news uses the word survive."
+    },
+    {
+      "id": "w4",
+      "en": "crater",
+      "ko": [],
+      "def_en": "A large round hole in the ground made by an impact or explosion",
+      "example": "Today's news uses the word crater."
+    },
+    {
+      "id": "w5",
+      "en": "radiation",
+      "ko": [],
+      "def_en": "Energy that travels in waves or particles; sometimes harmful",
+      "example": "Today's news uses the word radiation."
+    },
+    {
+      "id": "w6",
+      "en": "simulation",
+      "ko": [],
+      "def_en": "A computer model that copies a real situation for study",
+      "example": "Today's news uses the word simulation."
+    },
+    {
+      "id": "w7",
+      "en": "bacteria",
+      "ko": [],
+      "def_en": "Very small single-celled living things; some helpful and some harmful",
+      "example": "Today's news uses the word bacteria."
+    },
+    {
+      "id": "w8",
+      "en": "astronaut",
+      "ko": [],
+      "def_en": "A person trained to travel and work in space",
+      "example": "Today's news uses the word astronaut."
+    },
+    {
+      "id": "w9",
+      "en": "contamination",
+      "ko": [],
+      "def_en": "The act of making something dirty or unsafe by adding a harmful substance",
+      "example": "Today's news uses the word contamination."
+    },
+    {
+      "id": "w10",
+      "en": "shadow",
+      "ko": [],
+      "def_en": "A dark area made when light is blocked by something",
+      "example": "Today's news uses the word shadow."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A very small living thing that cannot be seen without a microscope — which word?",
+      "choices": [
+        "simulation",
+        "fungus",
+        "bacteria",
+        "microbe"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A very small living thing that cannot be seen without a microscope"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A living thing such as mold or a mushroom that grows in damp places — which word?",
+      "choices": [
+        "fungus",
+        "survive",
+        "astronaut",
+        "crater"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A living thing such as mold or a mushroom that grows in damp places"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "To continue to live or exist after a difficult situation — which word?",
+      "choices": [
+        "survive",
+        "shadow",
+        "contamination",
+        "bacteria"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To continue to live or exist after a difficult situation"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A large round hole in the ground made by an impact or explosion — which word?",
+      "choices": [
+        "survive",
+        "bacteria",
+        "crater",
+        "contamination"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A large round hole in the ground made by an impact or explosion"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Energy that travels in waves or particles; sometimes harmful — which word?",
+      "choices": [
+        "shadow",
+        "bacteria",
+        "radiation",
+        "fungus"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Energy that travels in waves or particles; sometimes harmful"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A computer model that copies a real situation for study — which word?",
+      "choices": [
+        "survive",
+        "simulation",
+        "contamination",
+        "radiation"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A computer model that copies a real situation for study"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Very small single-celled living things; some helpful and some harmful — which word?",
+      "choices": [
+        "microbe",
+        "shadow",
+        "simulation",
+        "bacteria"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Very small single-celled living things; some helpful and some harmful"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A person trained to travel and work in space — which word?",
+      "choices": [
+        "shadow",
+        "astronaut",
+        "microbe",
+        "contamination"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A person trained to travel and work in space"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "The act of making something dirty or unsafe by adding a harmful substance — which word?",
+      "choices": [
+        "contamination",
+        "radiation",
+        "bacteria",
+        "survive"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The act of making something dirty or unsafe by adding a harmful substance"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A dark area made when light is blocked by something — which word?",
+      "choices": [
+        "microbe",
+        "bacteria",
+        "shadow",
+        "simulation"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A dark area made when light is blocked by something"
+    }
+  ]
+}
