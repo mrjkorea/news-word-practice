@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-30",
+  "date": "2026-07-30",
+  "title": "News Words · 2026-07-30",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "cirrhosis",
+      "ko": [],
+      "def_en": "A chronic liver disease marked by permanent scarring and damage to the liver.",
+      "example": "Today's news uses the word cirrhosis."
+    },
+    {
+      "id": "w2",
+      "en": "antioxidant",
+      "ko": [],
+      "def_en": "A substance that prevents or slows damage to cells caused by harmful molecules.",
+      "example": "Today's news uses the word antioxidant."
+    },
+    {
+      "id": "w3",
+      "en": "caffeine",
+      "ko": [],
+      "def_en": "A natural stimulant found in coffee, tea, and some other plants.",
+      "example": "Today's news uses the word caffeine."
+    },
+    {
+      "id": "w4",
+      "en": "compound",
+      "ko": [],
+      "def_en": "A substance formed from two or more elements chemically combined.",
+      "example": "Today's news uses the word compound."
+    },
+    {
+      "id": "w5",
+      "en": "inflammation",
+      "ko": [],
+      "def_en": "A localized physical condition where part of the body becomes red, swollen, and painful.",
+      "example": "Today's news uses the word inflammation."
+    },
+    {
+      "id": "w6",
+      "en": "consumption",
+      "ko": [],
+      "def_en": "The act of eating, drinking, or using up a resource.",
+      "example": "Today's news uses the word consumption."
+    },
+    {
+      "id": "w7",
+      "en": "moderate",
+      "ko": [],
+      "def_en": "Not extreme or excessive; within reasonable limits.",
+      "example": "Today's news uses the word moderate."
+    },
+    {
+      "id": "w8",
+      "en": "chronic",
+      "ko": [],
+      "def_en": "Persisting for a long time or constantly recurring.",
+      "example": "Today's news uses the word chronic."
+    },
+    {
+      "id": "w9",
+      "en": "beneficial",
+      "ko": [],
+      "def_en": "Producing good results or helpful effects.",
+      "example": "Today's news uses the word beneficial."
+    },
+    {
+      "id": "w10",
+      "en": "decaffeinated",
+      "ko": [],
+      "def_en": "Having had most or all of the caffeine removed.",
+      "example": "Today's news uses the word decaffeinated."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A chronic liver disease marked by permanent scarring and damage to the liver. — which word?",
+      "choices": [
+        "caffeine",
+        "cirrhosis",
+        "beneficial",
+        "decaffeinated"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A chronic liver disease marked by permanent scarring and damage to the liver."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A substance that prevents or slows damage to cells caused by harmful molecules. — which word?",
+      "choices": [
+        "antioxidant",
+        "cirrhosis",
+        "chronic",
+        "moderate"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A substance that prevents or slows damage to cells caused by harmful molecules."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A natural stimulant found in coffee, tea, and some other plants. — which word?",
+      "choices": [
+        "antioxidant",
+        "decaffeinated",
+        "beneficial",
+        "caffeine"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A natural stimulant found in coffee, tea, and some other plants."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A substance formed from two or more elements chemically combined. — which word?",
+      "choices": [
+        "antioxidant",
+        "compound",
+        "chronic",
+        "inflammation"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A substance formed from two or more elements chemically combined."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A localized physical condition where part of the body becomes red, swollen, and painful. — which word?",
+      "choices": [
+        "moderate",
+        "chronic",
+        "caffeine",
+        "inflammation"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A localized physical condition where part of the body becomes red, swollen, and "
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The act of eating, drinking, or using up a resource. — which word?",
+      "choices": [
+        "beneficial",
+        "compound",
+        "consumption",
+        "caffeine"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The act of eating, drinking, or using up a resource."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Not extreme or excessive; within reasonable limits. — which word?",
+      "choices": [
+        "consumption",
+        "moderate",
+        "inflammation",
+        "beneficial"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Not extreme or excessive; within reasonable limits."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Persisting for a long time or constantly recurring. — which word?",
+      "choices": [
+        "inflammation",
+        "moderate",
+        "decaffeinated",
+        "chronic"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Persisting for a long time or constantly recurring."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Producing good results or helpful effects. — which word?",
+      "choices": [
+        "decaffeinated",
+        "compound",
+        "beneficial",
+        "cirrhosis"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Producing good results or helpful effects."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Having had most or all of the caffeine removed. — which word?",
+      "choices": [
+        "chronic",
+        "consumption",
+        "decaffeinated",
+        "moderate"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Having had most or all of the caffeine removed."
+    }
+  ]
+}

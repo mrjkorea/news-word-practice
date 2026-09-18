@@ -1,0 +1,210 @@
+{
+  "id": "2026-06-26",
+  "date": "2026-06-26",
+  "title": "News Words · 2026-06-26",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "ancient",
+      "ko": [],
+      "def_en": "very old; from a long time ago",
+      "example": "Today's news uses the word ancient."
+    },
+    {
+      "id": "w2",
+      "en": "charcoal",
+      "ko": [],
+      "def_en": "black carbon material made from burned wood",
+      "example": "Today's news uses the word charcoal."
+    },
+    {
+      "id": "w3",
+      "en": "pigment",
+      "ko": [],
+      "def_en": "a substance that gives color to paint or material",
+      "example": "Today's news uses the word pigment."
+    },
+    {
+      "id": "w4",
+      "en": "radiocarbon",
+      "ko": [],
+      "def_en": "carbon-14 used for dating ancient organic material",
+      "example": "Today's news uses the word radiocarbon."
+    },
+    {
+      "id": "w5",
+      "en": "spectrometry",
+      "ko": [],
+      "def_en": "technique that measures light to identify materials",
+      "example": "Today's news uses the word spectrometry."
+    },
+    {
+      "id": "w6",
+      "en": "contamination",
+      "ko": [],
+      "def_en": "the presence of unwanted or foreign material",
+      "example": "Today's news uses the word contamination."
+    },
+    {
+      "id": "w7",
+      "en": "chronology",
+      "ko": [],
+      "def_en": "the order or sequence of events in time",
+      "example": "Today's news uses the word chronology."
+    },
+    {
+      "id": "w8",
+      "en": "excavation",
+      "ko": [],
+      "def_en": "the process of digging up ancient remains",
+      "example": "Today's news uses the word excavation."
+    },
+    {
+      "id": "w9",
+      "en": "preservation",
+      "ko": [],
+      "def_en": "keeping something in its original state",
+      "example": "Today's news uses the word preservation."
+    },
+    {
+      "id": "w10",
+      "en": "symbolic",
+      "ko": [],
+      "def_en": "representing an idea, not literal",
+      "example": "Today's news uses the word symbolic."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "very old; from a long time ago — which word?",
+      "choices": [
+        "radiocarbon",
+        "ancient",
+        "pigment",
+        "chronology"
+      ],
+      "answerIndex": 1,
+      "hintKo": "very old; from a long time ago"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "black carbon material made from burned wood — which word?",
+      "choices": [
+        "excavation",
+        "ancient",
+        "charcoal",
+        "contamination"
+      ],
+      "answerIndex": 2,
+      "hintKo": "black carbon material made from burned wood"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "a substance that gives color to paint or material — which word?",
+      "choices": [
+        "contamination",
+        "radiocarbon",
+        "pigment",
+        "chronology"
+      ],
+      "answerIndex": 2,
+      "hintKo": "a substance that gives color to paint or material"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "carbon-14 used for dating ancient organic material — which word?",
+      "choices": [
+        "radiocarbon",
+        "contamination",
+        "ancient",
+        "charcoal"
+      ],
+      "answerIndex": 0,
+      "hintKo": "carbon-14 used for dating ancient organic material"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "technique that measures light to identify materials — which word?",
+      "choices": [
+        "spectrometry",
+        "preservation",
+        "symbolic",
+        "charcoal"
+      ],
+      "answerIndex": 0,
+      "hintKo": "technique that measures light to identify materials"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "the presence of unwanted or foreign material — which word?",
+      "choices": [
+        "contamination",
+        "radiocarbon",
+        "excavation",
+        "charcoal"
+      ],
+      "answerIndex": 0,
+      "hintKo": "the presence of unwanted or foreign material"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "the order or sequence of events in time — which word?",
+      "choices": [
+        "preservation",
+        "pigment",
+        "chronology",
+        "charcoal"
+      ],
+      "answerIndex": 2,
+      "hintKo": "the order or sequence of events in time"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "the process of digging up ancient remains — which word?",
+      "choices": [
+        "excavation",
+        "charcoal",
+        "ancient",
+        "spectrometry"
+      ],
+      "answerIndex": 0,
+      "hintKo": "the process of digging up ancient remains"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "keeping something in its original state — which word?",
+      "choices": [
+        "preservation",
+        "contamination",
+        "ancient",
+        "charcoal"
+      ],
+      "answerIndex": 0,
+      "hintKo": "keeping something in its original state"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "representing an idea, not literal — which word?",
+      "choices": [
+        "radiocarbon",
+        "symbolic",
+        "spectrometry",
+        "charcoal"
+      ],
+      "answerIndex": 1,
+      "hintKo": "representing an idea, not literal"
+    }
+  ]
+}

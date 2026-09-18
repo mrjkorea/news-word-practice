@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-02",
+  "date": "2026-09-02",
+  "title": "News Words · 2026-09-02",
+  "headline": "sicily art theft",
+  "words": [
+    {
+      "id": "w1",
+      "en": "renaissance",
+      "ko": [],
+      "def_en": "A period of European art and learning in the fifteenth century",
+      "example": "Today's news uses the word renaissance."
+    },
+    {
+      "id": "w2",
+      "en": "painting",
+      "ko": [],
+      "def_en": "A picture made with paint on a surface",
+      "example": "Today's news uses the word painting."
+    },
+    {
+      "id": "w3",
+      "en": "museum",
+      "ko": [],
+      "def_en": "A building that keeps and shows art or history",
+      "example": "Today's news uses the word museum."
+    },
+    {
+      "id": "w4",
+      "en": "altarpiece",
+      "ko": [],
+      "def_en": "A painted artwork made for the front of a church altar",
+      "example": "Today's news uses the word altarpiece."
+    },
+    {
+      "id": "w5",
+      "en": "panel",
+      "ko": [],
+      "def_en": "A flat piece of wood used as part of a larger painting",
+      "example": "Today's news uses the word panel."
+    },
+    {
+      "id": "w6",
+      "en": "thief",
+      "ko": [],
+      "def_en": "A person who steals something",
+      "example": "Today's news uses the word thief."
+    },
+    {
+      "id": "w7",
+      "en": "holiday",
+      "ko": [],
+      "def_en": "A special day of rest or celebration",
+      "example": "Today's news uses the word holiday."
+    },
+    {
+      "id": "w8",
+      "en": "security",
+      "ko": [],
+      "def_en": "Systems and rules that protect a place from crime",
+      "example": "Today's news uses the word security."
+    },
+    {
+      "id": "w9",
+      "en": "investigation",
+      "ko": [],
+      "def_en": "A careful official search for facts about a crime",
+      "example": "Today's news uses the word investigation."
+    },
+    {
+      "id": "w10",
+      "en": "masterpiece",
+      "ko": [],
+      "def_en": "A work of art of the highest quality",
+      "example": "Today's news uses the word masterpiece."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A period of European art and learning in the fifteenth century — which word?",
+      "choices": [
+        "investigation",
+        "thief",
+        "renaissance",
+        "holiday"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A period of European art and learning in the fifteenth century"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A picture made with paint on a surface — which word?",
+      "choices": [
+        "investigation",
+        "thief",
+        "security",
+        "painting"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A picture made with paint on a surface"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A building that keeps and shows art or history — which word?",
+      "choices": [
+        "panel",
+        "thief",
+        "museum",
+        "altarpiece"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A building that keeps and shows art or history"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A painted artwork made for the front of a church altar — which word?",
+      "choices": [
+        "investigation",
+        "altarpiece",
+        "masterpiece",
+        "thief"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A painted artwork made for the front of a church altar"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A flat piece of wood used as part of a larger painting — which word?",
+      "choices": [
+        "painting",
+        "thief",
+        "panel",
+        "masterpiece"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A flat piece of wood used as part of a larger painting"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A person who steals something — which word?",
+      "choices": [
+        "security",
+        "thief",
+        "renaissance",
+        "holiday"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A person who steals something"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A special day of rest or celebration — which word?",
+      "choices": [
+        "museum",
+        "renaissance",
+        "painting",
+        "holiday"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A special day of rest or celebration"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Systems and rules that protect a place from crime — which word?",
+      "choices": [
+        "painting",
+        "masterpiece",
+        "museum",
+        "security"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Systems and rules that protect a place from crime"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A careful official search for facts about a crime — which word?",
+      "choices": [
+        "investigation",
+        "holiday",
+        "renaissance",
+        "thief"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A careful official search for facts about a crime"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A work of art of the highest quality — which word?",
+      "choices": [
+        "holiday",
+        "museum",
+        "masterpiece",
+        "thief"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A work of art of the highest quality"
+    }
+  ]
+}

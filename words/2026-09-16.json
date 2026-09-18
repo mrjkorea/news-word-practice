@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-16",
+  "date": "2026-09-16",
+  "title": "News Words · 2026-09-16",
+  "headline": "ai drug biological age",
+  "words": [
+    {
+      "id": "w1",
+      "en": "biological",
+      "ko": [],
+      "def_en": "Related to living things and life processes",
+      "example": "Today's news uses the word biological."
+    },
+    {
+      "id": "w2",
+      "en": "protein",
+      "ko": [],
+      "def_en": "A substance in the body that builds and controls cells",
+      "example": "Today's news uses the word protein."
+    },
+    {
+      "id": "w3",
+      "en": "trial",
+      "ko": [],
+      "def_en": "A test of a new medicine in people",
+      "example": "Today's news uses the word trial."
+    },
+    {
+      "id": "w4",
+      "en": "aging",
+      "ko": [],
+      "def_en": "The process of growing older",
+      "example": "Today's news uses the word aging."
+    },
+    {
+      "id": "w5",
+      "en": "molecule",
+      "ko": [],
+      "def_en": "A very small group of atoms joined together",
+      "example": "Today's news uses the word molecule."
+    },
+    {
+      "id": "w6",
+      "en": "reverse",
+      "ko": [],
+      "def_en": "To change something back to an earlier state",
+      "example": "Today's news uses the word reverse."
+    },
+    {
+      "id": "w7",
+      "en": "biomarker",
+      "ko": [],
+      "def_en": "A measurable sign of what is happening in the body",
+      "example": "Today's news uses the word biomarker."
+    },
+    {
+      "id": "w8",
+      "en": "patient",
+      "ko": [],
+      "def_en": "A person who receives medical care",
+      "example": "Today's news uses the word patient."
+    },
+    {
+      "id": "w9",
+      "en": "dose",
+      "ko": [],
+      "def_en": "The measured amount of medicine taken at one time",
+      "example": "Today's news uses the word dose."
+    },
+    {
+      "id": "w10",
+      "en": "clock",
+      "ko": [],
+      "def_en": "A device that measures and shows time",
+      "example": "Today's news uses the word clock."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Related to living things and life processes — which word?",
+      "choices": [
+        "patient",
+        "biological",
+        "clock",
+        "molecule"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Related to living things and life processes"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A substance in the body that builds and controls cells — which word?",
+      "choices": [
+        "patient",
+        "clock",
+        "aging",
+        "protein"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A substance in the body that builds and controls cells"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A test of a new medicine in people — which word?",
+      "choices": [
+        "trial",
+        "aging",
+        "biomarker",
+        "patient"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A test of a new medicine in people"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The process of growing older — which word?",
+      "choices": [
+        "biomarker",
+        "protein",
+        "aging",
+        "molecule"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The process of growing older"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A very small group of atoms joined together — which word?",
+      "choices": [
+        "clock",
+        "molecule",
+        "biological",
+        "protein"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A very small group of atoms joined together"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "To change something back to an earlier state — which word?",
+      "choices": [
+        "protein",
+        "reverse",
+        "dose",
+        "patient"
+      ],
+      "answerIndex": 1,
+      "hintKo": "To change something back to an earlier state"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A measurable sign of what is happening in the body — which word?",
+      "choices": [
+        "biological",
+        "dose",
+        "molecule",
+        "biomarker"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A measurable sign of what is happening in the body"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A person who receives medical care — which word?",
+      "choices": [
+        "biological",
+        "clock",
+        "molecule",
+        "patient"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A person who receives medical care"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "The measured amount of medicine taken at one time — which word?",
+      "choices": [
+        "clock",
+        "biological",
+        "dose",
+        "protein"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The measured amount of medicine taken at one time"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A device that measures and shows time — which word?",
+      "choices": [
+        "molecule",
+        "clock",
+        "protein",
+        "reverse"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A device that measures and shows time"
+    }
+  ]
+}

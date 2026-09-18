@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-16",
+  "date": "2026-07-16",
+  "title": "News Words · 2026-07-16",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "diagnosis",
+      "ko": [],
+      "def_en": "The identification of a disease or medical condition through examination and testing.",
+      "example": "Today's news uses the word diagnosis."
+    },
+    {
+      "id": "w2",
+      "en": "prevention",
+      "ko": [],
+      "def_en": "Action taken to stop something from happening especially to avoid disease or injury.",
+      "example": "Today's news uses the word prevention."
+    },
+    {
+      "id": "w3",
+      "en": "survival",
+      "ko": [],
+      "def_en": "The state of continuing to live or exist especially after a dangerous or difficult event.",
+      "example": "Today's news uses the word survival."
+    },
+    {
+      "id": "w4",
+      "en": "screening",
+      "ko": [],
+      "def_en": "Testing a group of people for a disease or condition even if they have no symptoms.",
+      "example": "Today's news uses the word screening."
+    },
+    {
+      "id": "w5",
+      "en": "tobacco",
+      "ko": [],
+      "def_en": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes.",
+      "example": "Today's news uses the word tobacco."
+    },
+    {
+      "id": "w6",
+      "en": "obesity",
+      "ko": [],
+      "def_en": "The medical condition of being extremely overweight which increases health risks.",
+      "example": "Today's news uses the word obesity."
+    },
+    {
+      "id": "w7",
+      "en": "infectious",
+      "ko": [],
+      "def_en": "Capable of spreading from one person or organism to another such as a virus or bacteria.",
+      "example": "Today's news uses the word infectious."
+    },
+    {
+      "id": "w8",
+      "en": "mortality",
+      "ko": [],
+      "def_en": "The state of being subject to death; the death rate within a population.",
+      "example": "Today's news uses the word mortality."
+    },
+    {
+      "id": "w9",
+      "en": "vaccine",
+      "ko": [],
+      "def_en": "A substance that stimulates the body's immune system to protect against a specific disease.",
+      "example": "Today's news uses the word vaccine."
+    },
+    {
+      "id": "w10",
+      "en": "inequity",
+      "ko": [],
+      "def_en": "Lack of fairness or justice; an unfair difference between groups of people.",
+      "example": "Today's news uses the word inequity."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "The identification of a disease or medical condition through examination and testing. — which word?",
+      "choices": [
+        "survival",
+        "diagnosis",
+        "prevention",
+        "obesity"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The identification of a disease or medical condition through examination and tes"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "Action taken to stop something from happening especially to avoid disease or injury. — which word?",
+      "choices": [
+        "vaccine",
+        "survival",
+        "prevention",
+        "infectious"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Action taken to stop something from happening especially to avoid disease or inj"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "The state of continuing to live or exist especially after a dangerous or difficult event. — which word?",
+      "choices": [
+        "survival",
+        "screening",
+        "mortality",
+        "infectious"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The state of continuing to live or exist especially after a dangerous or difficu"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Testing a group of people for a disease or condition even if they have no symptoms. — which word?",
+      "choices": [
+        "survival",
+        "diagnosis",
+        "tobacco",
+        "screening"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Testing a group of people for a disease or condition even if they have no sympto"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes. — which word?",
+      "choices": [
+        "tobacco",
+        "infectious",
+        "vaccine",
+        "screening"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pip"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The medical condition of being extremely overweight which increases health risks. — which word?",
+      "choices": [
+        "screening",
+        "vaccine",
+        "infectious",
+        "obesity"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The medical condition of being extremely overweight which increases health risks"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Capable of spreading from one person or organism to another such as a virus or bacteria. — which word?",
+      "choices": [
+        "mortality",
+        "prevention",
+        "inequity",
+        "infectious"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Capable of spreading from one person or organism to another such as a virus or b"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The state of being subject to death; the death rate within a population. — which word?",
+      "choices": [
+        "mortality",
+        "prevention",
+        "vaccine",
+        "tobacco"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The state of being subject to death; the death rate within a population."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A substance that stimulates the body's immune system to protect against a specific disease. — which word?",
+      "choices": [
+        "infectious",
+        "inequity",
+        "prevention",
+        "vaccine"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A substance that stimulates the body's immune system to protect against a specif"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Lack of fairness or justice; an unfair difference between groups of people. — which word?",
+      "choices": [
+        "vaccine",
+        "inequity",
+        "diagnosis",
+        "tobacco"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Lack of fairness or justice; an unfair difference between groups of people."
+    }
+  ]
+}

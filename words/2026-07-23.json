@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-23",
+  "date": "2026-07-23",
+  "title": "News Words · 2026-07-23",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "fast",
+      "ko": [],
+      "def_en": "To not eat food for a period of time.",
+      "example": "Today's news uses the word fast."
+    },
+    {
+      "id": "w2",
+      "en": "gut",
+      "ko": [],
+      "def_en": "The long tube in the body that digests food; the digestive system.",
+      "example": "Today's news uses the word gut."
+    },
+    {
+      "id": "w3",
+      "en": "bacterium",
+      "ko": [],
+      "def_en": "A single tiny living thing; one microbe.",
+      "example": "Today's news uses the word bacterium."
+    },
+    {
+      "id": "w4",
+      "en": "intestine",
+      "ko": [],
+      "def_en": "The long tube below the stomach where food is digested and absorbed.",
+      "example": "Today's news uses the word intestine."
+    },
+    {
+      "id": "w5",
+      "en": "radiation",
+      "ko": [],
+      "def_en": "Powerful energy waves or particles used to treat cancer.",
+      "example": "Today's news uses the word radiation."
+    },
+    {
+      "id": "w6",
+      "en": "heal",
+      "ko": [],
+      "def_en": "To become healthy or whole again after injury.",
+      "example": "Today's news uses the word heal."
+    },
+    {
+      "id": "w7",
+      "en": "tissue",
+      "ko": [],
+      "def_en": "A group of similar cells that work together in the body.",
+      "example": "Today's news uses the word tissue."
+    },
+    {
+      "id": "w8",
+      "en": "therapy",
+      "ko": [],
+      "def_en": "Treatment to cure or manage a disease or condition.",
+      "example": "Today's news uses the word therapy."
+    },
+    {
+      "id": "w9",
+      "en": "abdominal",
+      "ko": [],
+      "def_en": "Relating to the stomach area of the body.",
+      "example": "Today's news uses the word abdominal."
+    },
+    {
+      "id": "w10",
+      "en": "microbes",
+      "ko": [],
+      "def_en": "Very small living things such as bacteria that can only be seen with a microscope.",
+      "example": "Today's news uses the word microbes."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "To not eat food for a period of time. — which word?",
+      "choices": [
+        "fast",
+        "therapy",
+        "intestine",
+        "bacterium"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To not eat food for a period of time."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "The long tube in the body that digests food; the digestive system. — which word?",
+      "choices": [
+        "gut",
+        "radiation",
+        "microbes",
+        "heal"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The long tube in the body that digests food; the digestive system."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A single tiny living thing; one microbe. — which word?",
+      "choices": [
+        "abdominal",
+        "heal",
+        "intestine",
+        "bacterium"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A single tiny living thing; one microbe."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The long tube below the stomach where food is digested and absorbed. — which word?",
+      "choices": [
+        "microbes",
+        "bacterium",
+        "gut",
+        "intestine"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The long tube below the stomach where food is digested and absorbed."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Powerful energy waves or particles used to treat cancer. — which word?",
+      "choices": [
+        "therapy",
+        "abdominal",
+        "radiation",
+        "bacterium"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Powerful energy waves or particles used to treat cancer."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "To become healthy or whole again after injury. — which word?",
+      "choices": [
+        "bacterium",
+        "tissue",
+        "heal",
+        "therapy"
+      ],
+      "answerIndex": 2,
+      "hintKo": "To become healthy or whole again after injury."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A group of similar cells that work together in the body. — which word?",
+      "choices": [
+        "intestine",
+        "heal",
+        "tissue",
+        "radiation"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A group of similar cells that work together in the body."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Treatment to cure or manage a disease or condition. — which word?",
+      "choices": [
+        "therapy",
+        "bacterium",
+        "fast",
+        "microbes"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Treatment to cure or manage a disease or condition."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Relating to the stomach area of the body. — which word?",
+      "choices": [
+        "microbes",
+        "radiation",
+        "tissue",
+        "abdominal"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Relating to the stomach area of the body."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Very small living things such as bacteria that can only be seen with a microscope. — which word?",
+      "choices": [
+        "intestine",
+        "microbes",
+        "abdominal",
+        "gut"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Very small living things such as bacteria that can only be seen with a microscop"
+    }
+  ]
+}

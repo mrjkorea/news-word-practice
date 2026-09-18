@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-11",
+  "date": "2026-08-11",
+  "title": "News Words · 2026-08-11",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "crystal",
+      "ko": [],
+      "def_en": "A solid material with a regular, repeating arrangement of atoms.",
+      "example": "Today's news uses the word crystal."
+    },
+    {
+      "id": "w2",
+      "en": "phonon",
+      "ko": [],
+      "def_en": "A unit of vibration that carries heat through a material.",
+      "example": "Today's news uses the word phonon."
+    },
+    {
+      "id": "w3",
+      "en": "temperature",
+      "ko": [],
+      "def_en": "A measure of how hot or cold something is.",
+      "example": "Today's news uses the word temperature."
+    },
+    {
+      "id": "w4",
+      "en": "conductivity",
+      "ko": [],
+      "def_en": "The ability of a material to allow heat or electricity to flow through it.",
+      "example": "Today's news uses the word conductivity."
+    },
+    {
+      "id": "w5",
+      "en": "semiconductor",
+      "ko": [],
+      "def_en": "A material that conducts electricity better than an insulator but less than a metal.",
+      "example": "Today's news uses the word semiconductor."
+    },
+    {
+      "id": "w6",
+      "en": "nanoscale",
+      "ko": [],
+      "def_en": "At a size measured in nanometers, one billionth of a meter.",
+      "example": "Today's news uses the word nanoscale."
+    },
+    {
+      "id": "w7",
+      "en": "scatter",
+      "ko": [],
+      "def_en": "To spread in many different directions.",
+      "example": "Today's news uses the word scatter."
+    },
+    {
+      "id": "w8",
+      "en": "quantum",
+      "ko": [],
+      "def_en": "Related to the smallest possible units of energy and matter.",
+      "example": "Today's news uses the word quantum."
+    },
+    {
+      "id": "w9",
+      "en": "thermal",
+      "ko": [],
+      "def_en": "Related to heat.",
+      "example": "Today's news uses the word thermal."
+    },
+    {
+      "id": "w10",
+      "en": "route",
+      "ko": [],
+      "def_en": "A path or way that something travels.",
+      "example": "Today's news uses the word route."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A solid material with a regular, repeating arrangement of atoms. — which word?",
+      "choices": [
+        "crystal",
+        "route",
+        "thermal",
+        "conductivity"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A solid material with a regular, repeating arrangement of atoms."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A unit of vibration that carries heat through a material. — which word?",
+      "choices": [
+        "temperature",
+        "scatter",
+        "phonon",
+        "thermal"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A unit of vibration that carries heat through a material."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A measure of how hot or cold something is. — which word?",
+      "choices": [
+        "route",
+        "phonon",
+        "temperature",
+        "thermal"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A measure of how hot or cold something is."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The ability of a material to allow heat or electricity to flow through it. — which word?",
+      "choices": [
+        "crystal",
+        "scatter",
+        "conductivity",
+        "quantum"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The ability of a material to allow heat or electricity to flow through it."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A material that conducts electricity better than an insulator but less than a metal. — which word?",
+      "choices": [
+        "route",
+        "conductivity",
+        "semiconductor",
+        "crystal"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A material that conducts electricity better than an insulator but less than a me"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "At a size measured in nanometers, one billionth of a meter. — which word?",
+      "choices": [
+        "scatter",
+        "quantum",
+        "conductivity",
+        "nanoscale"
+      ],
+      "answerIndex": 3,
+      "hintKo": "At a size measured in nanometers, one billionth of a meter."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "To spread in many different directions. — which word?",
+      "choices": [
+        "thermal",
+        "temperature",
+        "scatter",
+        "nanoscale"
+      ],
+      "answerIndex": 2,
+      "hintKo": "To spread in many different directions."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Related to the smallest possible units of energy and matter. — which word?",
+      "choices": [
+        "quantum",
+        "phonon",
+        "route",
+        "semiconductor"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Related to the smallest possible units of energy and matter."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Related to heat. — which word?",
+      "choices": [
+        "conductivity",
+        "scatter",
+        "thermal",
+        "temperature"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Related to heat."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A path or way that something travels. — which word?",
+      "choices": [
+        "semiconductor",
+        "phonon",
+        "route",
+        "crystal"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A path or way that something travels."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-21",
+  "date": "2026-08-21",
+  "title": "News Words · 2026-08-21",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "vaccine",
+      "ko": [],
+      "def_en": "A medical treatment that helps the body prepare to fight a disease",
+      "example": "Today's news uses the word vaccine."
+    },
+    {
+      "id": "w2",
+      "en": "melanoma",
+      "ko": [],
+      "def_en": "A serious type of skin cancer",
+      "example": "Today's news uses the word melanoma."
+    },
+    {
+      "id": "w3",
+      "en": "trial",
+      "ko": [],
+      "def_en": "A scientific test of a new treatment in a group of people",
+      "example": "Today's news uses the word trial."
+    },
+    {
+      "id": "w4",
+      "en": "personalised",
+      "ko": [],
+      "def_en": "Made for one specific person rather than for everyone",
+      "example": "Today's news uses the word personalised."
+    },
+    {
+      "id": "w5",
+      "en": "surgery",
+      "ko": [],
+      "def_en": "A medical operation that cuts into the body to treat a problem",
+      "example": "Today's news uses the word surgery."
+    },
+    {
+      "id": "w6",
+      "en": "immunotherapy",
+      "ko": [],
+      "def_en": "A cancer treatment that uses the body immune system",
+      "example": "Today's news uses the word immunotherapy."
+    },
+    {
+      "id": "w7",
+      "en": "tumour",
+      "ko": [],
+      "def_en": "A lump of abnormal cells that can be cancer",
+      "example": "Today's news uses the word tumour."
+    },
+    {
+      "id": "w8",
+      "en": "immune",
+      "ko": [],
+      "def_en": "Able to resist or fight a disease",
+      "example": "Today's news uses the word immune."
+    },
+    {
+      "id": "w9",
+      "en": "mutation",
+      "ko": [],
+      "def_en": "A change in the DNA of a cell",
+      "example": "Today's news uses the word mutation."
+    },
+    {
+      "id": "w10",
+      "en": "combination",
+      "ko": [],
+      "def_en": "Two or more things used together",
+      "example": "Today's news uses the word combination."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A medical treatment that helps the body prepare to fight a disease — which word?",
+      "choices": [
+        "melanoma",
+        "immune",
+        "surgery",
+        "vaccine"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A medical treatment that helps the body prepare to fight a disease"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A serious type of skin cancer — which word?",
+      "choices": [
+        "mutation",
+        "surgery",
+        "immunotherapy",
+        "melanoma"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A serious type of skin cancer"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A scientific test of a new treatment in a group of people — which word?",
+      "choices": [
+        "trial",
+        "immune",
+        "combination",
+        "immunotherapy"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A scientific test of a new treatment in a group of people"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Made for one specific person rather than for everyone — which word?",
+      "choices": [
+        "tumour",
+        "personalised",
+        "vaccine",
+        "combination"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Made for one specific person rather than for everyone"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A medical operation that cuts into the body to treat a problem — which word?",
+      "choices": [
+        "vaccine",
+        "surgery",
+        "combination",
+        "trial"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A medical operation that cuts into the body to treat a problem"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A cancer treatment that uses the body immune system — which word?",
+      "choices": [
+        "immunotherapy",
+        "combination",
+        "immune",
+        "vaccine"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A cancer treatment that uses the body immune system"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A lump of abnormal cells that can be cancer — which word?",
+      "choices": [
+        "immune",
+        "tumour",
+        "trial",
+        "mutation"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A lump of abnormal cells that can be cancer"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Able to resist or fight a disease — which word?",
+      "choices": [
+        "trial",
+        "immunotherapy",
+        "immune",
+        "combination"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Able to resist or fight a disease"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A change in the DNA of a cell — which word?",
+      "choices": [
+        "combination",
+        "mutation",
+        "vaccine",
+        "personalised"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A change in the DNA of a cell"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Two or more things used together — which word?",
+      "choices": [
+        "combination",
+        "immunotherapy",
+        "mutation",
+        "surgery"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Two or more things used together"
+    }
+  ]
+}

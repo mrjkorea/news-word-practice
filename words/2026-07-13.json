@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-13",
+  "date": "2026-07-13",
+  "title": "News Words · 2026-07-13",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "missile",
+      "ko": [],
+      "def_en": "A weapon that is sent through the air toward a target.",
+      "example": "Today's news uses the word missile."
+    },
+    {
+      "id": "w2",
+      "en": "drone",
+      "ko": [],
+      "def_en": "An aircraft that is controlled remotely and has no pilot inside.",
+      "example": "Today's news uses the word drone."
+    },
+    {
+      "id": "w3",
+      "en": "escalation",
+      "ko": [],
+      "def_en": "An increase in the seriousness or intensity of a conflict.",
+      "example": "Today's news uses the word escalation."
+    },
+    {
+      "id": "w4",
+      "en": "strike",
+      "ko": [],
+      "def_en": "An attack; especially by military forces.",
+      "example": "Today's news uses the word strike."
+    },
+    {
+      "id": "w5",
+      "en": "defence",
+      "ko": [],
+      "def_en": "The action or systems used to protect a country or place from attack.",
+      "example": "Today's news uses the word defence."
+    },
+    {
+      "id": "w6",
+      "en": "shrapnel",
+      "ko": [],
+      "def_en": "Small sharp pieces of metal thrown out by an explosion.",
+      "example": "Today's news uses the word shrapnel."
+    },
+    {
+      "id": "w7",
+      "en": "intercept",
+      "ko": [],
+      "def_en": "To stop or catch something before it reaches its target.",
+      "example": "Today's news uses the word intercept."
+    },
+    {
+      "id": "w8",
+      "en": "navigation",
+      "ko": [],
+      "def_en": "The process of planning and controlling the route of a ship or aircraft.",
+      "example": "Today's news uses the word navigation."
+    },
+    {
+      "id": "w9",
+      "en": "strategic",
+      "ko": [],
+      "def_en": "Related to a plan that is important for achieving a major goal.",
+      "example": "Today's news uses the word strategic."
+    },
+    {
+      "id": "w10",
+      "en": "diplomacy",
+      "ko": [],
+      "def_en": "The management of relations and negotiations between countries.",
+      "example": "Today's news uses the word diplomacy."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A weapon that is sent through the air toward a target. — which word?",
+      "choices": [
+        "navigation",
+        "intercept",
+        "missile",
+        "diplomacy"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A weapon that is sent through the air toward a target."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "An aircraft that is controlled remotely and has no pilot inside. — which word?",
+      "choices": [
+        "missile",
+        "drone",
+        "strategic",
+        "diplomacy"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An aircraft that is controlled remotely and has no pilot inside."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "An increase in the seriousness or intensity of a conflict. — which word?",
+      "choices": [
+        "navigation",
+        "strategic",
+        "escalation",
+        "shrapnel"
+      ],
+      "answerIndex": 2,
+      "hintKo": "An increase in the seriousness or intensity of a conflict."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "An attack; especially by military forces. — which word?",
+      "choices": [
+        "navigation",
+        "shrapnel",
+        "intercept",
+        "strike"
+      ],
+      "answerIndex": 3,
+      "hintKo": "An attack; especially by military forces."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The action or systems used to protect a country or place from attack. — which word?",
+      "choices": [
+        "diplomacy",
+        "navigation",
+        "defence",
+        "drone"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The action or systems used to protect a country or place from attack."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Small sharp pieces of metal thrown out by an explosion. — which word?",
+      "choices": [
+        "defence",
+        "strike",
+        "shrapnel",
+        "escalation"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Small sharp pieces of metal thrown out by an explosion."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "To stop or catch something before it reaches its target. — which word?",
+      "choices": [
+        "strike",
+        "drone",
+        "intercept",
+        "escalation"
+      ],
+      "answerIndex": 2,
+      "hintKo": "To stop or catch something before it reaches its target."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The process of planning and controlling the route of a ship or aircraft. — which word?",
+      "choices": [
+        "navigation",
+        "diplomacy",
+        "escalation",
+        "missile"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The process of planning and controlling the route of a ship or aircraft."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Related to a plan that is important for achieving a major goal. — which word?",
+      "choices": [
+        "diplomacy",
+        "strategic",
+        "missile",
+        "escalation"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Related to a plan that is important for achieving a major goal."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "The management of relations and negotiations between countries. — which word?",
+      "choices": [
+        "diplomacy",
+        "strategic",
+        "defence",
+        "shrapnel"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The management of relations and negotiations between countries."
+    }
+  ]
+}

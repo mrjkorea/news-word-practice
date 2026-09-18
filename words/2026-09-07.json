@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-07",
+  "date": "2026-09-07",
+  "title": "News Words · 2026-09-07",
+  "headline": "lux zeplin dark matter",
+  "words": [
+    {
+      "id": "w1",
+      "en": "detector",
+      "ko": [],
+      "def_en": "A device that senses particles or signals",
+      "example": "Today's news uses the word detector."
+    },
+    {
+      "id": "w2",
+      "en": "xenon",
+      "ko": [],
+      "def_en": "A heavy noble gas used in physics experiments",
+      "example": "Today's news uses the word xenon."
+    },
+    {
+      "id": "w3",
+      "en": "particle",
+      "ko": [],
+      "def_en": "A very small piece of matter",
+      "example": "Today's news uses the word particle."
+    },
+    {
+      "id": "w4",
+      "en": "collision",
+      "ko": [],
+      "def_en": "When two objects hit each other",
+      "example": "Today's news uses the word collision."
+    },
+    {
+      "id": "w5",
+      "en": "nucleus",
+      "ko": [],
+      "def_en": "The dense center of an atom",
+      "example": "Today's news uses the word nucleus."
+    },
+    {
+      "id": "w6",
+      "en": "underground",
+      "ko": [],
+      "def_en": "Below the surface of the ground",
+      "example": "Today's news uses the word underground."
+    },
+    {
+      "id": "w7",
+      "en": "experiment",
+      "ko": [],
+      "def_en": "A controlled test to learn something new",
+      "example": "Today's news uses the word experiment."
+    },
+    {
+      "id": "w8",
+      "en": "signal",
+      "ko": [],
+      "def_en": "A sign or measurement that carries information",
+      "example": "Today's news uses the word signal."
+    },
+    {
+      "id": "w9",
+      "en": "invisible",
+      "ko": [],
+      "def_en": "Unable to be seen with the eyes",
+      "example": "Today's news uses the word invisible."
+    },
+    {
+      "id": "w10",
+      "en": "galaxy",
+      "ko": [],
+      "def_en": "A huge system of stars gas and dark matter",
+      "example": "Today's news uses the word galaxy."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A device that senses particles or signals — which word?",
+      "choices": [
+        "signal",
+        "galaxy",
+        "detector",
+        "xenon"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A device that senses particles or signals"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A heavy noble gas used in physics experiments — which word?",
+      "choices": [
+        "particle",
+        "nucleus",
+        "underground",
+        "xenon"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A heavy noble gas used in physics experiments"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A very small piece of matter — which word?",
+      "choices": [
+        "underground",
+        "particle",
+        "invisible",
+        "nucleus"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A very small piece of matter"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "When two objects hit each other — which word?",
+      "choices": [
+        "galaxy",
+        "signal",
+        "particle",
+        "collision"
+      ],
+      "answerIndex": 3,
+      "hintKo": "When two objects hit each other"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The dense center of an atom — which word?",
+      "choices": [
+        "xenon",
+        "detector",
+        "particle",
+        "nucleus"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The dense center of an atom"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Below the surface of the ground — which word?",
+      "choices": [
+        "underground",
+        "nucleus",
+        "collision",
+        "xenon"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Below the surface of the ground"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A controlled test to learn something new — which word?",
+      "choices": [
+        "experiment",
+        "xenon",
+        "underground",
+        "signal"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A controlled test to learn something new"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A sign or measurement that carries information — which word?",
+      "choices": [
+        "signal",
+        "particle",
+        "collision",
+        "xenon"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A sign or measurement that carries information"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Unable to be seen with the eyes — which word?",
+      "choices": [
+        "invisible",
+        "experiment",
+        "collision",
+        "galaxy"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Unable to be seen with the eyes"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A huge system of stars gas and dark matter — which word?",
+      "choices": [
+        "experiment",
+        "detector",
+        "galaxy",
+        "signal"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A huge system of stars gas and dark matter"
+    }
+  ]
+}

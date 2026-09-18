@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-10",
+  "date": "2026-08-10",
+  "title": "News Words · 2026-08-10",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "typhoon",
+      "ko": [],
+      "def_en": "A violent tropical storm with very strong winds and heavy rain.",
+      "example": "Today's news uses the word typhoon."
+    },
+    {
+      "id": "w2",
+      "en": "landfall",
+      "ko": [],
+      "def_en": "The moment when a storm or ship reaches land.",
+      "example": "Today's news uses the word landfall."
+    },
+    {
+      "id": "w3",
+      "en": "evacuate",
+      "ko": [],
+      "def_en": "To move people from a dangerous place to a safer place.",
+      "example": "Today's news uses the word evacuate."
+    },
+    {
+      "id": "w4",
+      "en": "torrential",
+      "ko": [],
+      "def_en": "Very heavy and fast-flowing, used about rain.",
+      "example": "Today's news uses the word torrential."
+    },
+    {
+      "id": "w5",
+      "en": "forecaster",
+      "ko": [],
+      "def_en": "A person who predicts what the weather will be.",
+      "example": "Today's news uses the word forecaster."
+    },
+    {
+      "id": "w6",
+      "en": "coastal",
+      "ko": [],
+      "def_en": "Located on or near a coast or seashore.",
+      "example": "Today's news uses the word coastal."
+    },
+    {
+      "id": "w7",
+      "en": "flood",
+      "ko": [],
+      "def_en": "A large amount of water covering land that is usually dry.",
+      "example": "Today's news uses the word flood."
+    },
+    {
+      "id": "w8",
+      "en": "warning",
+      "ko": [],
+      "def_en": "A statement telling people about possible danger.",
+      "example": "Today's news uses the word warning."
+    },
+    {
+      "id": "w9",
+      "en": "vessel",
+      "ko": [],
+      "def_en": "A ship or large boat.",
+      "example": "Today's news uses the word vessel."
+    },
+    {
+      "id": "w10",
+      "en": "disrupt",
+      "ko": [],
+      "def_en": "To interrupt or stop something from continuing normally.",
+      "example": "Today's news uses the word disrupt."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A violent tropical storm with very strong winds and heavy rain. — which word?",
+      "choices": [
+        "typhoon",
+        "warning",
+        "disrupt",
+        "landfall"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A violent tropical storm with very strong winds and heavy rain."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "The moment when a storm or ship reaches land. — which word?",
+      "choices": [
+        "coastal",
+        "landfall",
+        "vessel",
+        "flood"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The moment when a storm or ship reaches land."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "To move people from a dangerous place to a safer place. — which word?",
+      "choices": [
+        "evacuate",
+        "landfall",
+        "forecaster",
+        "flood"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To move people from a dangerous place to a safer place."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Very heavy and fast-flowing, used about rain. — which word?",
+      "choices": [
+        "warning",
+        "forecaster",
+        "torrential",
+        "vessel"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Very heavy and fast-flowing, used about rain."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A person who predicts what the weather will be. — which word?",
+      "choices": [
+        "typhoon",
+        "forecaster",
+        "coastal",
+        "vessel"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A person who predicts what the weather will be."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Located on or near a coast or seashore. — which word?",
+      "choices": [
+        "typhoon",
+        "vessel",
+        "evacuate",
+        "coastal"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Located on or near a coast or seashore."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A large amount of water covering land that is usually dry. — which word?",
+      "choices": [
+        "landfall",
+        "flood",
+        "typhoon",
+        "coastal"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A large amount of water covering land that is usually dry."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A statement telling people about possible danger. — which word?",
+      "choices": [
+        "coastal",
+        "warning",
+        "disrupt",
+        "torrential"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A statement telling people about possible danger."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A ship or large boat. — which word?",
+      "choices": [
+        "torrential",
+        "coastal",
+        "vessel",
+        "forecaster"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A ship or large boat."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "To interrupt or stop something from continuing normally. — which word?",
+      "choices": [
+        "disrupt",
+        "landfall",
+        "forecaster",
+        "typhoon"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To interrupt or stop something from continuing normally."
+    }
+  ]
+}

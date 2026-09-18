@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-12",
+  "date": "2026-08-12",
+  "title": "News Words · 2026-08-12",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "airline",
+      "ko": [],
+      "def_en": "A company that provides regular flights for passengers and cargo.",
+      "example": "Today's news uses the word airline."
+    },
+    {
+      "id": "w2",
+      "en": "merger",
+      "ko": [],
+      "def_en": "The joining of two companies into one larger company.",
+      "example": "Today's news uses the word merger."
+    },
+    {
+      "id": "w3",
+      "en": "bidder",
+      "ko": [],
+      "def_en": "A person or company that offers to buy something in an auction or deal.",
+      "example": "Today's news uses the word bidder."
+    },
+    {
+      "id": "w4",
+      "en": "shareholder",
+      "ko": [],
+      "def_en": "A person who owns shares in a company.",
+      "example": "Today's news uses the word shareholder."
+    },
+    {
+      "id": "w5",
+      "en": "regulator",
+      "ko": [],
+      "def_en": "An official organization that checks that companies follow the rules.",
+      "example": "Today's news uses the word regulator."
+    },
+    {
+      "id": "w6",
+      "en": "investment",
+      "ko": [],
+      "def_en": "Money put into a business or project to earn a profit.",
+      "example": "Today's news uses the word investment."
+    },
+    {
+      "id": "w7",
+      "en": "strategy",
+      "ko": [],
+      "def_en": "A plan designed to achieve a particular goal.",
+      "example": "Today's news uses the word strategy."
+    },
+    {
+      "id": "w8",
+      "en": "delist",
+      "ko": [],
+      "def_en": "To remove a company's shares from a stock exchange.",
+      "example": "Today's news uses the word delist."
+    },
+    {
+      "id": "w9",
+      "en": "withdraw",
+      "ko": [],
+      "def_en": "To stop taking part in something or to pull back.",
+      "example": "Today's news uses the word withdraw."
+    },
+    {
+      "id": "w10",
+      "en": "carrier",
+      "ko": [],
+      "def_en": "A company that transports people or goods, such as an airline.",
+      "example": "Today's news uses the word carrier."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A company that provides regular flights for passengers and cargo. — which word?",
+      "choices": [
+        "withdraw",
+        "shareholder",
+        "airline",
+        "regulator"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A company that provides regular flights for passengers and cargo."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "The joining of two companies into one larger company. — which word?",
+      "choices": [
+        "delist",
+        "merger",
+        "strategy",
+        "carrier"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The joining of two companies into one larger company."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A person or company that offers to buy something in an auction or deal. — which word?",
+      "choices": [
+        "delist",
+        "investment",
+        "shareholder",
+        "bidder"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A person or company that offers to buy something in an auction or deal."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A person who owns shares in a company. — which word?",
+      "choices": [
+        "carrier",
+        "shareholder",
+        "regulator",
+        "merger"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A person who owns shares in a company."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "An official organization that checks that companies follow the rules. — which word?",
+      "choices": [
+        "carrier",
+        "merger",
+        "regulator",
+        "bidder"
+      ],
+      "answerIndex": 2,
+      "hintKo": "An official organization that checks that companies follow the rules."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Money put into a business or project to earn a profit. — which word?",
+      "choices": [
+        "withdraw",
+        "investment",
+        "carrier",
+        "regulator"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Money put into a business or project to earn a profit."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A plan designed to achieve a particular goal. — which word?",
+      "choices": [
+        "bidder",
+        "strategy",
+        "delist",
+        "carrier"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A plan designed to achieve a particular goal."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "To remove a company's shares from a stock exchange. — which word?",
+      "choices": [
+        "carrier",
+        "shareholder",
+        "withdraw",
+        "delist"
+      ],
+      "answerIndex": 3,
+      "hintKo": "To remove a company's shares from a stock exchange."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "To stop taking part in something or to pull back. — which word?",
+      "choices": [
+        "merger",
+        "strategy",
+        "withdraw",
+        "delist"
+      ],
+      "answerIndex": 2,
+      "hintKo": "To stop taking part in something or to pull back."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A company that transports people or goods, such as an airline. — which word?",
+      "choices": [
+        "carrier",
+        "withdraw",
+        "shareholder",
+        "bidder"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A company that transports people or goods, such as an airline."
+    }
+  ]
+}

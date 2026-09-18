@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>연습 · News Words</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="app">
+    <div class="wrap">
+      <p style="margin:0 0 6px"><a class="back" href="index.html">← 목록</a></p>
+      <h1 id="title">불러오는 중…</h1>
+      <p id="sub" class="meta" style="color:#cde">카드를 탭하면 뜻이 보입니다.</p>
+    </div>
+  </header>
+  <main class="wrap">
+    <div id="main" class="hidden">
+      <div class="practice-toolbar">
+        <span class="practice-progress" id="progress">1 / 10</span>
+        <a class="btn btn-test" id="go-test" href="#">테스트 하기</a>
+      </div>
+      <div class="flip-scene" id="scene" tabindex="0" role="button" aria-label="카드 뒤집기">
+        <div class="flip-card" id="card">
+          <div class="flip-face front">
+            <p class="flip-hint">영어 단어</p>
+            <p class="flip-word" id="front-text"></p>
+            <p class="flip-hint">탭하여 뜻 보기</p>
+          </div>
+          <div class="flip-face back">
+            <p class="flip-hint">정의</p>
+            <p class="flip-def" id="back-def"></p>
+            <p class="flip-ko hidden" id="back-ko"></p>
+            <p class="flip-hint">탭하여 단어 보기</p>
+          </div>
+        </div>
+      </div>
+      <div class="dot-strip" id="dots"></div>
+      <div class="practice-nav">
+        <button type="button" class="ghost" id="prev">이전</button>
+        <button type="button" class="ghost" id="shuffle">섞기</button>
+        <button type="button" class="ghost" id="next">다음</button>
+      </div>
+    </div>
+    <p id="err" class="meta hidden"></p>
+    <footer class="site">연습 모드 — 서버 없이 JSON만 사용합니다.</footer>
+  </main>
+  <script src="js/data.js"></script>
+  <script src="js/practice.js"></script>
+</body>
+</html>

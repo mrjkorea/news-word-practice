@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-14",
+  "date": "2026-09-14",
+  "title": "News Words · 2026-09-14",
+  "headline": "ibm nasa lunar ai model",
+  "words": [
+    {
+      "id": "w1",
+      "en": "foundation",
+      "ko": [],
+      "def_en": "The basic idea or base that something is built on",
+      "example": "Today's news uses the word foundation."
+    },
+    {
+      "id": "w2",
+      "en": "model",
+      "ko": [],
+      "def_en": "A computer program that learns patterns from examples",
+      "example": "Today's news uses the word model."
+    },
+    {
+      "id": "w3",
+      "en": "crater",
+      "ko": [],
+      "def_en": "A large round hole in the ground or on a planet",
+      "example": "Today's news uses the word crater."
+    },
+    {
+      "id": "w4",
+      "en": "volcanic",
+      "ko": [],
+      "def_en": "Related to volcanoes and hot melted rock",
+      "example": "Today's news uses the word volcanic."
+    },
+    {
+      "id": "w5",
+      "en": "satellite",
+      "ko": [],
+      "def_en": "A machine that travels around a planet in space",
+      "example": "Today's news uses the word satellite."
+    },
+    {
+      "id": "w6",
+      "en": "dataset",
+      "ko": [],
+      "def_en": "A large organized collection of information",
+      "example": "Today's news uses the word dataset."
+    },
+    {
+      "id": "w7",
+      "en": "mission",
+      "ko": [],
+      "def_en": "An important planned job or trip into space",
+      "example": "Today's news uses the word mission."
+    },
+    {
+      "id": "w8",
+      "en": "surface",
+      "ko": [],
+      "def_en": "The outside or top layer of something",
+      "example": "Today's news uses the word surface."
+    },
+    {
+      "id": "w9",
+      "en": "resolution",
+      "ko": [],
+      "def_en": "How much small detail an image or screen shows",
+      "example": "Today's news uses the word resolution."
+    },
+    {
+      "id": "w10",
+      "en": "discover",
+      "ko": [],
+      "def_en": "To find something that was not known before",
+      "example": "Today's news uses the word discover."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "The basic idea or base that something is built on — which word?",
+      "choices": [
+        "foundation",
+        "resolution",
+        "model",
+        "mission"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The basic idea or base that something is built on"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A computer program that learns patterns from examples — which word?",
+      "choices": [
+        "discover",
+        "model",
+        "surface",
+        "mission"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A computer program that learns patterns from examples"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A large round hole in the ground or on a planet — which word?",
+      "choices": [
+        "surface",
+        "volcanic",
+        "crater",
+        "resolution"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A large round hole in the ground or on a planet"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Related to volcanoes and hot melted rock — which word?",
+      "choices": [
+        "dataset",
+        "volcanic",
+        "model",
+        "satellite"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Related to volcanoes and hot melted rock"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A machine that travels around a planet in space — which word?",
+      "choices": [
+        "dataset",
+        "discover",
+        "mission",
+        "satellite"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A machine that travels around a planet in space"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A large organized collection of information — which word?",
+      "choices": [
+        "foundation",
+        "mission",
+        "surface",
+        "dataset"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A large organized collection of information"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "An important planned job or trip into space — which word?",
+      "choices": [
+        "model",
+        "mission",
+        "foundation",
+        "discover"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An important planned job or trip into space"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The outside or top layer of something — which word?",
+      "choices": [
+        "volcanic",
+        "resolution",
+        "mission",
+        "surface"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The outside or top layer of something"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "How much small detail an image or screen shows — which word?",
+      "choices": [
+        "foundation",
+        "discover",
+        "satellite",
+        "resolution"
+      ],
+      "answerIndex": 3,
+      "hintKo": "How much small detail an image or screen shows"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "To find something that was not known before — which word?",
+      "choices": [
+        "dataset",
+        "discover",
+        "satellite",
+        "crater"
+      ],
+      "answerIndex": 1,
+      "hintKo": "To find something that was not known before"
+    }
+  ]
+}

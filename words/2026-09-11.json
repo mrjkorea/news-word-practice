@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-11",
+  "date": "2026-09-11",
+  "title": "News Words · 2026-09-11",
+  "headline": "sardine shortage",
+  "words": [
+    {
+      "id": "w1",
+      "en": "sardine",
+      "ko": [],
+      "def_en": "A small oily fish often sold in tins",
+      "example": "Today's news uses the word sardine."
+    },
+    {
+      "id": "w2",
+      "en": "shortage",
+      "ko": [],
+      "def_en": "A situation where there is not enough of something",
+      "example": "Today's news uses the word shortage."
+    },
+    {
+      "id": "w3",
+      "en": "protein",
+      "ko": [],
+      "def_en": "A nutrient that helps build muscle and tissue",
+      "example": "Today's news uses the word protein."
+    },
+    {
+      "id": "w4",
+      "en": "omega",
+      "ko": [],
+      "def_en": "A type of healthy fat found in fish",
+      "example": "Today's news uses the word omega."
+    },
+    {
+      "id": "w5",
+      "en": "pantry",
+      "ko": [],
+      "def_en": "A cupboard where dry food is stored at home",
+      "example": "Today's news uses the word pantry."
+    },
+    {
+      "id": "w6",
+      "en": "supply",
+      "ko": [],
+      "def_en": "The amount of a product available to buy",
+      "example": "Today's news uses the word supply."
+    },
+    {
+      "id": "w7",
+      "en": "demand",
+      "ko": [],
+      "def_en": "How much people want to buy a product",
+      "example": "Today's news uses the word demand."
+    },
+    {
+      "id": "w8",
+      "en": "catch",
+      "ko": [],
+      "def_en": "The amount of fish brought in by boats",
+      "example": "Today's news uses the word catch."
+    },
+    {
+      "id": "w9",
+      "en": "shelf",
+      "ko": [],
+      "def_en": "A flat board in a store where goods are displayed",
+      "example": "Today's news uses the word shelf."
+    },
+    {
+      "id": "w10",
+      "en": "staple",
+      "ko": [],
+      "def_en": "A basic food that people use often",
+      "example": "Today's news uses the word staple."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A small oily fish often sold in tins — which word?",
+      "choices": [
+        "sardine",
+        "pantry",
+        "supply",
+        "staple"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A small oily fish often sold in tins"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A situation where there is not enough of something — which word?",
+      "choices": [
+        "shelf",
+        "staple",
+        "shortage",
+        "catch"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A situation where there is not enough of something"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A nutrient that helps build muscle and tissue — which word?",
+      "choices": [
+        "shortage",
+        "supply",
+        "staple",
+        "protein"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A nutrient that helps build muscle and tissue"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A type of healthy fat found in fish — which word?",
+      "choices": [
+        "shelf",
+        "omega",
+        "catch",
+        "shortage"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A type of healthy fat found in fish"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A cupboard where dry food is stored at home — which word?",
+      "choices": [
+        "demand",
+        "shelf",
+        "supply",
+        "pantry"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A cupboard where dry food is stored at home"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The amount of a product available to buy — which word?",
+      "choices": [
+        "staple",
+        "supply",
+        "demand",
+        "sardine"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The amount of a product available to buy"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "How much people want to buy a product — which word?",
+      "choices": [
+        "omega",
+        "demand",
+        "catch",
+        "sardine"
+      ],
+      "answerIndex": 1,
+      "hintKo": "How much people want to buy a product"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The amount of fish brought in by boats — which word?",
+      "choices": [
+        "shelf",
+        "omega",
+        "catch",
+        "supply"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The amount of fish brought in by boats"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A flat board in a store where goods are displayed — which word?",
+      "choices": [
+        "supply",
+        "omega",
+        "shelf",
+        "catch"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A flat board in a store where goods are displayed"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A basic food that people use often — which word?",
+      "choices": [
+        "staple",
+        "protein",
+        "pantry",
+        "shortage"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A basic food that people use often"
+    }
+  ]
+}

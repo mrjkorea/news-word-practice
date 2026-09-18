@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-14",
+  "date": "2026-08-14",
+  "title": "News Words · 2026-08-14",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "summit",
+      "ko": [],
+      "def_en": "The highest point of a mountain.",
+      "example": "Today's news uses the word summit."
+    },
+    {
+      "id": "w2",
+      "en": "expedition",
+      "ko": [],
+      "def_en": "An organized journey with a specific purpose, often to explore.",
+      "example": "Today's news uses the word expedition."
+    },
+    {
+      "id": "w3",
+      "en": "altitude",
+      "ko": [],
+      "def_en": "The height of a place above sea level.",
+      "example": "Today's news uses the word altitude."
+    },
+    {
+      "id": "w4",
+      "en": "recovery",
+      "ko": [],
+      "def_en": "The process of getting back something lost or returning to a normal state.",
+      "example": "Today's news uses the word recovery."
+    },
+    {
+      "id": "w5",
+      "en": "descent",
+      "ko": [],
+      "def_en": "The act of moving down from a higher place.",
+      "example": "Today's news uses the word descent."
+    },
+    {
+      "id": "w6",
+      "en": "blizzard",
+      "ko": [],
+      "def_en": "A severe snowstorm with strong winds and low visibility.",
+      "example": "Today's news uses the word blizzard."
+    },
+    {
+      "id": "w7",
+      "en": "remains",
+      "ko": [],
+      "def_en": "The parts of a dead body that are left after death.",
+      "example": "Today's news uses the word remains."
+    },
+    {
+      "id": "w8",
+      "en": "crevasse",
+      "ko": [],
+      "def_en": "A deep open crack in a glacier or ice field.",
+      "example": "Today's news uses the word crevasse."
+    },
+    {
+      "id": "w9",
+      "en": "treacherous",
+      "ko": [],
+      "def_en": "Dangerous because of hidden risks.",
+      "example": "Today's news uses the word treacherous."
+    },
+    {
+      "id": "w10",
+      "en": "retrieval",
+      "ko": [],
+      "def_en": "The act of getting something back from a place.",
+      "example": "Today's news uses the word retrieval."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "The highest point of a mountain. — which word?",
+      "choices": [
+        "crevasse",
+        "summit",
+        "treacherous",
+        "recovery"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The highest point of a mountain."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "An organized journey with a specific purpose, often to explore. — which word?",
+      "choices": [
+        "treacherous",
+        "recovery",
+        "summit",
+        "expedition"
+      ],
+      "answerIndex": 3,
+      "hintKo": "An organized journey with a specific purpose, often to explore."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "The height of a place above sea level. — which word?",
+      "choices": [
+        "remains",
+        "altitude",
+        "descent",
+        "recovery"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The height of a place above sea level."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The process of getting back something lost or returning to a normal state. — which word?",
+      "choices": [
+        "summit",
+        "retrieval",
+        "recovery",
+        "crevasse"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The process of getting back something lost or returning to a normal state."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The act of moving down from a higher place. — which word?",
+      "choices": [
+        "retrieval",
+        "recovery",
+        "remains",
+        "descent"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The act of moving down from a higher place."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A severe snowstorm with strong winds and low visibility. — which word?",
+      "choices": [
+        "remains",
+        "expedition",
+        "altitude",
+        "blizzard"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A severe snowstorm with strong winds and low visibility."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "The parts of a dead body that are left after death. — which word?",
+      "choices": [
+        "recovery",
+        "remains",
+        "expedition",
+        "treacherous"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The parts of a dead body that are left after death."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A deep open crack in a glacier or ice field. — which word?",
+      "choices": [
+        "recovery",
+        "crevasse",
+        "summit",
+        "retrieval"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A deep open crack in a glacier or ice field."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Dangerous because of hidden risks. — which word?",
+      "choices": [
+        "summit",
+        "treacherous",
+        "recovery",
+        "retrieval"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Dangerous because of hidden risks."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "The act of getting something back from a place. — which word?",
+      "choices": [
+        "crevasse",
+        "altitude",
+        "expedition",
+        "retrieval"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The act of getting something back from a place."
+    }
+  ]
+}

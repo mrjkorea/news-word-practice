@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-27",
+  "date": "2026-08-27",
+  "title": "News Words · 2026-08-27",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "marine",
+      "ko": [],
+      "def_en": "Related to the sea or ocean",
+      "example": "Today's news uses the word marine."
+    },
+    {
+      "id": "w2",
+      "en": "heatwave",
+      "ko": [],
+      "def_en": "A long period of unusually hot weather",
+      "example": "Today's news uses the word heatwave."
+    },
+    {
+      "id": "w3",
+      "en": "pollution",
+      "ko": [],
+      "def_en": "Harmful substances that damage air water or land",
+      "example": "Today's news uses the word pollution."
+    },
+    {
+      "id": "w4",
+      "en": "mediterranean",
+      "ko": [],
+      "def_en": "The sea between southern Europe and northern Africa",
+      "example": "Today's news uses the word mediterranean."
+    },
+    {
+      "id": "w5",
+      "en": "coral",
+      "ko": [],
+      "def_en": "A small sea animal that builds hard limestone homes in reefs",
+      "example": "Today's news uses the word coral."
+    },
+    {
+      "id": "w6",
+      "en": "fossil",
+      "ko": [],
+      "def_en": "The remains of an ancient living thing preserved in rock",
+      "example": "Today's news uses the word fossil."
+    },
+    {
+      "id": "w7",
+      "en": "coastal",
+      "ko": [],
+      "def_en": "Located on or near a coast",
+      "example": "Today's news uses the word coastal."
+    },
+    {
+      "id": "w8",
+      "en": "temperature",
+      "ko": [],
+      "def_en": "A measure of how hot or cold something is",
+      "example": "Today's news uses the word temperature."
+    },
+    {
+      "id": "w9",
+      "en": "attribution",
+      "ko": [],
+      "def_en": "The act of deciding what caused a particular result",
+      "example": "Today's news uses the word attribution."
+    },
+    {
+      "id": "w10",
+      "en": "ecosystem",
+      "ko": [],
+      "def_en": "A community of living things and their environment working together",
+      "example": "Today's news uses the word ecosystem."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Related to the sea or ocean — which word?",
+      "choices": [
+        "coastal",
+        "attribution",
+        "marine",
+        "ecosystem"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Related to the sea or ocean"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A long period of unusually hot weather — which word?",
+      "choices": [
+        "ecosystem",
+        "temperature",
+        "heatwave",
+        "coral"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A long period of unusually hot weather"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Harmful substances that damage air water or land — which word?",
+      "choices": [
+        "pollution",
+        "heatwave",
+        "coral",
+        "attribution"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Harmful substances that damage air water or land"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The sea between southern Europe and northern Africa — which word?",
+      "choices": [
+        "fossil",
+        "mediterranean",
+        "heatwave",
+        "coastal"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The sea between southern Europe and northern Africa"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A small sea animal that builds hard limestone homes in reefs — which word?",
+      "choices": [
+        "coral",
+        "ecosystem",
+        "coastal",
+        "temperature"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A small sea animal that builds hard limestone homes in reefs"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The remains of an ancient living thing preserved in rock — which word?",
+      "choices": [
+        "temperature",
+        "mediterranean",
+        "fossil",
+        "heatwave"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The remains of an ancient living thing preserved in rock"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Located on or near a coast — which word?",
+      "choices": [
+        "marine",
+        "heatwave",
+        "attribution",
+        "coastal"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Located on or near a coast"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A measure of how hot or cold something is — which word?",
+      "choices": [
+        "attribution",
+        "heatwave",
+        "temperature",
+        "coastal"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A measure of how hot or cold something is"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "The act of deciding what caused a particular result — which word?",
+      "choices": [
+        "heatwave",
+        "mediterranean",
+        "attribution",
+        "marine"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The act of deciding what caused a particular result"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A community of living things and their environment working together — which word?",
+      "choices": [
+        "ecosystem",
+        "attribution",
+        "temperature",
+        "mediterranean"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A community of living things and their environment working together"
+    }
+  ]
+}

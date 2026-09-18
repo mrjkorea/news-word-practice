@@ -1,0 +1,210 @@
+{
+  "id": "2026-06-25",
+  "date": "2026-06-25",
+  "title": "News Words · 2026-06-25",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "medication",
+      "ko": [],
+      "def_en": "a drug or medicine used for medical treatment",
+      "example": "Today's news uses the word medication."
+    },
+    {
+      "id": "w2",
+      "en": "significant",
+      "ko": [],
+      "def_en": "important, large, or having a big effect",
+      "example": "Today's news uses the word significant."
+    },
+    {
+      "id": "w3",
+      "en": "likelihood",
+      "ko": [],
+      "def_en": "the chance or probability that something will happen",
+      "example": "Today's news uses the word likelihood."
+    },
+    {
+      "id": "w4",
+      "en": "observational",
+      "ko": [],
+      "def_en": "based on watching and recording, not a controlled experiment",
+      "example": "Today's news uses the word observational."
+    },
+    {
+      "id": "w5",
+      "en": "definitively",
+      "ko": [],
+      "def_en": "in a way that is certain, final, and without doubt",
+      "example": "Today's news uses the word definitively."
+    },
+    {
+      "id": "w6",
+      "en": "prevention",
+      "ko": [],
+      "def_en": "the act of stopping something from happening before it starts",
+      "example": "Today's news uses the word prevention."
+    },
+    {
+      "id": "w7",
+      "en": "incidence",
+      "ko": [],
+      "def_en": "the number of new cases of a disease in a specific population",
+      "example": "Today's news uses the word incidence."
+    },
+    {
+      "id": "w8",
+      "en": "inflammation",
+      "ko": [],
+      "def_en": "redness, swelling, and pain in body tissue as a response to injury",
+      "example": "Today's news uses the word inflammation."
+    },
+    {
+      "id": "w9",
+      "en": "mechanism",
+      "ko": [],
+      "def_en": "the way something works — the process or system behind an effect",
+      "example": "Today's news uses the word mechanism."
+    },
+    {
+      "id": "w10",
+      "en": "clinical",
+      "ko": [],
+      "def_en": "relating to the treatment and observation of real patients, not just theory",
+      "example": "Today's news uses the word clinical."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "a drug or medicine used for medical treatment — which word?",
+      "choices": [
+        "likelihood",
+        "prevention",
+        "medication",
+        "significant"
+      ],
+      "answerIndex": 2,
+      "hintKo": "a drug or medicine used for medical treatment"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "important, large, or having a big effect — which word?",
+      "choices": [
+        "inflammation",
+        "significant",
+        "observational",
+        "mechanism"
+      ],
+      "answerIndex": 1,
+      "hintKo": "important, large, or having a big effect"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "the chance or probability that something will happen — which word?",
+      "choices": [
+        "observational",
+        "medication",
+        "definitively",
+        "likelihood"
+      ],
+      "answerIndex": 3,
+      "hintKo": "the chance or probability that something will happen"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "based on watching and recording, not a controlled experiment — which word?",
+      "choices": [
+        "significant",
+        "observational",
+        "definitively",
+        "likelihood"
+      ],
+      "answerIndex": 1,
+      "hintKo": "based on watching and recording, not a controlled experiment"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "in a way that is certain, final, and without doubt — which word?",
+      "choices": [
+        "prevention",
+        "definitively",
+        "inflammation",
+        "medication"
+      ],
+      "answerIndex": 1,
+      "hintKo": "in a way that is certain, final, and without doubt"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "the act of stopping something from happening before it starts — which word?",
+      "choices": [
+        "incidence",
+        "observational",
+        "prevention",
+        "clinical"
+      ],
+      "answerIndex": 2,
+      "hintKo": "the act of stopping something from happening before it starts"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "the number of new cases of a disease in a specific population — which word?",
+      "choices": [
+        "likelihood",
+        "observational",
+        "mechanism",
+        "incidence"
+      ],
+      "answerIndex": 3,
+      "hintKo": "the number of new cases of a disease in a specific population"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "redness, swelling, and pain in body tissue as a response to injury — which word?",
+      "choices": [
+        "definitively",
+        "mechanism",
+        "observational",
+        "inflammation"
+      ],
+      "answerIndex": 3,
+      "hintKo": "redness, swelling, and pain in body tissue as a response to injury"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "the way something works — the process or system behind an effect — which word?",
+      "choices": [
+        "prevention",
+        "incidence",
+        "definitively",
+        "mechanism"
+      ],
+      "answerIndex": 3,
+      "hintKo": "the way something works — the process or system behind an effect"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "relating to the treatment and observation of real patients, not just theory — which word?",
+      "choices": [
+        "incidence",
+        "observational",
+        "definitively",
+        "clinical"
+      ],
+      "answerIndex": 3,
+      "hintKo": "relating to the treatment and observation of real patients, not just theory"
+    }
+  ]
+}

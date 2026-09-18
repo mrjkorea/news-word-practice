@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>News Word Practice</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="app">
+    <div class="wrap">
+      <h1>News Word Practice</h1>
+      <p>매일 10개 뉴스 단어 · 연습 카드 · 단답형 테스트</p>
+    </div>
+  </header>
+  <main class="wrap">
+    <div class="card">
+      <h2>날짜 목록</h2>
+      <p class="meta">최신 날짜가 위에 있습니다. 연습(카드) 또는 테스트를 선택하세요. 오늘 날짜 세트의 테스트 점수만 이 기기에 저장됩니다.</p>
+    </div>
+    <ul class="day-list" id="list"></ul>
+    <footer class="site">
+      Mr. Jay — News Word Practice<br />
+      <a href="https://mrjkorea.github.io/news-word-practice/">news-word-practice</a>
+    </footer>
+  </main>
+  <script src="js/storage.js"></script>
+  <script src="js/data.js"></script>
+  <script>
+    const list = document.getElementById('list');
+    const today = NWPStorage.todayKey();
+
+    NWP.loadIndex()
+      .then((days) => {
+        list.innerHTML = '';
+        days.forEach((entry) => {
+          const date = entry.date || entry.id;
+          const stats = NWPStorage.readStats(date);
+          const li = document.createElement('li');
+          const scoreLine = NWPStorage.formatScoreLine(stats, entry.wordCount || 10);
+          const todayBadge = date === today ? ' · 오늘' : '';
+          li.innerHTML = `
+            <div class="info">
+              <strong>${NWP.esc(entry.title || date)}</strong>
+              <span class="meta">${entry.wordCount || 10}단어${todayBadge}</span>
+              <div class="score-pill">${NWP.esc(scoreLine)}</div>
+            </div>
+            <div class="actions-row">
+              <a class="btn btn-practice" href="practice.html?date=${encodeURIComponent(date)}">연습</a>
+              <a class="btn btn-test" href="test.html?date=${encodeURIComponent(date)}">테스트</a>
+            </div>`;
+          list.appendChild(li);
+        });
+      })
+      .catch(() => {
+        list.innerHTML = '<li class="meta">목록을 불러오지 못했습니다.</li>';
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-03",
+  "date": "2026-09-03",
+  "title": "News Words · 2026-09-03",
+  "headline": "louisiana alligator hunt",
+  "words": [
+    {
+      "id": "w1",
+      "en": "alligator",
+      "ko": [],
+      "def_en": "A large reptile with a wide snout that lives in swamps",
+      "example": "Today's news uses the word alligator."
+    },
+    {
+      "id": "w2",
+      "en": "recreational",
+      "ko": [],
+      "def_en": "Done for sport or fun - not for a job",
+      "example": "Today's news uses the word recreational."
+    },
+    {
+      "id": "w3",
+      "en": "hunt",
+      "ko": [],
+      "def_en": "The act of chasing and taking a wild animal",
+      "example": "Today's news uses the word hunt."
+    },
+    {
+      "id": "w4",
+      "en": "lottery",
+      "ko": [],
+      "def_en": "A drawing that chooses winners by chance",
+      "example": "Today's news uses the word lottery."
+    },
+    {
+      "id": "w5",
+      "en": "conservation",
+      "ko": [],
+      "def_en": "The protection of animals and wild places",
+      "example": "Today's news uses the word conservation."
+    },
+    {
+      "id": "w6",
+      "en": "population",
+      "ko": [],
+      "def_en": "The number of animals of one kind in an area",
+      "example": "Today's news uses the word population."
+    },
+    {
+      "id": "w7",
+      "en": "swamp",
+      "ko": [],
+      "def_en": "Wet land with trees - water - and mud",
+      "example": "Today's news uses the word swamp."
+    },
+    {
+      "id": "w8",
+      "en": "permit",
+      "ko": [],
+      "def_en": "An official paper that allows an activity",
+      "example": "Today's news uses the word permit."
+    },
+    {
+      "id": "w9",
+      "en": "harvest",
+      "ko": [],
+      "def_en": "Taking a limited number of animals under rules",
+      "example": "Today's news uses the word harvest."
+    },
+    {
+      "id": "w10",
+      "en": "wildlife",
+      "ko": [],
+      "def_en": "Animals living in nature - not on farms",
+      "example": "Today's news uses the word wildlife."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A large reptile with a wide snout that lives in swamps — which word?",
+      "choices": [
+        "swamp",
+        "permit",
+        "wildlife",
+        "alligator"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A large reptile with a wide snout that lives in swamps"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "Done for sport or fun - not for a job — which word?",
+      "choices": [
+        "permit",
+        "hunt",
+        "recreational",
+        "conservation"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Done for sport or fun - not for a job"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "The act of chasing and taking a wild animal — which word?",
+      "choices": [
+        "alligator",
+        "recreational",
+        "wildlife",
+        "hunt"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The act of chasing and taking a wild animal"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A drawing that chooses winners by chance — which word?",
+      "choices": [
+        "recreational",
+        "conservation",
+        "population",
+        "lottery"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A drawing that chooses winners by chance"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The protection of animals and wild places — which word?",
+      "choices": [
+        "hunt",
+        "conservation",
+        "recreational",
+        "harvest"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The protection of animals and wild places"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The number of animals of one kind in an area — which word?",
+      "choices": [
+        "hunt",
+        "conservation",
+        "population",
+        "alligator"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The number of animals of one kind in an area"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Wet land with trees - water - and mud — which word?",
+      "choices": [
+        "alligator",
+        "harvest",
+        "swamp",
+        "hunt"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Wet land with trees - water - and mud"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "An official paper that allows an activity — which word?",
+      "choices": [
+        "harvest",
+        "permit",
+        "lottery",
+        "conservation"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An official paper that allows an activity"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Taking a limited number of animals under rules — which word?",
+      "choices": [
+        "wildlife",
+        "lottery",
+        "conservation",
+        "harvest"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Taking a limited number of animals under rules"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Animals living in nature - not on farms — which word?",
+      "choices": [
+        "wildlife",
+        "permit",
+        "conservation",
+        "harvest"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Animals living in nature - not on farms"
+    }
+  ]
+}

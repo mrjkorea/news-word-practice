@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-10",
+  "date": "2026-09-10",
+  "title": "News Words · 2026-09-10",
+  "headline": "arthritis hydrogel",
+  "words": [
+    {
+      "id": "w1",
+      "en": "arthritis",
+      "ko": [],
+      "def_en": "A disease that causes painful stiff joints",
+      "example": "Today's news uses the word arthritis."
+    },
+    {
+      "id": "w2",
+      "en": "injection",
+      "ko": [],
+      "def_en": "Medicine put into the body with a needle",
+      "example": "Today's news uses the word injection."
+    },
+    {
+      "id": "w3",
+      "en": "hydrogel",
+      "ko": [],
+      "def_en": "A water-based gel that can hold and release drugs",
+      "example": "Today's news uses the word hydrogel."
+    },
+    {
+      "id": "w4",
+      "en": "joint",
+      "ko": [],
+      "def_en": "A place where two bones meet and move",
+      "example": "Today's news uses the word joint."
+    },
+    {
+      "id": "w5",
+      "en": "lubrication",
+      "ko": [],
+      "def_en": "A slippery layer that reduces friction",
+      "example": "Today's news uses the word lubrication."
+    },
+    {
+      "id": "w6",
+      "en": "cartilage",
+      "ko": [],
+      "def_en": "Smooth tissue that cushions bones in a joint",
+      "example": "Today's news uses the word cartilage."
+    },
+    {
+      "id": "w7",
+      "en": "therapy",
+      "ko": [],
+      "def_en": "Treatment meant to improve health",
+      "example": "Today's news uses the word therapy."
+    },
+    {
+      "id": "w8",
+      "en": "depot",
+      "ko": [],
+      "def_en": "A storage place where material is held for later use",
+      "example": "Today's news uses the word depot."
+    },
+    {
+      "id": "w9",
+      "en": "biologic",
+      "ko": [],
+      "def_en": "A medicine made from living cells or proteins",
+      "example": "Today's news uses the word biologic."
+    },
+    {
+      "id": "w10",
+      "en": "symptom",
+      "ko": [],
+      "def_en": "A sign of illness that a patient feels",
+      "example": "Today's news uses the word symptom."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A disease that causes painful stiff joints — which word?",
+      "choices": [
+        "cartilage",
+        "hydrogel",
+        "arthritis",
+        "lubrication"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A disease that causes painful stiff joints"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "Medicine put into the body with a needle — which word?",
+      "choices": [
+        "injection",
+        "cartilage",
+        "lubrication",
+        "arthritis"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Medicine put into the body with a needle"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A water-based gel that can hold and release drugs — which word?",
+      "choices": [
+        "cartilage",
+        "arthritis",
+        "hydrogel",
+        "injection"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A water-based gel that can hold and release drugs"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A place where two bones meet and move — which word?",
+      "choices": [
+        "cartilage",
+        "hydrogel",
+        "injection",
+        "joint"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A place where two bones meet and move"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A slippery layer that reduces friction — which word?",
+      "choices": [
+        "therapy",
+        "lubrication",
+        "injection",
+        "arthritis"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A slippery layer that reduces friction"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Smooth tissue that cushions bones in a joint — which word?",
+      "choices": [
+        "joint",
+        "symptom",
+        "biologic",
+        "cartilage"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Smooth tissue that cushions bones in a joint"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Treatment meant to improve health — which word?",
+      "choices": [
+        "therapy",
+        "cartilage",
+        "symptom",
+        "depot"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Treatment meant to improve health"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A storage place where material is held for later use — which word?",
+      "choices": [
+        "depot",
+        "lubrication",
+        "injection",
+        "hydrogel"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A storage place where material is held for later use"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A medicine made from living cells or proteins — which word?",
+      "choices": [
+        "injection",
+        "hydrogel",
+        "depot",
+        "biologic"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A medicine made from living cells or proteins"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A sign of illness that a patient feels — which word?",
+      "choices": [
+        "depot",
+        "symptom",
+        "lubrication",
+        "hydrogel"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A sign of illness that a patient feels"
+    }
+  ]
+}

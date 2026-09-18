@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-13",
+  "date": "2026-08-13",
+  "title": "News Words · 2026-08-13",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "cricketer",
+      "ko": [],
+      "def_en": "A person who plays the sport of cricket.",
+      "example": "Today's news uses the word cricketer."
+    },
+    {
+      "id": "w2",
+      "en": "all-rounder",
+      "ko": [],
+      "def_en": "A cricket player who is good at both batting and bowling.",
+      "example": "Today's news uses the word all-rounder."
+    },
+    {
+      "id": "w3",
+      "en": "squad",
+      "ko": [],
+      "def_en": "A team of players selected for a sport.",
+      "example": "Today's news uses the word squad."
+    },
+    {
+      "id": "w4",
+      "en": "debut",
+      "ko": [],
+      "def_en": "A first public performance or first appearance in a competition.",
+      "example": "Today's news uses the word debut."
+    },
+    {
+      "id": "w5",
+      "en": "wicket",
+      "ko": [],
+      "def_en": "In cricket, the set of wooden stumps or the dismissal of a batter.",
+      "example": "Today's news uses the word wicket."
+    },
+    {
+      "id": "w6",
+      "en": "tournament",
+      "ko": [],
+      "def_en": "A series of competitions in which teams play to find a winner.",
+      "example": "Today's news uses the word tournament."
+    },
+    {
+      "id": "w7",
+      "en": "infrastructure",
+      "ko": [],
+      "def_en": "The basic systems and structures needed for a place to work, such as roads and buildings.",
+      "example": "Today's news uses the word infrastructure."
+    },
+    {
+      "id": "w8",
+      "en": "obstacle",
+      "ko": [],
+      "def_en": "Something that blocks the way or makes progress difficult.",
+      "example": "Today's news uses the word obstacle."
+    },
+    {
+      "id": "w9",
+      "en": "landmark",
+      "ko": [],
+      "def_en": "An important event or a famous place that is easy to recognize.",
+      "example": "Today's news uses the word landmark."
+    },
+    {
+      "id": "w10",
+      "en": "select",
+      "ko": [],
+      "def_en": "To choose someone or something from a group.",
+      "example": "Today's news uses the word select."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A person who plays the sport of cricket. — which word?",
+      "choices": [
+        "squad",
+        "select",
+        "cricketer",
+        "infrastructure"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A person who plays the sport of cricket."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A cricket player who is good at both batting and bowling. — which word?",
+      "choices": [
+        "squad",
+        "landmark",
+        "cricketer",
+        "all-rounder"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A cricket player who is good at both batting and bowling."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A team of players selected for a sport. — which word?",
+      "choices": [
+        "squad",
+        "debut",
+        "tournament",
+        "wicket"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A team of players selected for a sport."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A first public performance or first appearance in a competition. — which word?",
+      "choices": [
+        "squad",
+        "debut",
+        "cricketer",
+        "select"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A first public performance or first appearance in a competition."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "In cricket, the set of wooden stumps or the dismissal of a batter. — which word?",
+      "choices": [
+        "cricketer",
+        "wicket",
+        "obstacle",
+        "all-rounder"
+      ],
+      "answerIndex": 1,
+      "hintKo": "In cricket, the set of wooden stumps or the dismissal of a batter."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A series of competitions in which teams play to find a winner. — which word?",
+      "choices": [
+        "squad",
+        "tournament",
+        "wicket",
+        "debut"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A series of competitions in which teams play to find a winner."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "The basic systems and structures needed for a place to work, such as roads and buildings. — which word?",
+      "choices": [
+        "all-rounder",
+        "tournament",
+        "infrastructure",
+        "squad"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The basic systems and structures needed for a place to work, such as roads and b"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Something that blocks the way or makes progress difficult. — which word?",
+      "choices": [
+        "debut",
+        "infrastructure",
+        "select",
+        "obstacle"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Something that blocks the way or makes progress difficult."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "An important event or a famous place that is easy to recognize. — which word?",
+      "choices": [
+        "squad",
+        "infrastructure",
+        "landmark",
+        "tournament"
+      ],
+      "answerIndex": 2,
+      "hintKo": "An important event or a famous place that is easy to recognize."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "To choose someone or something from a group. — which word?",
+      "choices": [
+        "wicket",
+        "select",
+        "obstacle",
+        "all-rounder"
+      ],
+      "answerIndex": 1,
+      "hintKo": "To choose someone or something from a group."
+    }
+  ]
+}

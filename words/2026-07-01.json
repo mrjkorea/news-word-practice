@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-01",
+  "date": "2026-07-01",
+  "title": "News Words · 2026-07-01",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "tournament",
+      "ko": [],
+      "def_en": "A series of games or contests played to determine a champion",
+      "example": "Today's news uses the word tournament."
+    },
+    {
+      "id": "w2",
+      "en": "knockout",
+      "ko": [],
+      "def_en": "A stage in a competition where the loser is eliminated and cannot continue",
+      "example": "Today's news uses the word knockout."
+    },
+    {
+      "id": "w3",
+      "en": "qualify",
+      "ko": [],
+      "def_en": "To earn the right to enter a competition by meeting required standards",
+      "example": "Today's news uses the word qualify."
+    },
+    {
+      "id": "w4",
+      "en": "squad",
+      "ko": [],
+      "def_en": "A group of players selected to represent a team",
+      "example": "Today's news uses the word squad."
+    },
+    {
+      "id": "w5",
+      "en": "defender",
+      "ko": [],
+      "def_en": "A player whose main job is to stop the opposing team from scoring",
+      "example": "Today's news uses the word defender."
+    },
+    {
+      "id": "w6",
+      "en": "striker",
+      "ko": [],
+      "def_en": "An attacking player whose main job is to score goals",
+      "example": "Today's news uses the word striker."
+    },
+    {
+      "id": "w7",
+      "en": "elimination",
+      "ko": [],
+      "def_en": "The process of being removed from a competition after losing",
+      "example": "Today's news uses the word elimination."
+    },
+    {
+      "id": "w8",
+      "en": "underdog",
+      "ko": [],
+      "def_en": "A competitor who is expected to lose — the weaker or less favoured side",
+      "example": "Today's news uses the word underdog."
+    },
+    {
+      "id": "w9",
+      "en": "bracket",
+      "ko": [],
+      "def_en": "A chart showing the matchups and path through a tournament",
+      "example": "Today's news uses the word bracket."
+    },
+    {
+      "id": "w10",
+      "en": "favourite",
+      "ko": [],
+      "def_en": "The competitor expected to win — the stronger or more likely side",
+      "example": "Today's news uses the word favourite."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A series of games or contests played to determine a champion — which word?",
+      "choices": [
+        "qualify",
+        "tournament",
+        "defender",
+        "knockout"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A series of games or contests played to determine a champion"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A stage in a competition where the loser is eliminated and cannot continue — which word?",
+      "choices": [
+        "bracket",
+        "striker",
+        "knockout",
+        "elimination"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A stage in a competition where the loser is eliminated and cannot continue"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "To earn the right to enter a competition by meeting required standards — which word?",
+      "choices": [
+        "qualify",
+        "striker",
+        "knockout",
+        "squad"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To earn the right to enter a competition by meeting required standards"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A group of players selected to represent a team — which word?",
+      "choices": [
+        "squad",
+        "tournament",
+        "defender",
+        "striker"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A group of players selected to represent a team"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A player whose main job is to stop the opposing team from scoring — which word?",
+      "choices": [
+        "defender",
+        "elimination",
+        "underdog",
+        "bracket"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A player whose main job is to stop the opposing team from scoring"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "An attacking player whose main job is to score goals — which word?",
+      "choices": [
+        "elimination",
+        "knockout",
+        "striker",
+        "squad"
+      ],
+      "answerIndex": 2,
+      "hintKo": "An attacking player whose main job is to score goals"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "The process of being removed from a competition after losing — which word?",
+      "choices": [
+        "striker",
+        "bracket",
+        "elimination",
+        "knockout"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The process of being removed from a competition after losing"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A competitor who is expected to lose — the weaker or less favoured side — which word?",
+      "choices": [
+        "favourite",
+        "underdog",
+        "squad",
+        "striker"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A competitor who is expected to lose — the weaker or less favoured side"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A chart showing the matchups and path through a tournament — which word?",
+      "choices": [
+        "bracket",
+        "elimination",
+        "favourite",
+        "qualify"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A chart showing the matchups and path through a tournament"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "The competitor expected to win — the stronger or more likely side — which word?",
+      "choices": [
+        "defender",
+        "tournament",
+        "favourite",
+        "squad"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The competitor expected to win — the stronger or more likely side"
+    }
+  ]
+}

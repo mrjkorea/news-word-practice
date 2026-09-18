@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-28",
+  "date": "2026-07-28",
+  "title": "News Words · 2026-07-28",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "geological",
+      "ko": [],
+      "def_en": "Relating to the study of the earth's physical structure and substance.",
+      "example": "Today's news uses the word geological."
+    },
+    {
+      "id": "w2",
+      "en": "planetary",
+      "ko": [],
+      "def_en": "Relating to or belonging to a planet or planets.",
+      "example": "Today's news uses the word planetary."
+    },
+    {
+      "id": "w3",
+      "en": "simulation",
+      "ko": [],
+      "def_en": "An imitation of a real-world process or system using a computer model.",
+      "example": "Today's news uses the word simulation."
+    },
+    {
+      "id": "w4",
+      "en": "tectonic",
+      "ko": [],
+      "def_en": "Relating to the structure and movement of the earth's crust.",
+      "example": "Today's news uses the word tectonic."
+    },
+    {
+      "id": "w5",
+      "en": "crust",
+      "ko": [],
+      "def_en": "The outermost solid layer of a planet or moon.",
+      "example": "Today's news uses the word crust."
+    },
+    {
+      "id": "w6",
+      "en": "probe",
+      "ko": [],
+      "def_en": "An unmanned spacecraft designed to explore and gather data.",
+      "example": "Today's news uses the word probe."
+    },
+    {
+      "id": "w7",
+      "en": "rift",
+      "ko": [],
+      "def_en": "A crack, split, or break in something, especially the earth's surface.",
+      "example": "Today's news uses the word rift."
+    },
+    {
+      "id": "w8",
+      "en": "dynamic",
+      "ko": [],
+      "def_en": "Characterized by constant change, activity, or progress.",
+      "example": "Today's news uses the word dynamic."
+    },
+    {
+      "id": "w9",
+      "en": "interior",
+      "ko": [],
+      "def_en": "The inner part or inside of something.",
+      "example": "Today's news uses the word interior."
+    },
+    {
+      "id": "w10",
+      "en": "mission",
+      "ko": [],
+      "def_en": "An important assignment or expedition, often scientific or military.",
+      "example": "Today's news uses the word mission."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Relating to the study of the earth's physical structure and substance. — which word?",
+      "choices": [
+        "planetary",
+        "simulation",
+        "tectonic",
+        "geological"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Relating to the study of the earth's physical structure and substance."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "Relating to or belonging to a planet or planets. — which word?",
+      "choices": [
+        "planetary",
+        "interior",
+        "mission",
+        "tectonic"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Relating to or belonging to a planet or planets."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "An imitation of a real-world process or system using a computer model. — which word?",
+      "choices": [
+        "tectonic",
+        "simulation",
+        "rift",
+        "dynamic"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An imitation of a real-world process or system using a computer model."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Relating to the structure and movement of the earth's crust. — which word?",
+      "choices": [
+        "mission",
+        "tectonic",
+        "crust",
+        "rift"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Relating to the structure and movement of the earth's crust."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The outermost solid layer of a planet or moon. — which word?",
+      "choices": [
+        "planetary",
+        "crust",
+        "probe",
+        "dynamic"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The outermost solid layer of a planet or moon."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "An unmanned spacecraft designed to explore and gather data. — which word?",
+      "choices": [
+        "crust",
+        "interior",
+        "probe",
+        "dynamic"
+      ],
+      "answerIndex": 2,
+      "hintKo": "An unmanned spacecraft designed to explore and gather data."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A crack, split, or break in something, especially the earth's surface. — which word?",
+      "choices": [
+        "probe",
+        "dynamic",
+        "rift",
+        "tectonic"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A crack, split, or break in something, especially the earth's surface."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Characterized by constant change, activity, or progress. — which word?",
+      "choices": [
+        "dynamic",
+        "interior",
+        "rift",
+        "geological"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Characterized by constant change, activity, or progress."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "The inner part or inside of something. — which word?",
+      "choices": [
+        "simulation",
+        "dynamic",
+        "interior",
+        "planetary"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The inner part or inside of something."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "An important assignment or expedition, often scientific or military. — which word?",
+      "choices": [
+        "geological",
+        "mission",
+        "tectonic",
+        "interior"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An important assignment or expedition, often scientific or military."
+    }
+  ]
+}

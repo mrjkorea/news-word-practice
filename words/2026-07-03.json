@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-03",
+  "date": "2026-07-03",
+  "title": "News Words · 2026-07-03",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "negotiators",
+      "ko": [],
+      "def_en": "people who discuss an issue and try to reach an agreement",
+      "example": "Today's news uses the word negotiators."
+    },
+    {
+      "id": "w2",
+      "en": "mediators",
+      "ko": [],
+      "def_en": "people or countries that help two sides communicate and solve a conflict",
+      "example": "Today's news uses the word mediators."
+    },
+    {
+      "id": "w3",
+      "en": "discussions",
+      "ko": [],
+      "def_en": "serious conversations about an important topic",
+      "example": "Today's news uses the word discussions."
+    },
+    {
+      "id": "w4",
+      "en": "agreement",
+      "ko": [],
+      "def_en": "a decision accepted by two or more sides",
+      "example": "Today's news uses the word agreement."
+    },
+    {
+      "id": "w5",
+      "en": "strait",
+      "ko": [],
+      "def_en": "a narrow passage of water connecting two larger bodies of water",
+      "example": "Today's news uses the word strait."
+    },
+    {
+      "id": "w6",
+      "en": "waterway",
+      "ko": [],
+      "def_en": "a river canal or sea route used by boats and ships",
+      "example": "Today's news uses the word waterway."
+    },
+    {
+      "id": "w7",
+      "en": "leverage",
+      "ko": [],
+      "def_en": "power or influence used to get what you want in a negotiation",
+      "example": "Today's news uses the word leverage."
+    },
+    {
+      "id": "w8",
+      "en": "routes",
+      "ko": [],
+      "def_en": "paths used to travel from one place to another",
+      "example": "Today's news uses the word routes."
+    },
+    {
+      "id": "w9",
+      "en": "vessel",
+      "ko": [],
+      "def_en": "a ship or large boat",
+      "example": "Today's news uses the word vessel."
+    },
+    {
+      "id": "w10",
+      "en": "tension",
+      "ko": [],
+      "def_en": "stress pressure or conflict between people groups or countries",
+      "example": "Today's news uses the word tension."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "people who discuss an issue and try to reach an agreement — which word?",
+      "choices": [
+        "waterway",
+        "negotiators",
+        "tension",
+        "mediators"
+      ],
+      "answerIndex": 1,
+      "hintKo": "people who discuss an issue and try to reach an agreement"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "people or countries that help two sides communicate and solve a conflict — which word?",
+      "choices": [
+        "strait",
+        "negotiators",
+        "leverage",
+        "mediators"
+      ],
+      "answerIndex": 3,
+      "hintKo": "people or countries that help two sides communicate and solve a conflict"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "serious conversations about an important topic — which word?",
+      "choices": [
+        "negotiators",
+        "waterway",
+        "mediators",
+        "discussions"
+      ],
+      "answerIndex": 3,
+      "hintKo": "serious conversations about an important topic"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "a decision accepted by two or more sides — which word?",
+      "choices": [
+        "discussions",
+        "leverage",
+        "waterway",
+        "agreement"
+      ],
+      "answerIndex": 3,
+      "hintKo": "a decision accepted by two or more sides"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "a narrow passage of water connecting two larger bodies of water — which word?",
+      "choices": [
+        "strait",
+        "leverage",
+        "tension",
+        "vessel"
+      ],
+      "answerIndex": 0,
+      "hintKo": "a narrow passage of water connecting two larger bodies of water"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "a river canal or sea route used by boats and ships — which word?",
+      "choices": [
+        "negotiators",
+        "strait",
+        "waterway",
+        "vessel"
+      ],
+      "answerIndex": 2,
+      "hintKo": "a river canal or sea route used by boats and ships"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "power or influence used to get what you want in a negotiation — which word?",
+      "choices": [
+        "leverage",
+        "waterway",
+        "strait",
+        "negotiators"
+      ],
+      "answerIndex": 0,
+      "hintKo": "power or influence used to get what you want in a negotiation"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "paths used to travel from one place to another — which word?",
+      "choices": [
+        "routes",
+        "vessel",
+        "agreement",
+        "strait"
+      ],
+      "answerIndex": 0,
+      "hintKo": "paths used to travel from one place to another"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "a ship or large boat — which word?",
+      "choices": [
+        "negotiators",
+        "tension",
+        "vessel",
+        "routes"
+      ],
+      "answerIndex": 2,
+      "hintKo": "a ship or large boat"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "stress pressure or conflict between people groups or countries — which word?",
+      "choices": [
+        "routes",
+        "tension",
+        "vessel",
+        "discussions"
+      ],
+      "answerIndex": 1,
+      "hintKo": "stress pressure or conflict between people groups or countries"
+    }
+  ]
+}

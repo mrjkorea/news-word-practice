@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-06",
+  "date": "2026-08-06",
+  "title": "News Words · 2026-08-06",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "volcano",
+      "ko": [],
+      "def_en": "A mountain with an opening through which hot rock and gas can escape.",
+      "example": "Today's news uses the word volcano."
+    },
+    {
+      "id": "w2",
+      "en": "eruption",
+      "ko": [],
+      "def_en": "A sudden release of hot rock ash and gas from a volcano.",
+      "example": "Today's news uses the word eruption."
+    },
+    {
+      "id": "w3",
+      "en": "pumice",
+      "ko": [],
+      "def_en": "A very light grey rock full of air holes formed from volcanic foam.",
+      "example": "Today's news uses the word pumice."
+    },
+    {
+      "id": "w4",
+      "en": "submarine",
+      "ko": [],
+      "def_en": "Existing or happening below the surface of the sea.",
+      "example": "Today's news uses the word submarine."
+    },
+    {
+      "id": "w5",
+      "en": "ridge",
+      "ko": [],
+      "def_en": "A long narrow raised area such as a line of mountains or hills underwater.",
+      "example": "Today's news uses the word ridge."
+    },
+    {
+      "id": "w6",
+      "en": "magma",
+      "ko": [],
+      "def_en": "Hot liquid rock below the surface of the Earth.",
+      "example": "Today's news uses the word magma."
+    },
+    {
+      "id": "w7",
+      "en": "swarm",
+      "ko": [],
+      "def_en": "A large group of things moving together such as a swarm of earthquakes.",
+      "example": "Today's news uses the word swarm."
+    },
+    {
+      "id": "w8",
+      "en": "satellite",
+      "ko": [],
+      "def_en": "A machine sent into space that orbits the Earth to collect information.",
+      "example": "Today's news uses the word satellite."
+    },
+    {
+      "id": "w9",
+      "en": "survey",
+      "ko": [],
+      "def_en": "To carefully examine and measure an area or situation.",
+      "example": "Today's news uses the word survey."
+    },
+    {
+      "id": "w10",
+      "en": "crater",
+      "ko": [],
+      "def_en": "A large bowl-shaped hole especially at the top of a volcano.",
+      "example": "Today's news uses the word crater."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A mountain with an opening through which hot rock and gas can escape. — which word?",
+      "choices": [
+        "eruption",
+        "volcano",
+        "swarm",
+        "submarine"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A mountain with an opening through which hot rock and gas can escape."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A sudden release of hot rock ash and gas from a volcano. — which word?",
+      "choices": [
+        "pumice",
+        "submarine",
+        "eruption",
+        "ridge"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A sudden release of hot rock ash and gas from a volcano."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A very light grey rock full of air holes formed from volcanic foam. — which word?",
+      "choices": [
+        "volcano",
+        "pumice",
+        "submarine",
+        "swarm"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A very light grey rock full of air holes formed from volcanic foam."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Existing or happening below the surface of the sea. — which word?",
+      "choices": [
+        "ridge",
+        "submarine",
+        "magma",
+        "survey"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Existing or happening below the surface of the sea."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A long narrow raised area such as a line of mountains or hills underwater. — which word?",
+      "choices": [
+        "ridge",
+        "swarm",
+        "magma",
+        "survey"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A long narrow raised area such as a line of mountains or hills underwater."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Hot liquid rock below the surface of the Earth. — which word?",
+      "choices": [
+        "pumice",
+        "submarine",
+        "magma",
+        "satellite"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Hot liquid rock below the surface of the Earth."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A large group of things moving together such as a swarm of earthquakes. — which word?",
+      "choices": [
+        "swarm",
+        "eruption",
+        "pumice",
+        "crater"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A large group of things moving together such as a swarm of earthquakes."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A machine sent into space that orbits the Earth to collect information. — which word?",
+      "choices": [
+        "survey",
+        "submarine",
+        "swarm",
+        "satellite"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A machine sent into space that orbits the Earth to collect information."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "To carefully examine and measure an area or situation. — which word?",
+      "choices": [
+        "swarm",
+        "survey",
+        "satellite",
+        "pumice"
+      ],
+      "answerIndex": 1,
+      "hintKo": "To carefully examine and measure an area or situation."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A large bowl-shaped hole especially at the top of a volcano. — which word?",
+      "choices": [
+        "survey",
+        "volcano",
+        "crater",
+        "submarine"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A large bowl-shaped hole especially at the top of a volcano."
+    }
+  ]
+}

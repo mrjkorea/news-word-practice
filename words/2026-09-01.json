@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-01",
+  "date": "2026-09-01",
+  "title": "News Words · 2026-09-01",
+  "headline": "zurich world records",
+  "words": [
+    {
+      "id": "w1",
+      "en": "hurdles",
+      "ko": [],
+      "def_en": "A race where runners jump over barriers on a track",
+      "example": "Today's news uses the word hurdles."
+    },
+    {
+      "id": "w2",
+      "en": "record",
+      "ko": [],
+      "def_en": "The best result ever officially measured in an event",
+      "example": "Today's news uses the word record."
+    },
+    {
+      "id": "w3",
+      "en": "stadium",
+      "ko": [],
+      "def_en": "A large outdoor place built for sports events",
+      "example": "Today's news uses the word stadium."
+    },
+    {
+      "id": "w4",
+      "en": "champion",
+      "ko": [],
+      "def_en": "The winner of a major competition",
+      "example": "Today's news uses the word champion."
+    },
+    {
+      "id": "w5",
+      "en": "athlete",
+      "ko": [],
+      "def_en": "A person trained to compete in sports",
+      "example": "Today's news uses the word athlete."
+    },
+    {
+      "id": "w6",
+      "en": "vault",
+      "ko": [],
+      "def_en": "A jump over a high bar using a long pole",
+      "example": "Today's news uses the word vault."
+    },
+    {
+      "id": "w7",
+      "en": "crowd",
+      "ko": [],
+      "def_en": "A large group of people watching an event",
+      "example": "Today's news uses the word crowd."
+    },
+    {
+      "id": "w8",
+      "en": "track",
+      "ko": [],
+      "def_en": "The oval running surface used in athletics",
+      "example": "Today's news uses the word track."
+    },
+    {
+      "id": "w9",
+      "en": "sportsmanship",
+      "ko": [],
+      "def_en": "Fair and respectful behavior in sports",
+      "example": "Today's news uses the word sportsmanship."
+    },
+    {
+      "id": "w10",
+      "en": "meeting",
+      "ko": [],
+      "def_en": "A scheduled sports event with many races",
+      "example": "Today's news uses the word meeting."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A race where runners jump over barriers on a track — which word?",
+      "choices": [
+        "track",
+        "meeting",
+        "vault",
+        "hurdles"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A race where runners jump over barriers on a track"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "The best result ever officially measured in an event — which word?",
+      "choices": [
+        "stadium",
+        "champion",
+        "crowd",
+        "record"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The best result ever officially measured in an event"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A large outdoor place built for sports events — which word?",
+      "choices": [
+        "track",
+        "champion",
+        "hurdles",
+        "stadium"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A large outdoor place built for sports events"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The winner of a major competition — which word?",
+      "choices": [
+        "champion",
+        "record",
+        "track",
+        "stadium"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The winner of a major competition"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A person trained to compete in sports — which word?",
+      "choices": [
+        "record",
+        "vault",
+        "meeting",
+        "athlete"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A person trained to compete in sports"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A jump over a high bar using a long pole — which word?",
+      "choices": [
+        "sportsmanship",
+        "vault",
+        "crowd",
+        "athlete"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A jump over a high bar using a long pole"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A large group of people watching an event — which word?",
+      "choices": [
+        "champion",
+        "crowd",
+        "vault",
+        "sportsmanship"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A large group of people watching an event"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The oval running surface used in athletics — which word?",
+      "choices": [
+        "vault",
+        "sportsmanship",
+        "track",
+        "stadium"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The oval running surface used in athletics"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Fair and respectful behavior in sports — which word?",
+      "choices": [
+        "sportsmanship",
+        "vault",
+        "stadium",
+        "hurdles"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Fair and respectful behavior in sports"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A scheduled sports event with many races — which word?",
+      "choices": [
+        "athlete",
+        "vault",
+        "meeting",
+        "record"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A scheduled sports event with many races"
+    }
+  ]
+}

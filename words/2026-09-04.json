@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-04",
+  "date": "2026-09-04",
+  "title": "News Words · 2026-09-04",
+  "headline": "galaxy s26 fe",
+  "words": [
+    {
+      "id": "w1",
+      "en": "galaxy",
+      "ko": [],
+      "def_en": "Samsung's brand name for its main smartphone line",
+      "example": "Today's news uses the word galaxy."
+    },
+    {
+      "id": "w2",
+      "en": "feature",
+      "ko": [],
+      "def_en": "A tool or function that a product offers",
+      "example": "Today's news uses the word feature."
+    },
+    {
+      "id": "w3",
+      "en": "assistant",
+      "ko": [],
+      "def_en": "Software that helps you write - call - or search",
+      "example": "Today's news uses the word assistant."
+    },
+    {
+      "id": "w4",
+      "en": "camera",
+      "ko": [],
+      "def_en": "The part of a phone that takes photos and video",
+      "example": "Today's news uses the word camera."
+    },
+    {
+      "id": "w5",
+      "en": "launch",
+      "ko": [],
+      "def_en": "The official day a product goes on sale",
+      "example": "Today's news uses the word launch."
+    },
+    {
+      "id": "w6",
+      "en": "software",
+      "ko": [],
+      "def_en": "The programs that run on a phone or computer",
+      "example": "Today's news uses the word software."
+    },
+    {
+      "id": "w7",
+      "en": "processor",
+      "ko": [],
+      "def_en": "The main chip that runs a phone's calculations",
+      "example": "Today's news uses the word processor."
+    },
+    {
+      "id": "w8",
+      "en": "interpreter",
+      "ko": [],
+      "def_en": "A tool that turns speech from one language into another",
+      "example": "Today's news uses the word interpreter."
+    },
+    {
+      "id": "w9",
+      "en": "update",
+      "ko": [],
+      "def_en": "A new version of software that adds fixes or features",
+      "example": "Today's news uses the word update."
+    },
+    {
+      "id": "w10",
+      "en": "smartphone",
+      "ko": [],
+      "def_en": "A handheld computer that makes calls and runs apps",
+      "example": "Today's news uses the word smartphone."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Samsung's brand name for its main smartphone line — which word?",
+      "choices": [
+        "update",
+        "software",
+        "galaxy",
+        "interpreter"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Samsung's brand name for its main smartphone line"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A tool or function that a product offers — which word?",
+      "choices": [
+        "feature",
+        "assistant",
+        "update",
+        "processor"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A tool or function that a product offers"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Software that helps you write - call - or search — which word?",
+      "choices": [
+        "software",
+        "assistant",
+        "feature",
+        "camera"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Software that helps you write - call - or search"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The part of a phone that takes photos and video — which word?",
+      "choices": [
+        "assistant",
+        "software",
+        "galaxy",
+        "camera"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The part of a phone that takes photos and video"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The official day a product goes on sale — which word?",
+      "choices": [
+        "software",
+        "launch",
+        "interpreter",
+        "camera"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The official day a product goes on sale"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The programs that run on a phone or computer — which word?",
+      "choices": [
+        "software",
+        "smartphone",
+        "camera",
+        "assistant"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The programs that run on a phone or computer"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "The main chip that runs a phone's calculations — which word?",
+      "choices": [
+        "processor",
+        "interpreter",
+        "launch",
+        "feature"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The main chip that runs a phone's calculations"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A tool that turns speech from one language into another — which word?",
+      "choices": [
+        "assistant",
+        "interpreter",
+        "feature",
+        "launch"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A tool that turns speech from one language into another"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A new version of software that adds fixes or features — which word?",
+      "choices": [
+        "galaxy",
+        "update",
+        "smartphone",
+        "software"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A new version of software that adds fixes or features"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A handheld computer that makes calls and runs apps — which word?",
+      "choices": [
+        "processor",
+        "smartphone",
+        "update",
+        "assistant"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A handheld computer that makes calls and runs apps"
+    }
+  ]
+}

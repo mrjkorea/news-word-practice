@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-09",
+  "date": "2026-07-09",
+  "title": "News Words · 2026-07-09",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "misinformation",
+      "ko": [],
+      "def_en": "False information that people may believe is true.",
+      "example": "Today's news uses the word misinformation."
+    },
+    {
+      "id": "w2",
+      "en": "regulation",
+      "ko": [],
+      "def_en": "An official rule made by a government or organization.",
+      "example": "Today's news uses the word regulation."
+    },
+    {
+      "id": "w3",
+      "en": "journalist",
+      "ko": [],
+      "def_en": "A person who reports news for the media.",
+      "example": "Today's news uses the word journalist."
+    },
+    {
+      "id": "w4",
+      "en": "censorship",
+      "ko": [],
+      "def_en": "Controlling or blocking what people may say or publish.",
+      "example": "Today's news uses the word censorship."
+    },
+    {
+      "id": "w5",
+      "en": "penalty",
+      "ko": [],
+      "def_en": "A punishment for breaking a rule or law.",
+      "example": "Today's news uses the word penalty."
+    },
+    {
+      "id": "w6",
+      "en": "criticism",
+      "ko": [],
+      "def_en": "Saying what is wrong with something or someone.",
+      "example": "Today's news uses the word criticism."
+    },
+    {
+      "id": "w7",
+      "en": "authority",
+      "ko": [],
+      "def_en": "The power to make decisions or enforce rules.",
+      "example": "Today's news uses the word authority."
+    },
+    {
+      "id": "w8",
+      "en": "watchdog",
+      "ko": [],
+      "def_en": "A person or group that checks powerful institutions.",
+      "example": "Today's news uses the word watchdog."
+    },
+    {
+      "id": "w9",
+      "en": "public trust",
+      "ko": [],
+      "def_en": "Confidence people have in a system or institution.",
+      "example": "Today's news uses the word public trust."
+    },
+    {
+      "id": "w10",
+      "en": "freedom",
+      "ko": [],
+      "def_en": "The right to speak or act without unfair control.",
+      "example": "Today's news uses the word freedom."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "False information that people may believe is true. — which word?",
+      "choices": [
+        "watchdog",
+        "misinformation",
+        "freedom",
+        "censorship"
+      ],
+      "answerIndex": 1,
+      "hintKo": "False information that people may believe is true."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "An official rule made by a government or organization. — which word?",
+      "choices": [
+        "watchdog",
+        "penalty",
+        "censorship",
+        "regulation"
+      ],
+      "answerIndex": 3,
+      "hintKo": "An official rule made by a government or organization."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A person who reports news for the media. — which word?",
+      "choices": [
+        "freedom",
+        "journalist",
+        "authority",
+        "misinformation"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A person who reports news for the media."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Controlling or blocking what people may say or publish. — which word?",
+      "choices": [
+        "journalist",
+        "censorship",
+        "authority",
+        "freedom"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Controlling or blocking what people may say or publish."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A punishment for breaking a rule or law. — which word?",
+      "choices": [
+        "watchdog",
+        "public trust",
+        "penalty",
+        "censorship"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A punishment for breaking a rule or law."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Saying what is wrong with something or someone. — which word?",
+      "choices": [
+        "criticism",
+        "journalist",
+        "censorship",
+        "watchdog"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Saying what is wrong with something or someone."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "The power to make decisions or enforce rules. — which word?",
+      "choices": [
+        "misinformation",
+        "authority",
+        "public trust",
+        "freedom"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The power to make decisions or enforce rules."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A person or group that checks powerful institutions. — which word?",
+      "choices": [
+        "watchdog",
+        "journalist",
+        "penalty",
+        "misinformation"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A person or group that checks powerful institutions."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Confidence people have in a system or institution. — which word?",
+      "choices": [
+        "authority",
+        "penalty",
+        "watchdog",
+        "public trust"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Confidence people have in a system or institution."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "The right to speak or act without unfair control. — which word?",
+      "choices": [
+        "freedom",
+        "public trust",
+        "criticism",
+        "watchdog"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The right to speak or act without unfair control."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "2026-06-23",
+  "date": "2026-06-23",
+  "title": "News Words · 2026-06-23",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "neuron",
+      "ko": [],
+      "def_en": "a nerve cell that transmits information",
+      "example": "Today's news uses the word neuron."
+    },
+    {
+      "id": "w2",
+      "en": "genome",
+      "ko": [],
+      "def_en": "the complete set of DNA in an organism",
+      "example": "Today's news uses the word genome."
+    },
+    {
+      "id": "w3",
+      "en": "migrate",
+      "ko": [],
+      "def_en": "to move from one place to another",
+      "example": "Today's news uses the word migrate."
+    },
+    {
+      "id": "w4",
+      "en": "enzyme",
+      "ko": [],
+      "def_en": "a protein that speeds up chemical reactions",
+      "example": "Today's news uses the word enzyme."
+    },
+    {
+      "id": "w5",
+      "en": "cortex",
+      "ko": [],
+      "def_en": "the outer layer of the brain",
+      "example": "Today's news uses the word cortex."
+    },
+    {
+      "id": "w6",
+      "en": "tolerate",
+      "ko": [],
+      "def_en": "to endure something difficult",
+      "example": "Today's news uses the word tolerate."
+    },
+    {
+      "id": "w7",
+      "en": "mutation",
+      "ko": [],
+      "def_en": "a change in DNA sequence",
+      "example": "Today's news uses the word mutation."
+    },
+    {
+      "id": "w8",
+      "en": "repair",
+      "ko": [],
+      "def_en": "to fix something that is broken",
+      "example": "Today's news uses the word repair."
+    },
+    {
+      "id": "w9",
+      "en": "mechanical",
+      "ko": [],
+      "def_en": "related to machines or physical forces",
+      "example": "Today's news uses the word mechanical."
+    },
+    {
+      "id": "w10",
+      "en": "diversity",
+      "ko": [],
+      "def_en": "variety; differences among things",
+      "example": "Today's news uses the word diversity."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "a nerve cell that transmits information — which word?",
+      "choices": [
+        "neuron",
+        "enzyme",
+        "tolerate",
+        "genome"
+      ],
+      "answerIndex": 0,
+      "hintKo": "a nerve cell that transmits information"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "the complete set of DNA in an organism — which word?",
+      "choices": [
+        "diversity",
+        "genome",
+        "repair",
+        "mutation"
+      ],
+      "answerIndex": 1,
+      "hintKo": "the complete set of DNA in an organism"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "to move from one place to another — which word?",
+      "choices": [
+        "migrate",
+        "mechanical",
+        "cortex",
+        "mutation"
+      ],
+      "answerIndex": 0,
+      "hintKo": "to move from one place to another"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "a protein that speeds up chemical reactions — which word?",
+      "choices": [
+        "neuron",
+        "enzyme",
+        "genome",
+        "mechanical"
+      ],
+      "answerIndex": 1,
+      "hintKo": "a protein that speeds up chemical reactions"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "the outer layer of the brain — which word?",
+      "choices": [
+        "tolerate",
+        "cortex",
+        "neuron",
+        "repair"
+      ],
+      "answerIndex": 1,
+      "hintKo": "the outer layer of the brain"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "to endure something difficult — which word?",
+      "choices": [
+        "cortex",
+        "repair",
+        "tolerate",
+        "mechanical"
+      ],
+      "answerIndex": 2,
+      "hintKo": "to endure something difficult"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "a change in DNA sequence — which word?",
+      "choices": [
+        "migrate",
+        "mutation",
+        "enzyme",
+        "cortex"
+      ],
+      "answerIndex": 1,
+      "hintKo": "a change in DNA sequence"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "to fix something that is broken — which word?",
+      "choices": [
+        "diversity",
+        "tolerate",
+        "mutation",
+        "repair"
+      ],
+      "answerIndex": 3,
+      "hintKo": "to fix something that is broken"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "related to machines or physical forces — which word?",
+      "choices": [
+        "repair",
+        "enzyme",
+        "mechanical",
+        "migrate"
+      ],
+      "answerIndex": 2,
+      "hintKo": "related to machines or physical forces"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "variety; differences among things — which word?",
+      "choices": [
+        "repair",
+        "tolerate",
+        "enzyme",
+        "diversity"
+      ],
+      "answerIndex": 3,
+      "hintKo": "variety; differences among things"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-20",
+  "date": "2026-08-20",
+  "title": "News Words · 2026-08-20",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "penalty",
+      "ko": [],
+      "def_en": "A punishment given for breaking a law",
+      "example": "Today's news uses the word penalty."
+    },
+    {
+      "id": "w2",
+      "en": "offence",
+      "ko": [],
+      "def_en": "A crime or illegal act",
+      "example": "Today's news uses the word offence."
+    },
+    {
+      "id": "w3",
+      "en": "assembly",
+      "ko": [],
+      "def_en": "A group of lawmakers who meet to make decisions",
+      "example": "Today's news uses the word assembly."
+    },
+    {
+      "id": "w4",
+      "en": "draft",
+      "ko": [],
+      "def_en": "An early written version of a law or document",
+      "example": "Today's news uses the word draft."
+    },
+    {
+      "id": "w5",
+      "en": "treason",
+      "ko": [],
+      "def_en": "The crime of betraying your country",
+      "example": "Today's news uses the word treason."
+    },
+    {
+      "id": "w6",
+      "en": "murder",
+      "ko": [],
+      "def_en": "The crime of killing a person on purpose",
+      "example": "Today's news uses the word murder."
+    },
+    {
+      "id": "w7",
+      "en": "terrorism",
+      "ko": [],
+      "def_en": "The use of violence to frighten people for a political goal",
+      "example": "Today's news uses the word terrorism."
+    },
+    {
+      "id": "w8",
+      "en": "narcotics",
+      "ko": [],
+      "def_en": "Illegal drugs that are controlled by law",
+      "example": "Today's news uses the word narcotics."
+    },
+    {
+      "id": "w9",
+      "en": "abolish",
+      "ko": [],
+      "def_en": "To officially end a law or system",
+      "example": "Today's news uses the word abolish."
+    },
+    {
+      "id": "w10",
+      "en": "injection",
+      "ko": [],
+      "def_en": "The act of putting a liquid into the body with a needle",
+      "example": "Today's news uses the word injection."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A punishment given for breaking a law — which word?",
+      "choices": [
+        "abolish",
+        "murder",
+        "penalty",
+        "injection"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A punishment given for breaking a law"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A crime or illegal act — which word?",
+      "choices": [
+        "offence",
+        "draft",
+        "injection",
+        "abolish"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A crime or illegal act"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A group of lawmakers who meet to make decisions — which word?",
+      "choices": [
+        "assembly",
+        "narcotics",
+        "murder",
+        "penalty"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A group of lawmakers who meet to make decisions"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "An early written version of a law or document — which word?",
+      "choices": [
+        "injection",
+        "draft",
+        "assembly",
+        "penalty"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An early written version of a law or document"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The crime of betraying your country — which word?",
+      "choices": [
+        "treason",
+        "murder",
+        "narcotics",
+        "assembly"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The crime of betraying your country"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The crime of killing a person on purpose — which word?",
+      "choices": [
+        "assembly",
+        "narcotics",
+        "murder",
+        "abolish"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The crime of killing a person on purpose"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "The use of violence to frighten people for a political goal — which word?",
+      "choices": [
+        "offence",
+        "abolish",
+        "terrorism",
+        "murder"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The use of violence to frighten people for a political goal"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Illegal drugs that are controlled by law — which word?",
+      "choices": [
+        "treason",
+        "narcotics",
+        "offence",
+        "assembly"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Illegal drugs that are controlled by law"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "To officially end a law or system — which word?",
+      "choices": [
+        "abolish",
+        "narcotics",
+        "draft",
+        "murder"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To officially end a law or system"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "The act of putting a liquid into the body with a needle — which word?",
+      "choices": [
+        "injection",
+        "abolish",
+        "murder",
+        "penalty"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The act of putting a liquid into the body with a needle"
+    }
+  ]
+}

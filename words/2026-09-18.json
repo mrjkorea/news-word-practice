@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-18",
+  "date": "2026-09-18",
+  "title": "News Words · 2026-09-18",
+  "headline": "finland viking silver hoard",
+  "words": [
+    {
+      "id": "w1",
+      "en": "detector",
+      "ko": [],
+      "def_en": "A device that finds metal hidden in the ground",
+      "example": "Today's news uses the word detector."
+    },
+    {
+      "id": "w2",
+      "en": "hoard",
+      "ko": [],
+      "def_en": "A large secret store of valuable objects",
+      "example": "Today's news uses the word hoard."
+    },
+    {
+      "id": "w3",
+      "en": "silver",
+      "ko": [],
+      "def_en": "A shiny grey precious metal used for coins and jewelry",
+      "example": "Today's news uses the word silver."
+    },
+    {
+      "id": "w4",
+      "en": "coin",
+      "ko": [],
+      "def_en": "A flat piece of metal used as money",
+      "example": "Today's news uses the word coin."
+    },
+    {
+      "id": "w5",
+      "en": "jewelry",
+      "ko": [],
+      "def_en": "Decorative objects worn on the body like rings or beads",
+      "example": "Today's news uses the word jewelry."
+    },
+    {
+      "id": "w6",
+      "en": "treasure",
+      "ko": [],
+      "def_en": "Valuable objects such as gold silver or gems",
+      "example": "Today's news uses the word treasure."
+    },
+    {
+      "id": "w7",
+      "en": "ancient",
+      "ko": [],
+      "def_en": "Very old from a long time ago",
+      "example": "Today's news uses the word ancient."
+    },
+    {
+      "id": "w8",
+      "en": "museum",
+      "ko": [],
+      "def_en": "A place where important objects are kept and shown",
+      "example": "Today's news uses the word museum."
+    },
+    {
+      "id": "w9",
+      "en": "container",
+      "ko": [],
+      "def_en": "Something used to hold or carry other things",
+      "example": "Today's news uses the word container."
+    },
+    {
+      "id": "w10",
+      "en": "discover",
+      "ko": [],
+      "def_en": "To find something for the first time",
+      "example": "Today's news uses the word discover."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A device that finds metal hidden in the ground — which word?",
+      "choices": [
+        "silver",
+        "museum",
+        "detector",
+        "treasure"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A device that finds metal hidden in the ground"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A large secret store of valuable objects — which word?",
+      "choices": [
+        "coin",
+        "museum",
+        "discover",
+        "hoard"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A large secret store of valuable objects"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A shiny grey precious metal used for coins and jewelry — which word?",
+      "choices": [
+        "container",
+        "treasure",
+        "hoard",
+        "silver"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A shiny grey precious metal used for coins and jewelry"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A flat piece of metal used as money — which word?",
+      "choices": [
+        "hoard",
+        "ancient",
+        "discover",
+        "coin"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A flat piece of metal used as money"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Decorative objects worn on the body like rings or beads — which word?",
+      "choices": [
+        "jewelry",
+        "discover",
+        "detector",
+        "coin"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Decorative objects worn on the body like rings or beads"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Valuable objects such as gold silver or gems — which word?",
+      "choices": [
+        "treasure",
+        "jewelry",
+        "hoard",
+        "ancient"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Valuable objects such as gold silver or gems"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Very old from a long time ago — which word?",
+      "choices": [
+        "coin",
+        "ancient",
+        "container",
+        "silver"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Very old from a long time ago"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A place where important objects are kept and shown — which word?",
+      "choices": [
+        "container",
+        "coin",
+        "museum",
+        "hoard"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A place where important objects are kept and shown"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Something used to hold or carry other things — which word?",
+      "choices": [
+        "treasure",
+        "museum",
+        "container",
+        "detector"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Something used to hold or carry other things"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "To find something for the first time — which word?",
+      "choices": [
+        "jewelry",
+        "discover",
+        "silver",
+        "museum"
+      ],
+      "answerIndex": 1,
+      "hintKo": "To find something for the first time"
+    }
+  ]
+}

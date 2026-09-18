@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-25",
+  "date": "2026-08-25",
+  "title": "News Words · 2026-08-25",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "robot",
+      "ko": [],
+      "def_en": "A machine that can do tasks automatically; sometimes moving like a person",
+      "example": "Today's news uses the word robot."
+    },
+    {
+      "id": "w2",
+      "en": "humanoid",
+      "ko": [],
+      "def_en": "A machine or creature shaped like a human body",
+      "example": "Today's news uses the word humanoid."
+    },
+    {
+      "id": "w3",
+      "en": "games",
+      "ko": [],
+      "def_en": "Organized competitions with rules; often for sport",
+      "example": "Today's news uses the word games."
+    },
+    {
+      "id": "w4",
+      "en": "marathon",
+      "ko": [],
+      "def_en": "A very long running race; usually over forty-two kilometers",
+      "example": "Today's news uses the word marathon."
+    },
+    {
+      "id": "w5",
+      "en": "autonomous",
+      "ko": [],
+      "def_en": "Able to act or move on its own without human control",
+      "example": "Today's news uses the word autonomous."
+    },
+    {
+      "id": "w6",
+      "en": "medal",
+      "ko": [],
+      "def_en": "A flat piece of metal given to winners of a competition",
+      "example": "Today's news uses the word medal."
+    },
+    {
+      "id": "w7",
+      "en": "conference",
+      "ko": [],
+      "def_en": "A large formal meeting where people discuss a topic",
+      "example": "Today's news uses the word conference."
+    },
+    {
+      "id": "w8",
+      "en": "showcase",
+      "ko": [],
+      "def_en": "An event or place that displays something at its best",
+      "example": "Today's news uses the word showcase."
+    },
+    {
+      "id": "w9",
+      "en": "precision",
+      "ko": [],
+      "def_en": "The quality of being exact and accurate",
+      "example": "Today's news uses the word precision."
+    },
+    {
+      "id": "w10",
+      "en": "industry",
+      "ko": [],
+      "def_en": "All the businesses that make or provide a certain type of product",
+      "example": "Today's news uses the word industry."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A machine that can do tasks automatically; sometimes moving like a person — which word?",
+      "choices": [
+        "marathon",
+        "robot",
+        "conference",
+        "precision"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A machine that can do tasks automatically; sometimes moving like a person"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A machine or creature shaped like a human body — which word?",
+      "choices": [
+        "medal",
+        "humanoid",
+        "robot",
+        "games"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A machine or creature shaped like a human body"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Organized competitions with rules; often for sport — which word?",
+      "choices": [
+        "marathon",
+        "games",
+        "medal",
+        "humanoid"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Organized competitions with rules; often for sport"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A very long running race; usually over forty-two kilometers — which word?",
+      "choices": [
+        "humanoid",
+        "marathon",
+        "showcase",
+        "robot"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A very long running race; usually over forty-two kilometers"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Able to act or move on its own without human control — which word?",
+      "choices": [
+        "industry",
+        "showcase",
+        "autonomous",
+        "games"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Able to act or move on its own without human control"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A flat piece of metal given to winners of a competition — which word?",
+      "choices": [
+        "games",
+        "medal",
+        "conference",
+        "autonomous"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A flat piece of metal given to winners of a competition"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A large formal meeting where people discuss a topic — which word?",
+      "choices": [
+        "conference",
+        "robot",
+        "industry",
+        "games"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A large formal meeting where people discuss a topic"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "An event or place that displays something at its best — which word?",
+      "choices": [
+        "robot",
+        "games",
+        "showcase",
+        "marathon"
+      ],
+      "answerIndex": 2,
+      "hintKo": "An event or place that displays something at its best"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "The quality of being exact and accurate — which word?",
+      "choices": [
+        "marathon",
+        "precision",
+        "conference",
+        "games"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The quality of being exact and accurate"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "All the businesses that make or provide a certain type of product — which word?",
+      "choices": [
+        "medal",
+        "robot",
+        "industry",
+        "conference"
+      ],
+      "answerIndex": 2,
+      "hintKo": "All the businesses that make or provide a certain type of product"
+    }
+  ]
+}

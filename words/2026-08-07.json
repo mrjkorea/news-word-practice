@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-07",
+  "date": "2026-08-07",
+  "title": "News Words · 2026-08-07",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "protein",
+      "ko": [],
+      "def_en": "A large molecule in living things made of amino acids needed for structure and function.",
+      "example": "Today's news uses the word protein."
+    },
+    {
+      "id": "w2",
+      "en": "immunotherapy",
+      "ko": [],
+      "def_en": "A treatment that helps the body's immune system fight disease such as cancer.",
+      "example": "Today's news uses the word immunotherapy."
+    },
+    {
+      "id": "w3",
+      "en": "tumor",
+      "ko": [],
+      "def_en": "An abnormal growth of cells in the body.",
+      "example": "Today's news uses the word tumor."
+    },
+    {
+      "id": "w4",
+      "en": "immune",
+      "ko": [],
+      "def_en": "Protected against disease by the body's defense system.",
+      "example": "Today's news uses the word immune."
+    },
+    {
+      "id": "w5",
+      "en": "circulate",
+      "ko": [],
+      "def_en": "To move continuously through a system such as blood through the body.",
+      "example": "Today's news uses the word circulate."
+    },
+    {
+      "id": "w6",
+      "en": "fibroblast",
+      "ko": [],
+      "def_en": "A cell in connective tissue that helps build and repair body structures.",
+      "example": "Today's news uses the word fibroblast."
+    },
+    {
+      "id": "w7",
+      "en": "suppress",
+      "ko": [],
+      "def_en": "To stop or reduce something from happening or growing.",
+      "example": "Today's news uses the word suppress."
+    },
+    {
+      "id": "w8",
+      "en": "resistant",
+      "ko": [],
+      "def_en": "Not easily affected or harmed by something.",
+      "example": "Today's news uses the word resistant."
+    },
+    {
+      "id": "w9",
+      "en": "antibody",
+      "ko": [],
+      "def_en": "A protein produced by the immune system to fight specific invaders.",
+      "example": "Today's news uses the word antibody."
+    },
+    {
+      "id": "w10",
+      "en": "fragment",
+      "ko": [],
+      "def_en": "A small piece broken off from something larger.",
+      "example": "Today's news uses the word fragment."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A large molecule in living things made of amino acids needed for structure and function. — which word?",
+      "choices": [
+        "suppress",
+        "circulate",
+        "fragment",
+        "protein"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A large molecule in living things made of amino acids needed for structure and f"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A treatment that helps the body's immune system fight disease such as cancer. — which word?",
+      "choices": [
+        "immunotherapy",
+        "fragment",
+        "fibroblast",
+        "circulate"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A treatment that helps the body's immune system fight disease such as cancer."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "An abnormal growth of cells in the body. — which word?",
+      "choices": [
+        "tumor",
+        "circulate",
+        "immune",
+        "suppress"
+      ],
+      "answerIndex": 0,
+      "hintKo": "An abnormal growth of cells in the body."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Protected against disease by the body's defense system. — which word?",
+      "choices": [
+        "protein",
+        "circulate",
+        "immune",
+        "suppress"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Protected against disease by the body's defense system."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "To move continuously through a system such as blood through the body. — which word?",
+      "choices": [
+        "protein",
+        "tumor",
+        "circulate",
+        "immunotherapy"
+      ],
+      "answerIndex": 2,
+      "hintKo": "To move continuously through a system such as blood through the body."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A cell in connective tissue that helps build and repair body structures. — which word?",
+      "choices": [
+        "immunotherapy",
+        "fibroblast",
+        "suppress",
+        "circulate"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A cell in connective tissue that helps build and repair body structures."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "To stop or reduce something from happening or growing. — which word?",
+      "choices": [
+        "fragment",
+        "suppress",
+        "immunotherapy",
+        "antibody"
+      ],
+      "answerIndex": 1,
+      "hintKo": "To stop or reduce something from happening or growing."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Not easily affected or harmed by something. — which word?",
+      "choices": [
+        "protein",
+        "circulate",
+        "suppress",
+        "resistant"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Not easily affected or harmed by something."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A protein produced by the immune system to fight specific invaders. — which word?",
+      "choices": [
+        "immunotherapy",
+        "antibody",
+        "tumor",
+        "suppress"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A protein produced by the immune system to fight specific invaders."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A small piece broken off from something larger. — which word?",
+      "choices": [
+        "protein",
+        "fragment",
+        "resistant",
+        "suppress"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A small piece broken off from something larger."
+    }
+  ]
+}

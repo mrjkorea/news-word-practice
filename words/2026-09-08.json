@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-08",
+  "date": "2026-09-08",
+  "title": "News Words · 2026-09-08",
+  "headline": "australia gdp q2",
+  "words": [
+    {
+      "id": "w1",
+      "en": "economy",
+      "ko": [],
+      "def_en": "The system of money jobs and trade in a country",
+      "example": "Today's news uses the word economy."
+    },
+    {
+      "id": "w2",
+      "en": "growth",
+      "ko": [],
+      "def_en": "An increase in size amount or activity",
+      "example": "Today's news uses the word growth."
+    },
+    {
+      "id": "w3",
+      "en": "inflation",
+      "ko": [],
+      "def_en": "A general rise in prices over time",
+      "example": "Today's news uses the word inflation."
+    },
+    {
+      "id": "w4",
+      "en": "household",
+      "ko": [],
+      "def_en": "A home and the people who live there",
+      "example": "Today's news uses the word household."
+    },
+    {
+      "id": "w5",
+      "en": "export",
+      "ko": [],
+      "def_en": "A product sold to another country",
+      "example": "Today's news uses the word export."
+    },
+    {
+      "id": "w6",
+      "en": "mining",
+      "ko": [],
+      "def_en": "The business of digging valuable materials from the earth",
+      "example": "Today's news uses the word mining."
+    },
+    {
+      "id": "w7",
+      "en": "forecast",
+      "ko": [],
+      "def_en": "A prediction about future numbers or events",
+      "example": "Today's news uses the word forecast."
+    },
+    {
+      "id": "w8",
+      "en": "demand",
+      "ko": [],
+      "def_en": "How much people want to buy something",
+      "example": "Today's news uses the word demand."
+    },
+    {
+      "id": "w9",
+      "en": "spending",
+      "ko": [],
+      "def_en": "Money used to pay for goods and services",
+      "example": "Today's news uses the word spending."
+    },
+    {
+      "id": "w10",
+      "en": "reserve",
+      "ko": [],
+      "def_en": "Money or policy tools kept back for future use",
+      "example": "Today's news uses the word reserve."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "The system of money jobs and trade in a country — which word?",
+      "choices": [
+        "inflation",
+        "household",
+        "economy",
+        "demand"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The system of money jobs and trade in a country"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "An increase in size amount or activity — which word?",
+      "choices": [
+        "reserve",
+        "demand",
+        "growth",
+        "mining"
+      ],
+      "answerIndex": 2,
+      "hintKo": "An increase in size amount or activity"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A general rise in prices over time — which word?",
+      "choices": [
+        "mining",
+        "inflation",
+        "growth",
+        "spending"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A general rise in prices over time"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A home and the people who live there — which word?",
+      "choices": [
+        "forecast",
+        "household",
+        "inflation",
+        "export"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A home and the people who live there"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A product sold to another country — which word?",
+      "choices": [
+        "reserve",
+        "export",
+        "spending",
+        "growth"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A product sold to another country"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The business of digging valuable materials from the earth — which word?",
+      "choices": [
+        "inflation",
+        "export",
+        "spending",
+        "mining"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The business of digging valuable materials from the earth"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A prediction about future numbers or events — which word?",
+      "choices": [
+        "inflation",
+        "economy",
+        "demand",
+        "forecast"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A prediction about future numbers or events"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "How much people want to buy something — which word?",
+      "choices": [
+        "household",
+        "demand",
+        "spending",
+        "inflation"
+      ],
+      "answerIndex": 1,
+      "hintKo": "How much people want to buy something"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Money used to pay for goods and services — which word?",
+      "choices": [
+        "reserve",
+        "forecast",
+        "economy",
+        "spending"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Money used to pay for goods and services"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Money or policy tools kept back for future use — which word?",
+      "choices": [
+        "economy",
+        "reserve",
+        "export",
+        "demand"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Money or policy tools kept back for future use"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-08",
+  "date": "2026-07-08",
+  "title": "News Words · 2026-07-08",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "heatwave",
+      "ko": [],
+      "def_en": "A long period of unusually hot weather",
+      "example": "Today's news uses the word heatwave."
+    },
+    {
+      "id": "w2",
+      "en": "excess",
+      "ko": [],
+      "def_en": "More than normal or expected",
+      "example": "Today's news uses the word excess."
+    },
+    {
+      "id": "w3",
+      "en": "continent",
+      "ko": [],
+      "def_en": "A very large area of land such as Europe or Asia",
+      "example": "Today's news uses the word continent."
+    },
+    {
+      "id": "w4",
+      "en": "wildfire",
+      "ko": [],
+      "def_en": "An uncontrolled fire that burns in forests or grassland",
+      "example": "Today's news uses the word wildfire."
+    },
+    {
+      "id": "w5",
+      "en": "infrastructure",
+      "ko": [],
+      "def_en": "The basic systems a place needs such as roads power and railways",
+      "example": "Today's news uses the word infrastructure."
+    },
+    {
+      "id": "w6",
+      "en": "lightning",
+      "ko": [],
+      "def_en": "A bright flash of electricity in the sky during a storm",
+      "example": "Today's news uses the word lightning."
+    },
+    {
+      "id": "w7",
+      "en": "record",
+      "ko": [],
+      "def_en": "The highest or lowest amount ever officially measured",
+      "example": "Today's news uses the word record."
+    },
+    {
+      "id": "w8",
+      "en": "emergency",
+      "ko": [],
+      "def_en": "A serious dangerous situation that needs quick action",
+      "example": "Today's news uses the word emergency."
+    },
+    {
+      "id": "w9",
+      "en": "additional",
+      "ko": [],
+      "def_en": "Extra or more than what was already there",
+      "example": "Today's news uses the word additional."
+    },
+    {
+      "id": "w10",
+      "en": "elderly",
+      "ko": [],
+      "def_en": "Older people especially senior citizens",
+      "example": "Today's news uses the word elderly."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A long period of unusually hot weather — which word?",
+      "choices": [
+        "elderly",
+        "emergency",
+        "heatwave",
+        "infrastructure"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A long period of unusually hot weather"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "More than normal or expected — which word?",
+      "choices": [
+        "lightning",
+        "wildfire",
+        "additional",
+        "excess"
+      ],
+      "answerIndex": 3,
+      "hintKo": "More than normal or expected"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A very large area of land such as Europe or Asia — which word?",
+      "choices": [
+        "lightning",
+        "continent",
+        "heatwave",
+        "elderly"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A very large area of land such as Europe or Asia"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "An uncontrolled fire that burns in forests or grassland — which word?",
+      "choices": [
+        "record",
+        "wildfire",
+        "infrastructure",
+        "emergency"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An uncontrolled fire that burns in forests or grassland"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The basic systems a place needs such as roads power and railways — which word?",
+      "choices": [
+        "lightning",
+        "emergency",
+        "infrastructure",
+        "record"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The basic systems a place needs such as roads power and railways"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A bright flash of electricity in the sky during a storm — which word?",
+      "choices": [
+        "heatwave",
+        "excess",
+        "wildfire",
+        "lightning"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A bright flash of electricity in the sky during a storm"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "The highest or lowest amount ever officially measured — which word?",
+      "choices": [
+        "emergency",
+        "excess",
+        "elderly",
+        "record"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The highest or lowest amount ever officially measured"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A serious dangerous situation that needs quick action — which word?",
+      "choices": [
+        "heatwave",
+        "continent",
+        "emergency",
+        "lightning"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A serious dangerous situation that needs quick action"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Extra or more than what was already there — which word?",
+      "choices": [
+        "record",
+        "additional",
+        "continent",
+        "elderly"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Extra or more than what was already there"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Older people especially senior citizens — which word?",
+      "choices": [
+        "lightning",
+        "additional",
+        "elderly",
+        "excess"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Older people especially senior citizens"
+    }
+  ]
+}

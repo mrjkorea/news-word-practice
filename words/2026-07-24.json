@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-24",
+  "date": "2026-07-24",
+  "title": "News Words · 2026-07-24",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "landslide",
+      "ko": [],
+      "def_en": "A large amount of rock or earth that slides down a slope.",
+      "example": "Today's news uses the word landslide."
+    },
+    {
+      "id": "w2",
+      "en": "crater",
+      "ko": [],
+      "def_en": "A large bowl-shaped hole in the ground or on a planet's surface.",
+      "example": "Today's news uses the word crater."
+    },
+    {
+      "id": "w3",
+      "en": "debris",
+      "ko": [],
+      "def_en": "Broken pieces of something such as rocks or ice that have been destroyed.",
+      "example": "Today's news uses the word debris."
+    },
+    {
+      "id": "w4",
+      "en": "terrain",
+      "ko": [],
+      "def_en": "The physical features of an area of land including hills valleys and mountains.",
+      "example": "Today's news uses the word terrain."
+    },
+    {
+      "id": "w5",
+      "en": "massive",
+      "ko": [],
+      "def_en": "Extremely large or heavy.",
+      "example": "Today's news uses the word massive."
+    },
+    {
+      "id": "w6",
+      "en": "mission",
+      "ko": [],
+      "def_en": "An important journey or task often used for space exploration.",
+      "example": "Today's news uses the word mission."
+    },
+    {
+      "id": "w7",
+      "en": "deposit",
+      "ko": [],
+      "def_en": "To leave or lay down material in a new place.",
+      "example": "Today's news uses the word deposit."
+    },
+    {
+      "id": "w8",
+      "en": "crescent",
+      "ko": [],
+      "def_en": "A shape that is curved like a thin moon.",
+      "example": "Today's news uses the word crescent."
+    },
+    {
+      "id": "w9",
+      "en": "feature",
+      "ko": [],
+      "def_en": "A distinctive part or characteristic of something.",
+      "example": "Today's news uses the word feature."
+    },
+    {
+      "id": "w10",
+      "en": "evidence",
+      "ko": [],
+      "def_en": "Facts or information that show whether something is true.",
+      "example": "Today's news uses the word evidence."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A large amount of rock or earth that slides down a slope. — which word?",
+      "choices": [
+        "crescent",
+        "deposit",
+        "feature",
+        "landslide"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A large amount of rock or earth that slides down a slope."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A large bowl-shaped hole in the ground or on a planet's surface. — which word?",
+      "choices": [
+        "landslide",
+        "evidence",
+        "crater",
+        "deposit"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A large bowl-shaped hole in the ground or on a planet's surface."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Broken pieces of something such as rocks or ice that have been destroyed. — which word?",
+      "choices": [
+        "mission",
+        "debris",
+        "deposit",
+        "landslide"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Broken pieces of something such as rocks or ice that have been destroyed."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The physical features of an area of land including hills valleys and mountains. — which word?",
+      "choices": [
+        "crater",
+        "massive",
+        "mission",
+        "terrain"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The physical features of an area of land including hills valleys and mountains."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Extremely large or heavy. — which word?",
+      "choices": [
+        "terrain",
+        "landslide",
+        "crater",
+        "massive"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Extremely large or heavy."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "An important journey or task often used for space exploration. — which word?",
+      "choices": [
+        "evidence",
+        "mission",
+        "debris",
+        "crater"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An important journey or task often used for space exploration."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "To leave or lay down material in a new place. — which word?",
+      "choices": [
+        "crescent",
+        "evidence",
+        "debris",
+        "deposit"
+      ],
+      "answerIndex": 3,
+      "hintKo": "To leave or lay down material in a new place."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "A shape that is curved like a thin moon. — which word?",
+      "choices": [
+        "crater",
+        "mission",
+        "massive",
+        "crescent"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A shape that is curved like a thin moon."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A distinctive part or characteristic of something. — which word?",
+      "choices": [
+        "feature",
+        "debris",
+        "crescent",
+        "terrain"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A distinctive part or characteristic of something."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Facts or information that show whether something is true. — which word?",
+      "choices": [
+        "evidence",
+        "debris",
+        "massive",
+        "landslide"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Facts or information that show whether something is true."
+    }
+  ]
+}

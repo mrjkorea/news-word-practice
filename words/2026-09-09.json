@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-09",
+  "date": "2026-09-09",
+  "title": "News Words · 2026-09-09",
+  "headline": "isar spectrum orbit",
+  "words": [
+    {
+      "id": "w1",
+      "en": "rocket",
+      "ko": [],
+      "def_en": "A vehicle that pushes itself through space by burning fuel",
+      "example": "Today's news uses the word rocket."
+    },
+    {
+      "id": "w2",
+      "en": "satellite",
+      "ko": [],
+      "def_en": "A machine sent into orbit to collect data or relay signals",
+      "example": "Today's news uses the word satellite."
+    },
+    {
+      "id": "w3",
+      "en": "launch",
+      "ko": [],
+      "def_en": "The moment a rocket lifts off and begins its flight",
+      "example": "Today's news uses the word launch."
+    },
+    {
+      "id": "w4",
+      "en": "payload",
+      "ko": [],
+      "def_en": "The cargo a rocket carries into space",
+      "example": "Today's news uses the word payload."
+    },
+    {
+      "id": "w5",
+      "en": "stage",
+      "ko": [],
+      "def_en": "One section of a multi-part rocket",
+      "example": "Today's news uses the word stage."
+    },
+    {
+      "id": "w6",
+      "en": "spaceport",
+      "ko": [],
+      "def_en": "A facility built for launching rockets",
+      "example": "Today's news uses the word spaceport."
+    },
+    {
+      "id": "w7",
+      "en": "private",
+      "ko": [],
+      "def_en": "Owned or run by a company rather than a government",
+      "example": "Today's news uses the word private."
+    },
+    {
+      "id": "w8",
+      "en": "capacity",
+      "ko": [],
+      "def_en": "The ability to produce or carry a certain amount",
+      "example": "Today's news uses the word capacity."
+    },
+    {
+      "id": "w9",
+      "en": "independence",
+      "ko": [],
+      "def_en": "Freedom from relying on others",
+      "example": "Today's news uses the word independence."
+    },
+    {
+      "id": "w10",
+      "en": "mission",
+      "ko": [],
+      "def_en": "A planned operation with a clear goal",
+      "example": "Today's news uses the word mission."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A vehicle that pushes itself through space by burning fuel — which word?",
+      "choices": [
+        "rocket",
+        "stage",
+        "mission",
+        "satellite"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A vehicle that pushes itself through space by burning fuel"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A machine sent into orbit to collect data or relay signals — which word?",
+      "choices": [
+        "capacity",
+        "mission",
+        "launch",
+        "satellite"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A machine sent into orbit to collect data or relay signals"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "The moment a rocket lifts off and begins its flight — which word?",
+      "choices": [
+        "private",
+        "launch",
+        "mission",
+        "capacity"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The moment a rocket lifts off and begins its flight"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The cargo a rocket carries into space — which word?",
+      "choices": [
+        "private",
+        "capacity",
+        "satellite",
+        "payload"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The cargo a rocket carries into space"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "One section of a multi-part rocket — which word?",
+      "choices": [
+        "payload",
+        "launch",
+        "stage",
+        "spaceport"
+      ],
+      "answerIndex": 2,
+      "hintKo": "One section of a multi-part rocket"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A facility built for launching rockets — which word?",
+      "choices": [
+        "launch",
+        "private",
+        "independence",
+        "spaceport"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A facility built for launching rockets"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Owned or run by a company rather than a government — which word?",
+      "choices": [
+        "private",
+        "independence",
+        "stage",
+        "mission"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Owned or run by a company rather than a government"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The ability to produce or carry a certain amount — which word?",
+      "choices": [
+        "capacity",
+        "stage",
+        "private",
+        "mission"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The ability to produce or carry a certain amount"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Freedom from relying on others — which word?",
+      "choices": [
+        "satellite",
+        "independence",
+        "private",
+        "rocket"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Freedom from relying on others"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A planned operation with a clear goal — which word?",
+      "choices": [
+        "launch",
+        "mission",
+        "satellite",
+        "independence"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A planned operation with a clear goal"
+    }
+  ]
+}

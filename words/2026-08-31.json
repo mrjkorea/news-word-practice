@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-31",
+  "date": "2026-08-31",
+  "title": "News Words · 2026-08-31",
+  "headline": "spirulina b12",
+  "words": [
+    {
+      "id": "w1",
+      "en": "spirulina",
+      "ko": [],
+      "def_en": "A blue-green algae grown as a protein-rich food",
+      "example": "Today's news uses the word spirulina."
+    },
+    {
+      "id": "w2",
+      "en": "vitamin",
+      "ko": [],
+      "def_en": "A substance the body needs in small amounts to stay healthy",
+      "example": "Today's news uses the word vitamin."
+    },
+    {
+      "id": "w3",
+      "en": "algae",
+      "ko": [],
+      "def_en": "Simple water plants that can make food from light",
+      "example": "Today's news uses the word algae."
+    },
+    {
+      "id": "w4",
+      "en": "active",
+      "ko": [],
+      "def_en": "Able to work in the body in a useful way",
+      "example": "Today's news uses the word active."
+    },
+    {
+      "id": "w5",
+      "en": "biomass",
+      "ko": [],
+      "def_en": "Plant or algae material used as a source of energy or food",
+      "example": "Today's news uses the word biomass."
+    },
+    {
+      "id": "w6",
+      "en": "nutrient",
+      "ko": [],
+      "def_en": "A substance in food that helps the body grow and work",
+      "example": "Today's news uses the word nutrient."
+    },
+    {
+      "id": "w7",
+      "en": "deficiency",
+      "ko": [],
+      "def_en": "A lack of something the body needs",
+      "example": "Today's news uses the word deficiency."
+    },
+    {
+      "id": "w8",
+      "en": "sustainable",
+      "ko": [],
+      "def_en": "Able to continue without harming the planet too much",
+      "example": "Today's news uses the word sustainable."
+    },
+    {
+      "id": "w9",
+      "en": "cultivation",
+      "ko": [],
+      "def_en": "The process of growing plants or algae on purpose",
+      "example": "Today's news uses the word cultivation."
+    },
+    {
+      "id": "w10",
+      "en": "protein",
+      "ko": [],
+      "def_en": "A nutrient that helps build muscle and body tissue",
+      "example": "Today's news uses the word protein."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A blue-green algae grown as a protein-rich food — which word?",
+      "choices": [
+        "spirulina",
+        "biomass",
+        "active",
+        "cultivation"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A blue-green algae grown as a protein-rich food"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A substance the body needs in small amounts to stay healthy — which word?",
+      "choices": [
+        "deficiency",
+        "spirulina",
+        "vitamin",
+        "algae"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A substance the body needs in small amounts to stay healthy"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Simple water plants that can make food from light — which word?",
+      "choices": [
+        "spirulina",
+        "algae",
+        "nutrient",
+        "biomass"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Simple water plants that can make food from light"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Able to work in the body in a useful way — which word?",
+      "choices": [
+        "deficiency",
+        "spirulina",
+        "algae",
+        "active"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Able to work in the body in a useful way"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Plant or algae material used as a source of energy or food — which word?",
+      "choices": [
+        "vitamin",
+        "cultivation",
+        "biomass",
+        "protein"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Plant or algae material used as a source of energy or food"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A substance in food that helps the body grow and work — which word?",
+      "choices": [
+        "sustainable",
+        "cultivation",
+        "biomass",
+        "nutrient"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A substance in food that helps the body grow and work"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A lack of something the body needs — which word?",
+      "choices": [
+        "deficiency",
+        "algae",
+        "sustainable",
+        "active"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A lack of something the body needs"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Able to continue without harming the planet too much — which word?",
+      "choices": [
+        "algae",
+        "sustainable",
+        "deficiency",
+        "vitamin"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Able to continue without harming the planet too much"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "The process of growing plants or algae on purpose — which word?",
+      "choices": [
+        "active",
+        "cultivation",
+        "spirulina",
+        "vitamin"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The process of growing plants or algae on purpose"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A nutrient that helps build muscle and body tissue — which word?",
+      "choices": [
+        "algae",
+        "deficiency",
+        "active",
+        "protein"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A nutrient that helps build muscle and body tissue"
+    }
+  ]
+}

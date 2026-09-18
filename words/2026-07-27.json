@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-27",
+  "date": "2026-07-27",
+  "title": "News Words · 2026-07-27",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "species",
+      "ko": [],
+      "def_en": "A group of living organisms that share characteristics and can breed with each other.",
+      "example": "Today's news uses the word species."
+    },
+    {
+      "id": "w2",
+      "en": "rainforest",
+      "ko": [],
+      "def_en": "A dense forest in a tropical region that receives a lot of rain.",
+      "example": "Today's news uses the word rainforest."
+    },
+    {
+      "id": "w3",
+      "en": "distinctive",
+      "ko": [],
+      "def_en": "Having a special quality or feature that makes something different from others.",
+      "example": "Today's news uses the word distinctive."
+    },
+    {
+      "id": "w4",
+      "en": "primate",
+      "ko": [],
+      "def_en": "A member of the group of mammals that includes monkeys, apes, and humans.",
+      "example": "Today's news uses the word primate."
+    },
+    {
+      "id": "w5",
+      "en": "vocal",
+      "ko": [],
+      "def_en": "Relating to the voice or speaking.",
+      "example": "Today's news uses the word vocal."
+    },
+    {
+      "id": "w6",
+      "en": "biodiversity",
+      "ko": [],
+      "def_en": "The variety of plant and animal life in a particular habitat.",
+      "example": "Today's news uses the word biodiversity."
+    },
+    {
+      "id": "w7",
+      "en": "documented",
+      "ko": [],
+      "def_en": "Recorded in written or other permanent form.",
+      "example": "Today's news uses the word documented."
+    },
+    {
+      "id": "w8",
+      "en": "conservation",
+      "ko": [],
+      "def_en": "The protection and preservation of the natural environment.",
+      "example": "Today's news uses the word conservation."
+    },
+    {
+      "id": "w9",
+      "en": "endangered",
+      "ko": [],
+      "def_en": "At serious risk of extinction or dying out.",
+      "example": "Today's news uses the word endangered."
+    },
+    {
+      "id": "w10",
+      "en": "population",
+      "ko": [],
+      "def_en": "All the inhabitants of a particular place.",
+      "example": "Today's news uses the word population."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A group of living organisms that share characteristics and can breed with each other. — which word?",
+      "choices": [
+        "conservation",
+        "species",
+        "primate",
+        "biodiversity"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A group of living organisms that share characteristics and can breed with each o"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A dense forest in a tropical region that receives a lot of rain. — which word?",
+      "choices": [
+        "primate",
+        "biodiversity",
+        "rainforest",
+        "distinctive"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A dense forest in a tropical region that receives a lot of rain."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Having a special quality or feature that makes something different from others. — which word?",
+      "choices": [
+        "distinctive",
+        "population",
+        "endangered",
+        "conservation"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Having a special quality or feature that makes something different from others."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A member of the group of mammals that includes monkeys, apes, and humans. — which word?",
+      "choices": [
+        "primate",
+        "endangered",
+        "vocal",
+        "rainforest"
+      ],
+      "answerIndex": 0,
+      "hintKo": "A member of the group of mammals that includes monkeys, apes, and humans."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Relating to the voice or speaking. — which word?",
+      "choices": [
+        "rainforest",
+        "primate",
+        "population",
+        "vocal"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Relating to the voice or speaking."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The variety of plant and animal life in a particular habitat. — which word?",
+      "choices": [
+        "primate",
+        "rainforest",
+        "species",
+        "biodiversity"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The variety of plant and animal life in a particular habitat."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Recorded in written or other permanent form. — which word?",
+      "choices": [
+        "species",
+        "documented",
+        "primate",
+        "distinctive"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Recorded in written or other permanent form."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The protection and preservation of the natural environment. — which word?",
+      "choices": [
+        "primate",
+        "conservation",
+        "distinctive",
+        "documented"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The protection and preservation of the natural environment."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "At serious risk of extinction or dying out. — which word?",
+      "choices": [
+        "distinctive",
+        "vocal",
+        "endangered",
+        "rainforest"
+      ],
+      "answerIndex": 2,
+      "hintKo": "At serious risk of extinction or dying out."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "All the inhabitants of a particular place. — which word?",
+      "choices": [
+        "species",
+        "biodiversity",
+        "population",
+        "conservation"
+      ],
+      "answerIndex": 2,
+      "hintKo": "All the inhabitants of a particular place."
+    }
+  ]
+}

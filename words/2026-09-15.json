@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-15",
+  "date": "2026-09-15",
+  "title": "News Words · 2026-09-15",
+  "headline": "migratory birds decline",
+  "words": [
+    {
+      "id": "w1",
+      "en": "migration",
+      "ko": [],
+      "def_en": "The long journey that animals make each year",
+      "example": "Today's news uses the word migration."
+    },
+    {
+      "id": "w2",
+      "en": "species",
+      "ko": [],
+      "def_en": "A group of living things that can have young together",
+      "example": "Today's news uses the word species."
+    },
+    {
+      "id": "w3",
+      "en": "extinct",
+      "ko": [],
+      "def_en": "No longer existing anywhere on Earth",
+      "example": "Today's news uses the word extinct."
+    },
+    {
+      "id": "w4",
+      "en": "habitat",
+      "ko": [],
+      "def_en": "The natural home of an animal or plant",
+      "example": "Today's news uses the word habitat."
+    },
+    {
+      "id": "w5",
+      "en": "wetland",
+      "ko": [],
+      "def_en": "Land that is often covered with shallow water",
+      "example": "Today's news uses the word wetland."
+    },
+    {
+      "id": "w6",
+      "en": "pollution",
+      "ko": [],
+      "def_en": "Harmful waste that damages air water or land",
+      "example": "Today's news uses the word pollution."
+    },
+    {
+      "id": "w7",
+      "en": "decline",
+      "ko": [],
+      "def_en": "To become smaller or fewer over time",
+      "example": "Today's news uses the word decline."
+    },
+    {
+      "id": "w8",
+      "en": "conservation",
+      "ko": [],
+      "def_en": "Protecting nature so it is not lost",
+      "example": "Today's news uses the word conservation."
+    },
+    {
+      "id": "w9",
+      "en": "sanctuary",
+      "ko": [],
+      "def_en": "A safe protected place for animals",
+      "example": "Today's news uses the word sanctuary."
+    },
+    {
+      "id": "w10",
+      "en": "recovery",
+      "ko": [],
+      "def_en": "A return to a healthy state after harm",
+      "example": "Today's news uses the word recovery."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "The long journey that animals make each year — which word?",
+      "choices": [
+        "pollution",
+        "migration",
+        "habitat",
+        "extinct"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The long journey that animals make each year"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A group of living things that can have young together — which word?",
+      "choices": [
+        "conservation",
+        "species",
+        "decline",
+        "migration"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A group of living things that can have young together"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "No longer existing anywhere on Earth — which word?",
+      "choices": [
+        "species",
+        "conservation",
+        "wetland",
+        "extinct"
+      ],
+      "answerIndex": 3,
+      "hintKo": "No longer existing anywhere on Earth"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The natural home of an animal or plant — which word?",
+      "choices": [
+        "species",
+        "migration",
+        "pollution",
+        "habitat"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The natural home of an animal or plant"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Land that is often covered with shallow water — which word?",
+      "choices": [
+        "recovery",
+        "wetland",
+        "extinct",
+        "conservation"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Land that is often covered with shallow water"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "Harmful waste that damages air water or land — which word?",
+      "choices": [
+        "pollution",
+        "extinct",
+        "recovery",
+        "species"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Harmful waste that damages air water or land"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "To become smaller or fewer over time — which word?",
+      "choices": [
+        "decline",
+        "extinct",
+        "wetland",
+        "sanctuary"
+      ],
+      "answerIndex": 0,
+      "hintKo": "To become smaller or fewer over time"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "Protecting nature so it is not lost — which word?",
+      "choices": [
+        "recovery",
+        "conservation",
+        "habitat",
+        "wetland"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Protecting nature so it is not lost"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A safe protected place for animals — which word?",
+      "choices": [
+        "species",
+        "sanctuary",
+        "habitat",
+        "pollution"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A safe protected place for animals"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A return to a healthy state after harm — which word?",
+      "choices": [
+        "migration",
+        "species",
+        "recovery",
+        "habitat"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A return to a healthy state after harm"
+    }
+  ]
+}

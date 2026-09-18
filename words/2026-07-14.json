@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-14",
+  "date": "2026-07-14",
+  "title": "News Words · 2026-07-14",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "consensus",
+      "ko": [],
+      "def_en": "a general agreement among a group",
+      "example": "Today's news uses the word consensus."
+    },
+    {
+      "id": "w2",
+      "en": "junta",
+      "ko": [],
+      "def_en": "a military government that took power by force",
+      "example": "Today's news uses the word junta."
+    },
+    {
+      "id": "w3",
+      "en": "legitimacy",
+      "ko": [],
+      "def_en": "the quality of being lawful or officially recognized",
+      "example": "Today's news uses the word legitimacy."
+    },
+    {
+      "id": "w4",
+      "en": "diplomatic",
+      "ko": [],
+      "def_en": "relating to relations between countries",
+      "example": "Today's news uses the word diplomatic."
+    },
+    {
+      "id": "w5",
+      "en": "boycott",
+      "ko": [],
+      "def_en": "to refuse to take part in something",
+      "example": "Today's news uses the word boycott."
+    },
+    {
+      "id": "w6",
+      "en": "summit",
+      "ko": [],
+      "def_en": "a high-level meeting between leaders",
+      "example": "Today's news uses the word summit."
+    },
+    {
+      "id": "w7",
+      "en": "sanction",
+      "ko": [],
+      "def_en": "an official punishment or restriction",
+      "example": "Today's news uses the word sanction."
+    },
+    {
+      "id": "w8",
+      "en": "detention",
+      "ko": [],
+      "def_en": "the state of being held in custody",
+      "example": "Today's news uses the word detention."
+    },
+    {
+      "id": "w9",
+      "en": "ceasefire",
+      "ko": [],
+      "def_en": "an agreement to stop fighting",
+      "example": "Today's news uses the word ceasefire."
+    },
+    {
+      "id": "w10",
+      "en": "regime",
+      "ko": [],
+      "def_en": "a government or system of rule",
+      "example": "Today's news uses the word regime."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "a general agreement among a group — which word?",
+      "choices": [
+        "junta",
+        "boycott",
+        "consensus",
+        "sanction"
+      ],
+      "answerIndex": 2,
+      "hintKo": "a general agreement among a group"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "a military government that took power by force — which word?",
+      "choices": [
+        "ceasefire",
+        "boycott",
+        "legitimacy",
+        "junta"
+      ],
+      "answerIndex": 3,
+      "hintKo": "a military government that took power by force"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "the quality of being lawful or officially recognized — which word?",
+      "choices": [
+        "detention",
+        "legitimacy",
+        "junta",
+        "ceasefire"
+      ],
+      "answerIndex": 1,
+      "hintKo": "the quality of being lawful or officially recognized"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "relating to relations between countries — which word?",
+      "choices": [
+        "diplomatic",
+        "legitimacy",
+        "sanction",
+        "summit"
+      ],
+      "answerIndex": 0,
+      "hintKo": "relating to relations between countries"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "to refuse to take part in something — which word?",
+      "choices": [
+        "legitimacy",
+        "boycott",
+        "summit",
+        "regime"
+      ],
+      "answerIndex": 1,
+      "hintKo": "to refuse to take part in something"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "a high-level meeting between leaders — which word?",
+      "choices": [
+        "junta",
+        "summit",
+        "ceasefire",
+        "detention"
+      ],
+      "answerIndex": 1,
+      "hintKo": "a high-level meeting between leaders"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "an official punishment or restriction — which word?",
+      "choices": [
+        "sanction",
+        "consensus",
+        "junta",
+        "ceasefire"
+      ],
+      "answerIndex": 0,
+      "hintKo": "an official punishment or restriction"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "the state of being held in custody — which word?",
+      "choices": [
+        "legitimacy",
+        "detention",
+        "consensus",
+        "regime"
+      ],
+      "answerIndex": 1,
+      "hintKo": "the state of being held in custody"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "an agreement to stop fighting — which word?",
+      "choices": [
+        "diplomatic",
+        "ceasefire",
+        "legitimacy",
+        "junta"
+      ],
+      "answerIndex": 1,
+      "hintKo": "an agreement to stop fighting"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "a government or system of rule — which word?",
+      "choices": [
+        "consensus",
+        "junta",
+        "regime",
+        "boycott"
+      ],
+      "answerIndex": 2,
+      "hintKo": "a government or system of rule"
+    }
+  ]
+}

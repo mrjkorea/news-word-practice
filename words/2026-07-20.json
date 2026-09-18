@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-20",
+  "date": "2026-07-20",
+  "title": "News Words · 2026-07-20",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "proposal",
+      "ko": [],
+      "def_en": "A formal plan or suggestion put forward for consideration or discussion.",
+      "example": "Today's news uses the word proposal."
+    },
+    {
+      "id": "w2",
+      "en": "commercial",
+      "ko": [],
+      "def_en": "Related to or engaged in commerce; intended to make a profit.",
+      "example": "Today's news uses the word commercial."
+    },
+    {
+      "id": "w3",
+      "en": "collaboration",
+      "ko": [],
+      "def_en": "The action of working with someone to produce or create something.",
+      "example": "Today's news uses the word collaboration."
+    },
+    {
+      "id": "w4",
+      "en": "navigation",
+      "ko": [],
+      "def_en": "The process or activity of accurately finding one's way and planning routes.",
+      "example": "Today's news uses the word navigation."
+    },
+    {
+      "id": "w5",
+      "en": "modular",
+      "ko": [],
+      "def_en": "Constructed using standardized units or sections for easy assembly and flexible arrangement.",
+      "example": "Today's news uses the word modular."
+    },
+    {
+      "id": "w6",
+      "en": "abrasive",
+      "ko": [],
+      "def_en": "A substance or material capable of polishing, grinding, or wearing away a surface by friction.",
+      "example": "Today's news uses the word abrasive."
+    },
+    {
+      "id": "w7",
+      "en": "orbital",
+      "ko": [],
+      "def_en": "Relating to an orbit or the path of an object moving around a planet, moon, or star.",
+      "example": "Today's news uses the word orbital."
+    },
+    {
+      "id": "w8",
+      "en": "payload",
+      "ko": [],
+      "def_en": "The part of a vehicle load, especially a spacecraft or missile, that is carried for a specific purpose.",
+      "example": "Today's news uses the word payload."
+    },
+    {
+      "id": "w9",
+      "en": "partnership",
+      "ko": [],
+      "def_en": "An arrangement where two or more parties agree to cooperate to advance their mutual interests.",
+      "example": "Today's news uses the word partnership."
+    },
+    {
+      "id": "w10",
+      "en": "mature",
+      "ko": [],
+      "def_en": "Fully developed physically or mentally; having reached an advanced stage of development.",
+      "example": "Today's news uses the word mature."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A formal plan or suggestion put forward for consideration or discussion. — which word?",
+      "choices": [
+        "commercial",
+        "proposal",
+        "modular",
+        "orbital"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A formal plan or suggestion put forward for consideration or discussion."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "Related to or engaged in commerce; intended to make a profit. — which word?",
+      "choices": [
+        "commercial",
+        "orbital",
+        "proposal",
+        "collaboration"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Related to or engaged in commerce; intended to make a profit."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "The action of working with someone to produce or create something. — which word?",
+      "choices": [
+        "collaboration",
+        "mature",
+        "abrasive",
+        "proposal"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The action of working with someone to produce or create something."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The process or activity of accurately finding one's way and planning routes. — which word?",
+      "choices": [
+        "navigation",
+        "proposal",
+        "abrasive",
+        "collaboration"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The process or activity of accurately finding one's way and planning routes."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "Constructed using standardized units or sections for easy assembly and flexible arrangement. — which word?",
+      "choices": [
+        "collaboration",
+        "abrasive",
+        "mature",
+        "modular"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Constructed using standardized units or sections for easy assembly and flexible "
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A substance or material capable of polishing, grinding, or wearing away a surface by friction. — which word?",
+      "choices": [
+        "collaboration",
+        "abrasive",
+        "mature",
+        "partnership"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A substance or material capable of polishing, grinding, or wearing away a surfac"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Relating to an orbit or the path of an object moving around a planet, moon, or star. — which word?",
+      "choices": [
+        "navigation",
+        "orbital",
+        "commercial",
+        "payload"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Relating to an orbit or the path of an object moving around a planet, moon, or s"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The part of a vehicle load, especially a spacecraft or missile, that is carried for a specific purpose. — which word?",
+      "choices": [
+        "modular",
+        "commercial",
+        "proposal",
+        "payload"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The part of a vehicle load, especially a spacecraft or missile, that is carried "
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "An arrangement where two or more parties agree to cooperate to advance their mutual interests. — which word?",
+      "choices": [
+        "commercial",
+        "abrasive",
+        "partnership",
+        "mature"
+      ],
+      "answerIndex": 2,
+      "hintKo": "An arrangement where two or more parties agree to cooperate to advance their mut"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Fully developed physically or mentally; having reached an advanced stage of development. — which word?",
+      "choices": [
+        "commercial",
+        "mature",
+        "payload",
+        "collaboration"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Fully developed physically or mentally; having reached an advanced stage of deve"
+    }
+  ]
+}

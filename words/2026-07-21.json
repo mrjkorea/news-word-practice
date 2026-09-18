@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-21",
+  "date": "2026-07-21",
+  "title": "News Words · 2026-07-21",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "phenomenon",
+      "ko": [],
+      "def_en": "An observable fact or event that can be studied scientifically.",
+      "example": "Today's news uses the word phenomenon."
+    },
+    {
+      "id": "w2",
+      "en": "optical",
+      "ko": [],
+      "def_en": "Relating to sight or light.",
+      "example": "Today's news uses the word optical."
+    },
+    {
+      "id": "w3",
+      "en": "swirl",
+      "ko": [],
+      "def_en": "To move in a twisting or spiraling pattern.",
+      "example": "Today's news uses the word swirl."
+    },
+    {
+      "id": "w4",
+      "en": "particle",
+      "ko": [],
+      "def_en": "A tiny piece of matter.",
+      "example": "Today's news uses the word particle."
+    },
+    {
+      "id": "w5",
+      "en": "diffraction",
+      "ko": [],
+      "def_en": "The bending of waves around obstacles or through small openings.",
+      "example": "Today's news uses the word diffraction."
+    },
+    {
+      "id": "w6",
+      "en": "polarization",
+      "ko": [],
+      "def_en": "The direction in which light waves vibrate as they travel.",
+      "example": "Today's news uses the word polarization."
+    },
+    {
+      "id": "w7",
+      "en": "photon",
+      "ko": [],
+      "def_en": "A single particle of light.",
+      "example": "Today's news uses the word photon."
+    },
+    {
+      "id": "w8",
+      "en": "simulate",
+      "ko": [],
+      "def_en": "To imitate or reproduce the conditions of a situation.",
+      "example": "Today's news uses the word simulate."
+    },
+    {
+      "id": "w9",
+      "en": "barrier",
+      "ko": [],
+      "def_en": "An obstacle that prevents progress or access.",
+      "example": "Today's news uses the word barrier."
+    },
+    {
+      "id": "w10",
+      "en": "computing",
+      "ko": [],
+      "def_en": "The use or operation of computers to process data.",
+      "example": "Today's news uses the word computing."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "An observable fact or event that can be studied scientifically. — which word?",
+      "choices": [
+        "optical",
+        "phenomenon",
+        "photon",
+        "barrier"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An observable fact or event that can be studied scientifically."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "Relating to sight or light. — which word?",
+      "choices": [
+        "photon",
+        "computing",
+        "optical",
+        "simulate"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Relating to sight or light."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "To move in a twisting or spiraling pattern. — which word?",
+      "choices": [
+        "particle",
+        "computing",
+        "diffraction",
+        "swirl"
+      ],
+      "answerIndex": 3,
+      "hintKo": "To move in a twisting or spiraling pattern."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A tiny piece of matter. — which word?",
+      "choices": [
+        "optical",
+        "particle",
+        "polarization",
+        "barrier"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A tiny piece of matter."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The bending of waves around obstacles or through small openings. — which word?",
+      "choices": [
+        "swirl",
+        "polarization",
+        "photon",
+        "diffraction"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The bending of waves around obstacles or through small openings."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The direction in which light waves vibrate as they travel. — which word?",
+      "choices": [
+        "polarization",
+        "optical",
+        "photon",
+        "diffraction"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The direction in which light waves vibrate as they travel."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A single particle of light. — which word?",
+      "choices": [
+        "swirl",
+        "photon",
+        "polarization",
+        "simulate"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A single particle of light."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "To imitate or reproduce the conditions of a situation. — which word?",
+      "choices": [
+        "barrier",
+        "polarization",
+        "simulate",
+        "computing"
+      ],
+      "answerIndex": 2,
+      "hintKo": "To imitate or reproduce the conditions of a situation."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "An obstacle that prevents progress or access. — which word?",
+      "choices": [
+        "particle",
+        "barrier",
+        "simulate",
+        "computing"
+      ],
+      "answerIndex": 1,
+      "hintKo": "An obstacle that prevents progress or access."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "The use or operation of computers to process data. — which word?",
+      "choices": [
+        "computing",
+        "phenomenon",
+        "optical",
+        "simulate"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The use or operation of computers to process data."
+    }
+  ]
+}

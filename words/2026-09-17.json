@@ -1,0 +1,210 @@
+{
+  "id": "2026-09-17",
+  "date": "2026-09-17",
+  "title": "News Words · 2026-09-17",
+  "headline": "ultimate athletics budapest",
+  "words": [
+    {
+      "id": "w1",
+      "en": "championship",
+      "ko": [],
+      "def_en": "An important competition to find the best competitor",
+      "example": "Today's news uses the word championship."
+    },
+    {
+      "id": "w2",
+      "en": "athletics",
+      "ko": [],
+      "def_en": "The sports of running jumping and throwing",
+      "example": "Today's news uses the word athletics."
+    },
+    {
+      "id": "w3",
+      "en": "hurdles",
+      "ko": [],
+      "def_en": "Races in which runners jump over barriers",
+      "example": "Today's news uses the word hurdles."
+    },
+    {
+      "id": "w4",
+      "en": "vault",
+      "ko": [],
+      "def_en": "The act of jumping over something using a pole or your hands",
+      "example": "Today's news uses the word vault."
+    },
+    {
+      "id": "w5",
+      "en": "sprint",
+      "ko": [],
+      "def_en": "A short race run at top speed",
+      "example": "Today's news uses the word sprint."
+    },
+    {
+      "id": "w6",
+      "en": "medal",
+      "ko": [],
+      "def_en": "A metal award given to top competitors",
+      "example": "Today's news uses the word medal."
+    },
+    {
+      "id": "w7",
+      "en": "prize",
+      "ko": [],
+      "def_en": "Something valuable given to a winner",
+      "example": "Today's news uses the word prize."
+    },
+    {
+      "id": "w8",
+      "en": "record",
+      "ko": [],
+      "def_en": "The best result ever achieved in a sport",
+      "example": "Today's news uses the word record."
+    },
+    {
+      "id": "w9",
+      "en": "injury",
+      "ko": [],
+      "def_en": "Physical harm to the body",
+      "example": "Today's news uses the word injury."
+    },
+    {
+      "id": "w10",
+      "en": "stadium",
+      "ko": [],
+      "def_en": "A large sports ground with seats for spectators",
+      "example": "Today's news uses the word stadium."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "An important competition to find the best competitor — which word?",
+      "choices": [
+        "injury",
+        "record",
+        "championship",
+        "athletics"
+      ],
+      "answerIndex": 2,
+      "hintKo": "An important competition to find the best competitor"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "The sports of running jumping and throwing — which word?",
+      "choices": [
+        "prize",
+        "athletics",
+        "sprint",
+        "vault"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The sports of running jumping and throwing"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "Races in which runners jump over barriers — which word?",
+      "choices": [
+        "injury",
+        "vault",
+        "record",
+        "hurdles"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Races in which runners jump over barriers"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The act of jumping over something using a pole or your hands — which word?",
+      "choices": [
+        "stadium",
+        "vault",
+        "prize",
+        "hurdles"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The act of jumping over something using a pole or your hands"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A short race run at top speed — which word?",
+      "choices": [
+        "hurdles",
+        "stadium",
+        "medal",
+        "sprint"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A short race run at top speed"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "A metal award given to top competitors — which word?",
+      "choices": [
+        "stadium",
+        "medal",
+        "sprint",
+        "athletics"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A metal award given to top competitors"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Something valuable given to a winner — which word?",
+      "choices": [
+        "prize",
+        "vault",
+        "athletics",
+        "championship"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Something valuable given to a winner"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The best result ever achieved in a sport — which word?",
+      "choices": [
+        "championship",
+        "athletics",
+        "sprint",
+        "record"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The best result ever achieved in a sport"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "Physical harm to the body — which word?",
+      "choices": [
+        "injury",
+        "championship",
+        "hurdles",
+        "sprint"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Physical harm to the body"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A large sports ground with seats for spectators — which word?",
+      "choices": [
+        "injury",
+        "medal",
+        "prize",
+        "stadium"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A large sports ground with seats for spectators"
+    }
+  ]
+}

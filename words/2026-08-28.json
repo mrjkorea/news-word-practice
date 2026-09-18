@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-28",
+  "date": "2026-08-28",
+  "title": "News Words · 2026-08-28",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "narwhal",
+      "ko": [],
+      "def_en": "A medium whale of the Arctic with a long spiral tusk",
+      "example": "Today's news uses the word narwhal."
+    },
+    {
+      "id": "w2",
+      "en": "tusk",
+      "ko": [],
+      "def_en": "A long pointed tooth that grows outside the mouth of some animals",
+      "example": "Today's news uses the word tusk."
+    },
+    {
+      "id": "w3",
+      "en": "unicorn",
+      "ko": [],
+      "def_en": "A mythical horse with a single horn on its forehead",
+      "example": "Today's news uses the word unicorn."
+    },
+    {
+      "id": "w4",
+      "en": "dentine",
+      "ko": [],
+      "def_en": "The hard inner tissue of a tooth below the enamel",
+      "example": "Today's news uses the word dentine."
+    },
+    {
+      "id": "w5",
+      "en": "cementum",
+      "ko": [],
+      "def_en": "The outer dental tissue that covers the root of a tooth",
+      "example": "Today's news uses the word cementum."
+    },
+    {
+      "id": "w6",
+      "en": "imaging",
+      "ko": [],
+      "def_en": "The process of making pictures of the inside of something",
+      "example": "Today's news uses the word imaging."
+    },
+    {
+      "id": "w7",
+      "en": "canine",
+      "ko": [],
+      "def_en": "A long pointed tooth used for holding or tearing food",
+      "example": "Today's news uses the word canine."
+    },
+    {
+      "id": "w8",
+      "en": "arctic",
+      "ko": [],
+      "def_en": "The very cold northern region around the North Pole",
+      "example": "Today's news uses the word arctic."
+    },
+    {
+      "id": "w9",
+      "en": "hierarchy",
+      "ko": [],
+      "def_en": "A system that ranks people or animals by importance or power",
+      "example": "Today's news uses the word hierarchy."
+    },
+    {
+      "id": "w10",
+      "en": "whale",
+      "ko": [],
+      "def_en": "A very large sea animal that breathes air and feeds its young milk",
+      "example": "Today's news uses the word whale."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A medium whale of the Arctic with a long spiral tusk — which word?",
+      "choices": [
+        "dentine",
+        "narwhal",
+        "canine",
+        "tusk"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A medium whale of the Arctic with a long spiral tusk"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A long pointed tooth that grows outside the mouth of some animals — which word?",
+      "choices": [
+        "imaging",
+        "tusk",
+        "unicorn",
+        "whale"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A long pointed tooth that grows outside the mouth of some animals"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A mythical horse with a single horn on its forehead — which word?",
+      "choices": [
+        "hierarchy",
+        "whale",
+        "unicorn",
+        "dentine"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A mythical horse with a single horn on its forehead"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "The hard inner tissue of a tooth below the enamel — which word?",
+      "choices": [
+        "whale",
+        "arctic",
+        "dentine",
+        "canine"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The hard inner tissue of a tooth below the enamel"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The outer dental tissue that covers the root of a tooth — which word?",
+      "choices": [
+        "imaging",
+        "canine",
+        "whale",
+        "cementum"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The outer dental tissue that covers the root of a tooth"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The process of making pictures of the inside of something — which word?",
+      "choices": [
+        "dentine",
+        "tusk",
+        "imaging",
+        "narwhal"
+      ],
+      "answerIndex": 2,
+      "hintKo": "The process of making pictures of the inside of something"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "A long pointed tooth used for holding or tearing food — which word?",
+      "choices": [
+        "whale",
+        "arctic",
+        "unicorn",
+        "canine"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A long pointed tooth used for holding or tearing food"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The very cold northern region around the North Pole — which word?",
+      "choices": [
+        "arctic",
+        "imaging",
+        "unicorn",
+        "cementum"
+      ],
+      "answerIndex": 0,
+      "hintKo": "The very cold northern region around the North Pole"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A system that ranks people or animals by importance or power — which word?",
+      "choices": [
+        "dentine",
+        "hierarchy",
+        "narwhal",
+        "whale"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A system that ranks people or animals by importance or power"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A very large sea animal that breathes air and feeds its young milk — which word?",
+      "choices": [
+        "canine",
+        "hierarchy",
+        "arctic",
+        "whale"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A very large sea animal that breathes air and feeds its young milk"
+    }
+  ]
+}

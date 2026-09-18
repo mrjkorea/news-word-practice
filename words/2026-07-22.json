@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-22",
+  "date": "2026-07-22",
+  "title": "News Words · 2026-07-22",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "drought",
+      "ko": [],
+      "def_en": "A long period with little or no rain.",
+      "example": "Today's news uses the word drought."
+    },
+    {
+      "id": "w2",
+      "en": "spread",
+      "ko": [],
+      "def_en": "To extend over a larger area.",
+      "example": "Today's news uses the word spread."
+    },
+    {
+      "id": "w3",
+      "en": "ocean",
+      "ko": [],
+      "def_en": "A very large body of salt water.",
+      "example": "Today's news uses the word ocean."
+    },
+    {
+      "id": "w4",
+      "en": "temperature",
+      "ko": [],
+      "def_en": "A measurement of how hot or cold something is.",
+      "example": "Today's news uses the word temperature."
+    },
+    {
+      "id": "w5",
+      "en": "pattern",
+      "ko": [],
+      "def_en": "A regular or repeated arrangement or behavior.",
+      "example": "Today's news uses the word pattern."
+    },
+    {
+      "id": "w6",
+      "en": "suppress",
+      "ko": [],
+      "def_en": "To stop or limit something from developing.",
+      "example": "Today's news uses the word suppress."
+    },
+    {
+      "id": "w7",
+      "en": "amplify",
+      "ko": [],
+      "def_en": "To make something stronger or greater.",
+      "example": "Today's news uses the word amplify."
+    },
+    {
+      "id": "w8",
+      "en": "hemisphere",
+      "ko": [],
+      "def_en": "One half of Earth.",
+      "example": "Today's news uses the word hemisphere."
+    },
+    {
+      "id": "w9",
+      "en": "boundary",
+      "ko": [],
+      "def_en": "A line or limit separating areas.",
+      "example": "Today's news uses the word boundary."
+    },
+    {
+      "id": "w10",
+      "en": "forecast",
+      "ko": [],
+      "def_en": "A statement about what is expected to happen.",
+      "example": "Today's news uses the word forecast."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "A long period with little or no rain. — which word?",
+      "choices": [
+        "hemisphere",
+        "spread",
+        "drought",
+        "suppress"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A long period with little or no rain."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "To extend over a larger area. — which word?",
+      "choices": [
+        "forecast",
+        "hemisphere",
+        "pattern",
+        "spread"
+      ],
+      "answerIndex": 3,
+      "hintKo": "To extend over a larger area."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A very large body of salt water. — which word?",
+      "choices": [
+        "amplify",
+        "drought",
+        "ocean",
+        "suppress"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A very large body of salt water."
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "A measurement of how hot or cold something is. — which word?",
+      "choices": [
+        "suppress",
+        "spread",
+        "temperature",
+        "drought"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A measurement of how hot or cold something is."
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "A regular or repeated arrangement or behavior. — which word?",
+      "choices": [
+        "hemisphere",
+        "boundary",
+        "drought",
+        "pattern"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A regular or repeated arrangement or behavior."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "To stop or limit something from developing. — which word?",
+      "choices": [
+        "drought",
+        "suppress",
+        "forecast",
+        "pattern"
+      ],
+      "answerIndex": 1,
+      "hintKo": "To stop or limit something from developing."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "To make something stronger or greater. — which word?",
+      "choices": [
+        "boundary",
+        "forecast",
+        "amplify",
+        "suppress"
+      ],
+      "answerIndex": 2,
+      "hintKo": "To make something stronger or greater."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "One half of Earth. — which word?",
+      "choices": [
+        "amplify",
+        "hemisphere",
+        "ocean",
+        "temperature"
+      ],
+      "answerIndex": 1,
+      "hintKo": "One half of Earth."
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A line or limit separating areas. — which word?",
+      "choices": [
+        "amplify",
+        "ocean",
+        "spread",
+        "boundary"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A line or limit separating areas."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "A statement about what is expected to happen. — which word?",
+      "choices": [
+        "drought",
+        "spread",
+        "amplify",
+        "forecast"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A statement about what is expected to happen."
+    }
+  ]
+}

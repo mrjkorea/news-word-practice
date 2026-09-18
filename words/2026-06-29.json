@@ -1,0 +1,210 @@
+{
+  "id": "2026-06-29",
+  "date": "2026-06-29",
+  "title": "News Words · 2026-06-29",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "microbial",
+      "ko": [],
+      "def_en": "relating to or caused by very small living things (microbes)",
+      "example": "Today's news uses the word microbial."
+    },
+    {
+      "id": "w2",
+      "en": "organic",
+      "ko": [],
+      "def_en": "coming from living matter; containing carbon compounds",
+      "example": "Today's news uses the word organic."
+    },
+    {
+      "id": "w3",
+      "en": "carbon",
+      "ko": [],
+      "def_en": "a chemical element found in all living things and organic compounds",
+      "example": "Today's news uses the word carbon."
+    },
+    {
+      "id": "w4",
+      "en": "molecule",
+      "ko": [],
+      "def_en": "the smallest unit of a chemical compound made of two or more atoms",
+      "example": "Today's news uses the word molecule."
+    },
+    {
+      "id": "w5",
+      "en": "biosignature",
+      "ko": [],
+      "def_en": "a chemical or physical marker that indicates past or present life",
+      "example": "Today's news uses the word biosignature."
+    },
+    {
+      "id": "w6",
+      "en": "canyon",
+      "ko": [],
+      "def_en": "a deep valley with steep sides carved by a river or water",
+      "example": "Today's news uses the word canyon."
+    },
+    {
+      "id": "w7",
+      "en": "sediment",
+      "ko": [],
+      "def_en": "small particles of rock and soil that settle at the bottom of liquid",
+      "example": "Today's news uses the word sediment."
+    },
+    {
+      "id": "w8",
+      "en": "delta",
+      "ko": [],
+      "def_en": "a fan-shaped area where a river splits before reaching the sea",
+      "example": "Today's news uses the word delta."
+    },
+    {
+      "id": "w9",
+      "en": "habitable",
+      "ko": [],
+      "def_en": "suitable or good enough to live in",
+      "example": "Today's news uses the word habitable."
+    },
+    {
+      "id": "w10",
+      "en": "fossilized",
+      "ko": [],
+      "def_en": "preserved and turned into stone over millions of years",
+      "example": "Today's news uses the word fossilized."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "relating to or caused by very small living things (microbes) — which word?",
+      "choices": [
+        "microbial",
+        "molecule",
+        "habitable",
+        "fossilized"
+      ],
+      "answerIndex": 0,
+      "hintKo": "relating to or caused by very small living things (microbes)"
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "coming from living matter; containing carbon compounds — which word?",
+      "choices": [
+        "fossilized",
+        "organic",
+        "carbon",
+        "canyon"
+      ],
+      "answerIndex": 1,
+      "hintKo": "coming from living matter; containing carbon compounds"
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "a chemical element found in all living things and organic compounds — which word?",
+      "choices": [
+        "habitable",
+        "carbon",
+        "biosignature",
+        "delta"
+      ],
+      "answerIndex": 1,
+      "hintKo": "a chemical element found in all living things and organic compounds"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "the smallest unit of a chemical compound made of two or more atoms — which word?",
+      "choices": [
+        "microbial",
+        "molecule",
+        "carbon",
+        "delta"
+      ],
+      "answerIndex": 1,
+      "hintKo": "the smallest unit of a chemical compound made of two or more atoms"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "a chemical or physical marker that indicates past or present life — which word?",
+      "choices": [
+        "delta",
+        "organic",
+        "biosignature",
+        "habitable"
+      ],
+      "answerIndex": 2,
+      "hintKo": "a chemical or physical marker that indicates past or present life"
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "a deep valley with steep sides carved by a river or water — which word?",
+      "choices": [
+        "sediment",
+        "molecule",
+        "canyon",
+        "microbial"
+      ],
+      "answerIndex": 2,
+      "hintKo": "a deep valley with steep sides carved by a river or water"
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "small particles of rock and soil that settle at the bottom of liquid — which word?",
+      "choices": [
+        "fossilized",
+        "sediment",
+        "delta",
+        "habitable"
+      ],
+      "answerIndex": 1,
+      "hintKo": "small particles of rock and soil that settle at the bottom of liquid"
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "a fan-shaped area where a river splits before reaching the sea — which word?",
+      "choices": [
+        "canyon",
+        "delta",
+        "biosignature",
+        "carbon"
+      ],
+      "answerIndex": 1,
+      "hintKo": "a fan-shaped area where a river splits before reaching the sea"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "suitable or good enough to live in — which word?",
+      "choices": [
+        "carbon",
+        "biosignature",
+        "habitable",
+        "microbial"
+      ],
+      "answerIndex": 2,
+      "hintKo": "suitable or good enough to live in"
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "preserved and turned into stone over millions of years — which word?",
+      "choices": [
+        "carbon",
+        "fossilized",
+        "microbial",
+        "delta"
+      ],
+      "answerIndex": 1,
+      "hintKo": "preserved and turned into stone over millions of years"
+    }
+  ]
+}

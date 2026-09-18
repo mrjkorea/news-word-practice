@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-05",
+  "date": "2026-08-05",
+  "title": "News Words · 2026-08-05",
+  "headline": "",
+  "words": [
+    {
+      "id": "w1",
+      "en": "quantum",
+      "ko": [],
+      "def_en": "Relating to the smallest possible units of energy and matter in physics.",
+      "example": "Today's news uses the word quantum."
+    },
+    {
+      "id": "w2",
+      "en": "photon",
+      "ko": [],
+      "def_en": "A tiny particle of light energy.",
+      "example": "Today's news uses the word photon."
+    },
+    {
+      "id": "w3",
+      "en": "fiber",
+      "ko": [],
+      "def_en": "A thin thread-like material especially a glass thread that carries light signals.",
+      "example": "Today's news uses the word fiber."
+    },
+    {
+      "id": "w4",
+      "en": "entangled",
+      "ko": [],
+      "def_en": "Connected in a way that the state of one particle affects another even at a distance.",
+      "example": "Today's news uses the word entangled."
+    },
+    {
+      "id": "w5",
+      "en": "fidelity",
+      "ko": [],
+      "def_en": "The degree of exactness with which something is copied or transmitted.",
+      "example": "Today's news uses the word fidelity."
+    },
+    {
+      "id": "w6",
+      "en": "wavelength",
+      "ko": [],
+      "def_en": "The distance between two peaks of a wave such as a light or sound wave.",
+      "example": "Today's news uses the word wavelength."
+    },
+    {
+      "id": "w7",
+      "en": "interference",
+      "ko": [],
+      "def_en": "Disruption that disturbs a signal or process.",
+      "example": "Today's news uses the word interference."
+    },
+    {
+      "id": "w8",
+      "en": "teleportation",
+      "ko": [],
+      "def_en": "The theoretical transfer of matter or information from one place to another instantly.",
+      "example": "Today's news uses the word teleportation."
+    },
+    {
+      "id": "w9",
+      "en": "network",
+      "ko": [],
+      "def_en": "A group of computers or devices connected to share information.",
+      "example": "Today's news uses the word network."
+    },
+    {
+      "id": "w10",
+      "en": "metropolitan",
+      "ko": [],
+      "def_en": "Relating to a large city and its surrounding area.",
+      "example": "Today's news uses the word metropolitan."
+    }
+  ],
+  "test": [
+    {
+      "id": 1,
+      "type": "MC",
+      "prompt": "Relating to the smallest possible units of energy and matter in physics. — which word?",
+      "choices": [
+        "quantum",
+        "metropolitan",
+        "fidelity",
+        "photon"
+      ],
+      "answerIndex": 0,
+      "hintKo": "Relating to the smallest possible units of energy and matter in physics."
+    },
+    {
+      "id": 2,
+      "type": "MC",
+      "prompt": "A tiny particle of light energy. — which word?",
+      "choices": [
+        "teleportation",
+        "photon",
+        "network",
+        "wavelength"
+      ],
+      "answerIndex": 1,
+      "hintKo": "A tiny particle of light energy."
+    },
+    {
+      "id": 3,
+      "type": "MC",
+      "prompt": "A thin thread-like material especially a glass thread that carries light signals. — which word?",
+      "choices": [
+        "wavelength",
+        "metropolitan",
+        "fiber",
+        "network"
+      ],
+      "answerIndex": 2,
+      "hintKo": "A thin thread-like material especially a glass thread that carries light signals"
+    },
+    {
+      "id": 4,
+      "type": "MC",
+      "prompt": "Connected in a way that the state of one particle affects another even at a distance. — which word?",
+      "choices": [
+        "photon",
+        "wavelength",
+        "network",
+        "entangled"
+      ],
+      "answerIndex": 3,
+      "hintKo": "Connected in a way that the state of one particle affects another even at a dist"
+    },
+    {
+      "id": 5,
+      "type": "MC",
+      "prompt": "The degree of exactness with which something is copied or transmitted. — which word?",
+      "choices": [
+        "quantum",
+        "fidelity",
+        "teleportation",
+        "network"
+      ],
+      "answerIndex": 1,
+      "hintKo": "The degree of exactness with which something is copied or transmitted."
+    },
+    {
+      "id": 6,
+      "type": "MC",
+      "prompt": "The distance between two peaks of a wave such as a light or sound wave. — which word?",
+      "choices": [
+        "fidelity",
+        "teleportation",
+        "fiber",
+        "wavelength"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The distance between two peaks of a wave such as a light or sound wave."
+    },
+    {
+      "id": 7,
+      "type": "MC",
+      "prompt": "Disruption that disturbs a signal or process. — which word?",
+      "choices": [
+        "teleportation",
+        "quantum",
+        "interference",
+        "photon"
+      ],
+      "answerIndex": 2,
+      "hintKo": "Disruption that disturbs a signal or process."
+    },
+    {
+      "id": 8,
+      "type": "MC",
+      "prompt": "The theoretical transfer of matter or information from one place to another instantly. — which word?",
+      "choices": [
+        "fiber",
+        "interference",
+        "wavelength",
+        "teleportation"
+      ],
+      "answerIndex": 3,
+      "hintKo": "The theoretical transfer of matter or information from one place to another inst"
+    },
+    {
+      "id": 9,
+      "type": "MC",
+      "prompt": "A group of computers or devices connected to share information. — which word?",
+      "choices": [
+        "wavelength",
+        "entangled",
+        "fiber",
+        "network"
+      ],
+      "answerIndex": 3,
+      "hintKo": "A group of computers or devices connected to share information."
+    },
+    {
+      "id": 10,
+      "type": "MC",
+      "prompt": "Relating to a large city and its surrounding area. — which word?",
+      "choices": [
+        "entangled",
+        "metropolitan",
+        "teleportation",
+        "fiber"
+      ],
+      "answerIndex": 1,
+      "hintKo": "Relating to a large city and its surrounding area."
+    }
+  ]
+}
