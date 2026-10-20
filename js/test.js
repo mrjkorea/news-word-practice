@@ -64,7 +64,7 @@
       <div class="sub">${Math.round((correct / total) * 100)}% · ${stats.attempts}번째 시도</div>
     </div>`;
     if (stats.bestScore != null && stats.bestScore !== correct) {
-      html += `<p class="meta">이 날짜 최고 점수: ${stats.bestScore}/${total}</p>`;
+      html += `<p class="meta">이 날짜 최고 점수: ${stats.bestScore}/${total} (${total ? Math.round((stats.bestScore / total) * 100) : 0}%)</p>`;
     }
     if (!NWPStorage.canStoreForDate(date)) {
       html += '<p class="meta">오늘 날짜 세트가 아니면 점수는 저장되지 않습니다.</p>';

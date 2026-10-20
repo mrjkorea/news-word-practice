@@ -72,7 +72,7 @@
       : 0;
     let line = `최근 ${stats.lastScore}/${total} (${pct}%) · ${stats.attempts}회`;
     if (stats.bestScore != null && stats.bestScore !== stats.lastScore) {
-      line += ` · 최고 ${stats.bestScore}/${total}`;
+      line += ` · 최고 ${stats.bestScore}/${total} (${total ? Math.round((stats.bestScore / total) * 100) : 0}%)`;
     }
     return line;
   }
